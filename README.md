@@ -63,8 +63,6 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Comparison Side by Side](https://endjin.com/blog/2023/05/azure-synapse-analytics-versus-microsoft-fabric-a-side-by-side-comparison) Compare Synapse Side by Side
 
 
-
-
 ## Data Integration
 
 *Integrate to all your sources and destinations*
@@ -124,6 +122,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Microsoft 365
 
 *Microsoft Larger Ecosystem*
+* [Microsoft 365 Data and Fabric](https://blog.fabric.microsoft.com/en-us/blog/microsoft-365-data-microsoft-fabric-better-together/) Better Together
 
 ## Videos
 
@@ -142,6 +141,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Real-Time Analytics](https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/) Analyze real-time data
 * [Data Science](https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/) Get started with data science in Microsoft Fabric
 * [Administer](https://learn.microsoft.com/en-us/training/modules/administer-fabric/) Administration, Security and Govern data in Microsoft Fabric
+* [Medallion Architecture](https://learn.microsoft.com/en-us/training/modules/describe-medallion-architecture/) Design Fabric Medallion Architecture with Bronze, Silver and Gold layers of Lakehouse
+* [DataFlow Gen2](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/) Ingest with Dataflows in Microsoft Fabric
+* [Data Analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/) Explore the fundamentals of data analysis, Gain Insights and Multi-Table Queries
+* 
 
 
   
