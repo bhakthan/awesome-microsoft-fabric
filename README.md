@@ -4,7 +4,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 - [Awesome Microsoft Fabric](#awesome-microsoft-fabric)
     - [Overview](#overview)
     - [Blogs](#blogs)
-    - [Community](#community]
+    - [Community](#community)
     - [Architecture](#architecture)
     - [Administration](#administration)
     - [Next Generation Synapse Analytics](#synapse-analytics)
