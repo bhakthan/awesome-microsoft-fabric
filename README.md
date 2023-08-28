@@ -88,7 +88,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 ## Data Science
 
-*Next generation data science to train, deploy and manage machine learning models"
+*Next generation data science to train, deploy and manage machine learning models*
 
 
 ## Power BI
