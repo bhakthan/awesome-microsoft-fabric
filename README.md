@@ -4,6 +4,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 - [Awesome Microsoft Fabric](#awesome-microsoft-fabric)
     - [Overview](#overview)
     - [Blogs](#blogs)
+    - [Community](#community]
     - [Architecture](#architecture)
     - [Administration](#administration)
     - [Next Generation Synapse Analytics](#synapse-analytics)
@@ -17,6 +18,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
     - [Real-Time Analytics](#real-time-analytics)
     - [Data Activator](#data-activator)
     - [Data Governance](#data-governance)
+    - [Data Mesh](#data-mesh)
     - [Use cases](#use-cases)
     - [Fabric with OpenAI](#fabric-with-openAI)
     - [Microsoft 365](#microsoft-365)
@@ -27,24 +29,30 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Overview
 
 *For Business and Technical Decision makers*
-[Overview](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) Get Started - Microsoft Fabric Overview
+* [Overview](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) Get Started - Microsoft Fabric Overview
 
 
 ## Blogs
 
 *Blogs to empower teams that are looking to transform the organization with Microsoft Fabric*
-[Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/) Manage your data in one place with Lake Centric SaaS Solution
+* [Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/) Manage your data in one place with Lake Centric SaaS Solution
+* [Submit your ideas](https://aka.ms/fabricideas)
+* [Synapse Blog](https://aka.ms/SynapseBlog)
+* 
 
+## Community
+
+*Microsoft Fabric Community*
+* [Fabric Community](https://community.fabric.microsoft.com/)
 
 ## Architecture
 
 *End to End Architectures for technical architects*
-[Lakehouse Introduction](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction) End-to-end scenario from data acquisition to data consumption
+* [Lakehouse Introduction](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction) End-to-end scenario from data acquisition to data consumption
 
 ## Administration
 
 *Fabric Administration for IT Architects, Administrators*
-
 
 
 ## Next Generation Synapse Analytics
@@ -109,6 +117,11 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 *Fabric and Data Governance*
 
 
+## Data Mesh
+
+*Implementing Data Mesh in Microsoft Fabric*
+
+
 ## Use Cases
 
 *Industry use cases*
@@ -127,7 +140,11 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Videos
 
 *Videos explaining core concepts, how-tos and detailed technical aspects*
-
+* [Synapse](https://www.youtube.com/@AzureSynapse) Search for Fabric related
+* [Data Factory](https://www.youtube.com/@AzureDataFactory)
+* [Data Explorer ADX](https://www.youtube.com/@azuredataexplorer737)
+* [Purview](https://www.youtube.com/@MicrosoftPurview)
+* [Power BI](https://www.youtube.com/@MicrosoftPowerBI)
 
 ## Learning
 
