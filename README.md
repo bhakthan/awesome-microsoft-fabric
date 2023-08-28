@@ -133,6 +133,16 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Learning
 
 *Learning Fabric*
+*[Introduction](https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/) End to End Analytics in Microsoft Fabric
+*[Lakehouse](https://learn.microsoft.com/training/modules/get-started-lakehouses/) Get started Lakehouses
+*[Spark on Lakehouse](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/) Use Apache Spark in Lakehouse
+*[Work with Delta](https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/) Delta Lake Tables in Microsoft Fabric
+*[Data Factory Pipelines](https://learn.microsoft.com/en-us/training/modules/use-data-factory-pipelines-fabric/) Pipelines, Activities, Templates
+*[Data Warehouses](https://learn.microsoft.com/en-us/training/modules/get-started-data-warehouse/) Get started with Data Warehouses
+*[Real-Time Analytics](https://learn.microsoft.com/en-us/training/modules/get-started-kusto-fabric/) Analyze real-time data
+*[Data Science](https://learn.microsoft.com/en-us/training/modules/get-started-data-science-fabric/) Get started with data science in Microsoft Fabric
+*[Administer](https://learn.microsoft.com/en-us/training/modules/administer-fabric/) Administration, Security and Govern data in Microsoft Fabric
+
 
   
 
