@@ -55,6 +55,14 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Migration
 
 *Migrate your existing setup and automate*
+[Key Considerations](https://medium.com/@robertcas/migrate-not-just-from-azure-synapse-to-fabric-synapse-key-considerations-d0373499c7d9) Azure Synapse to Fabric
+[Dedicated sql pool to Fabric](https://debruyn.dev/2023/migrating-azure-synapse-dedicated-sql-to-microsoft-fabric/) Dedicated sql pool migration
+[Dedicated SQL Pool](https://www.kevinrchant.com/2023/07/19/migrate-dedicated-sql-pool-objects-to-a-microsoft-fabric-data-warehouse/) Migrate Dedicated SQL Pool
+[Serverless](https://debruyn.dev/2023/preparing-a-migration-to-microsoft-fabric-from-azure-synapse-serverless-sql/) Migrate Serverless SQL
+[SQL Server to Fabric](https://www.reddit.com/r/MicrosoftFabric/comments/14elh05/migrate_from_sql_server_to_fabric/) Migrate from SQL Server to Fabric
+[Comparison Side by Side](https://endjin.com/blog/2023/05/azure-synapse-analytics-versus-microsoft-fabric-a-side-by-side-comparison) Compare Synapse Side by Side
+
+
 
 
 ## Data Integration
