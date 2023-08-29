@@ -38,7 +38,13 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/) Manage your data in one place with Lake Centric SaaS Solution
 * [Submit your ideas](https://aka.ms/fabricideas)
 * [Synapse Blog](https://aka.ms/SynapseBlog)
-* 
+* [Fabric Notes](https://microsoft.github.io/fabricnotes/)
+* [Data Factory Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog)
+* [Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
+* [Azure Data Explorer ADX](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer)
+* [Azure Machine Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog)
+* [Azure Migration](https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog)
+* [Data Migration](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog)
 
 ## Community
 
