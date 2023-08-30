@@ -151,6 +151,19 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Data Explorer ADX](https://www.youtube.com/@azuredataexplorer737)
 * [Purview](https://www.youtube.com/@MicrosoftPurview)
 * [Power BI](https://www.youtube.com/@MicrosoftPowerBI)
+* [Starter Pools vs Custom Pools](https://www.youtube.com/watch?v=AXXasVxhgTs) Demo of Starter Pools in Fabric for Data Engineering and Data Science Workloads
+* [Enabling Data Mesh in Microsoft Fabric](https://www.youtube.com/watch?v=6_3gjipEq_k)
+* [Query Optimizations - Performing at Scale](https://www.youtube.com/watch?v=9bkZHHUcy6I)
+* [Building a landing zone in Microsoft Fabric](https://www.youtube.com/watch?v=u3U9aHkvaF8)
+* [Data Wrangler](https://www.youtube.com/watch?v=-g6KveKQXu4) Data Preparation and Exploration in Microsoft Fabric
+* [Table Clone](https://www.youtube.com/watch?v=b4fYU-ik6XY) in Warehouse within Microsoft Fabric
+* [Share a warehouse](https://www.youtube.com/watch?v=upW7DtKX2IU)
+* [Load data from landing to bronze](https://www.youtube.com/watch?v=inIwJoNzk-I) in your medallion architecture
+* [Load existing Delta Tables to Silver](https://www.youtube.com/watch?v=r7urq_EDR3k)
+* [Granular Access Control](https://www.youtube.com/watch?v=_GpwpXuS2gk)
+* [Concurreny - Performance at Scale](https://www.youtube.com/watch?v=l-8omtemVU0)
+* [Shortcuts](https://www.youtube.com/watch?v=bjzPnZ-Ctu4)
+* [One Lake as Glue](https://www.youtube.com/watch?v=Rw4JPSjcBNA)
 
 ## Learning
 
