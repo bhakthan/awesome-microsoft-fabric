@@ -34,7 +34,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 ## Blogs
 
-*Blogs to empower teams that are looking to transform the organization with Microsoft Fabric*
+* Blogs to empower teams that are looking to transform the organization with Microsoft Fabric*
 * [Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/) Manage your data in one place with Lake Centric SaaS Solution
 * [Submit your ideas](https://aka.ms/fabricideas)
 * [Synapse Blog](https://aka.ms/SynapseBlog)
@@ -45,6 +45,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Azure Machine Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog)
 * [Azure Migration](https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog)
 * [Data Migration](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog)
+* [Capacity and cost management](https://blog.fabric.microsoft.com/en-us/blog/announcing-microsoft-fabric-capacities-are-available-for-purchase)
+* [Pricing & Billing](https://github.com/Azure/azureml-examples/blob/main/sdk/python/generative-ai/rag/notebooks/azure_cognitive_search/acs_mlindex_with_langchain.ipynb)
 
 ## Community
 
@@ -146,11 +148,14 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Videos
 
 *Videos explaining core concepts, how-tos and detailed technical aspects*
+* [Fabric Launch End to End Coverage](https://www.youtube.com/watch?v=5jlP0wdEsls)
 * [Synapse](https://www.youtube.com/@AzureSynapse) Search for Fabric related
 * [Data Factory](https://www.youtube.com/@AzureDataFactory)
 * [Data Explorer ADX](https://www.youtube.com/@azuredataexplorer737)
 * [Purview](https://www.youtube.com/@MicrosoftPurview)
 * [Power BI](https://www.youtube.com/@MicrosoftPowerBI)
+* [Create your first Lakehouse](https://www.youtube.com/watch?v=SFta1_70T_U)
+* [Datawarehouse Experience in Microsoft Fabric](https://www.youtube.com/watch?v=GnCI22Tp-cM)
 * [Starter Pools vs Custom Pools](https://www.youtube.com/watch?v=AXXasVxhgTs) Demo of Starter Pools in Fabric for Data Engineering and Data Science Workloads
 * [Enabling Data Mesh in Microsoft Fabric](https://www.youtube.com/watch?v=6_3gjipEq_k)
 * [Query Optimizations - Performing at Scale](https://www.youtube.com/watch?v=9bkZHHUcy6I)
@@ -163,7 +168,16 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Granular Access Control](https://www.youtube.com/watch?v=_GpwpXuS2gk)
 * [Concurreny - Performance at Scale](https://www.youtube.com/watch?v=l-8omtemVU0)
 * [Shortcuts](https://www.youtube.com/watch?v=bjzPnZ-Ctu4)
+* [Understanding OneLake](https://www.youtube.com/watch?v=wEcRTSNhtLg) with Microsoft Fabric
 * [One Lake as Glue](https://www.youtube.com/watch?v=Rw4JPSjcBNA)
+* [Licensing Guide](https://www.youtube.com/watch?v=Gvt8oesGa3E)
+* [Licensing and Cost](https://www.youtube.com/watch?v=6AAeV3bSMso)
+* [Using Fabric with Databricks](https://www.youtube.com/watch?v=1yYYY_yqqZE)
+* [Use Python Libraries in Microsoft Fabric](https://www.youtube.com/watch?v=LZ9nKK0PPe0)
+* [Using SQL Server in Microsoft Fabric](https://www.youtube.com/watch?v=DB8zujLjzVo) Use CETAS to move data
+* [End to end Solution with Microsoft Fabric](https://youtu.be/fAL1ySBqJKI?t=24)
+* [Cross Cloud Analytics with Microsoft Fabric](https://www.youtube.com/watch?v=oxMUJT3p9f4)
+* [Playlist: Introduction to Microsoft Fabric - Complete Series](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39)
 
 ## Learning
 
