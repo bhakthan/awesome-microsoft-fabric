@@ -47,6 +47,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Data Migration](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog)
 * [Capacity and cost management](https://blog.fabric.microsoft.com/en-us/blog/announcing-microsoft-fabric-capacities-are-available-for-purchase)
 * [Pricing & Billing](https://github.com/Azure/azureml-examples/blob/main/sdk/python/generative-ai/rag/notebooks/azure_cognitive_search/acs_mlindex_with_langchain.ipynb)
+* [Meta-data driven Pipeline - Part-1](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric/ba-p/3891651) and [Part-2 Data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric-part-2-data/ba-p/3906749)
+* 
 
 ## Community
 
@@ -57,6 +59,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 *End to End Architectures for technical architects*
 * [Lakehouse Introduction](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction) End-to-end scenario from data acquisition to data consumption
+* [Building ETL step by step](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/step-by-step-tutorial-building-etls-with-microsoft-fabric/ba-p/3885183)
+* [Criteria to make decisions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/microsoft-fabric-microsoft-fabric-criteria-to-make-decision-part/ba-p/3847511)
 
 ## Administration
 
@@ -178,6 +182,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [End to end Solution with Microsoft Fabric](https://youtu.be/fAL1ySBqJKI?t=24)
 * [Cross Cloud Analytics with Microsoft Fabric](https://www.youtube.com/watch?v=oxMUJT3p9f4)
 * [Playlist: Introduction to Microsoft Fabric - Complete Series](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39)
+* [Microsoft Fabric Decision Tree - deciding which service to use when](https://www.youtube.com/watch?v=2gphmJZtNL4&t=340s)
+* [Connect to Microsoft Fabric with 5 Tools (SSMS, ADS, Kusto, Excel, and PowerBI)](https://www.youtube.com/watch?v=iDLTj-tCLdY)
+* [Microsoft Fabric Datawarehouse Sharing - Security and Permissions](https://www.youtube.com/watch?v=Z4_yY8axMsc)
+* [Real-time analytics Tutorial](https://www.youtube.com/watch?v=ZVrvP20ezYk) with Microsoft Fabric
 
 ## Learning
 
