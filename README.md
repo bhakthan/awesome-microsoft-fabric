@@ -37,6 +37,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * Blogs to empower teams that are looking to transform the organization with Microsoft Fabric*
 * [Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/) Manage your data in one place with Lake Centric SaaS Solution
 * [Submit your ideas](https://aka.ms/fabricideas)
+* [Get Started with Fabric](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/get-started-with-microsoft-fabric-all-in-one-place-for-all-your/ba-p/3830387)
 * [Synapse Blog](https://aka.ms/SynapseBlog)
 * [Fabric Notes](https://microsoft.github.io/fabricnotes/)
 * [Data Factory Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog)
@@ -48,7 +49,9 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Capacity and cost management](https://blog.fabric.microsoft.com/en-us/blog/announcing-microsoft-fabric-capacities-are-available-for-purchase)
 * [Pricing & Billing](https://github.com/Azure/azureml-examples/blob/main/sdk/python/generative-ai/rag/notebooks/azure_cognitive_search/acs_mlindex_with_langchain.ipynb)
 * [Meta-data driven Pipeline - Part-1](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric/ba-p/3891651) and [Part-2 Data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric-part-2-data/ba-p/3906749)
+* [Semantic Kernel and Fabric](https://blog.fabric.microsoft.com/en-US/blog/use-semantic-kernel-with-lakehouse-in-microsoft-fabric/)
 * 
+
 
 ## Community
 
@@ -186,6 +189,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Connect to Microsoft Fabric with 5 Tools (SSMS, ADS, Kusto, Excel, and PowerBI)](https://www.youtube.com/watch?v=iDLTj-tCLdY)
 * [Microsoft Fabric Datawarehouse Sharing - Security and Permissions](https://www.youtube.com/watch?v=Z4_yY8axMsc)
 * [Real-time analytics Tutorial](https://www.youtube.com/watch?v=ZVrvP20ezYk) with Microsoft Fabric
+* [Using Dynamic Management Views to gain Insights with Fabric](https://www.youtube.com/watch?v=tiN38RR3rT8)
 
 ## Learning
 
