@@ -55,6 +55,15 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 ## Community
 
+* [Recurively Load Files from Multiple Workspaces](https://fabric.guru/recursively-loading-files-from-multiple-workspaces-and-lakehouses-in-fabric)
+* [Build Insightful Analytics with KQL](https://fabric.guru/building-insightful-analytical-solutions-using-kqlmagic)
+* [Calculate folder size in Lakehouse](https://fabric.guru/calculating-folder-size-in-the-lakehouse)
+* [Increase copy activity throughput](https://fabric.guru/boosting-copy-activity-throughput-in-fabric)
+* [Loading ML Models](https://fabric.guru/loading-ml-models-in-fabric-data-science)
+* [Migrate existing Models to Fabric](https://fabric.guru/migrating-existing-ml-models-to-fabric-data-science)
+* [Download ML Models from Registry](https://fabric.guru/downloading-ml-models-from-fabric-model-registry)
+* [Not all Delta Tables are equal](https://fabric.guru/fabric-not-all-delta-tables-are-created-equally)
+
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
 
