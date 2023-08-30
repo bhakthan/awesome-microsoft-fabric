@@ -63,6 +63,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Migrate existing Models to Fabric](https://fabric.guru/migrating-existing-ml-models-to-fabric-data-science)
 * [Download ML Models from Registry](https://fabric.guru/downloading-ml-models-from-fabric-model-registry)
 * [Not all Delta Tables are equal](https://fabric.guru/fabric-not-all-delta-tables-are-created-equally)
+* [Connecting Event Hubs with Fabric](https://erwindekreuk.com/2023/05/connecting-event-hubs-in-microsoft-fabric/)
+* 
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
