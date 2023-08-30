@@ -50,7 +50,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Pricing & Billing](https://github.com/Azure/azureml-examples/blob/main/sdk/python/generative-ai/rag/notebooks/azure_cognitive_search/acs_mlindex_with_langchain.ipynb)
 * [Meta-data driven Pipeline - Part-1](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric/ba-p/3891651) and [Part-2 Data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric-part-2-data/ba-p/3906749)
 * [Semantic Kernel and Fabric](https://blog.fabric.microsoft.com/en-US/blog/use-semantic-kernel-with-lakehouse-in-microsoft-fabric/)
-* 
+* [Azure Open AI with Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/harness-the-power-of-langchain-in-microsoft-fabric-for-advanced-document-summarization?ft=All) Document Summarization with LLM
 
 
 ## Community
