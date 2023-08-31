@@ -51,6 +51,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Meta-data driven Pipeline - Part-1](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric/ba-p/3891651) and [Part-2 Data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric-part-2-data/ba-p/3906749)
 * [Semantic Kernel and Fabric](https://blog.fabric.microsoft.com/en-US/blog/use-semantic-kernel-with-lakehouse-in-microsoft-fabric/)
 * [Azure Open AI with Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/harness-the-power-of-langchain-in-microsoft-fabric-for-advanced-document-summarization?ft=All) Document Summarization with LLM
+* [How to leverage Fabric for DataScience](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-leverage-microsoft-fabric-for-data-science/ba-p/3889244)
 
 
 ## Community
@@ -64,7 +65,12 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Download ML Models from Registry](https://fabric.guru/downloading-ml-models-from-fabric-model-registry)
 * [Not all Delta Tables are equal](https://fabric.guru/fabric-not-all-delta-tables-are-created-equally)
 * [Connecting Event Hubs with Fabric](https://erwindekreuk.com/2023/05/connecting-event-hubs-in-microsoft-fabric/)
-* 
+* [Fabric - What, why, who, when and how](https://medium.com/microsoft-power-bi/microsoft-fabric-what-why-who-when-how-638b391df4f1)
+* [Data Wrangler vs Power Query Editor](https://radacad.com/data-wrangler-vs-power-query-editor)
+* [Performance Testing PowerBI Direct Lake with Fabric](https://blog.crossjoin.co.uk/2023/07/09/performance-testing-power-bi-direct-lake-mode-datasets-in-fabric/)
+* [On Demand Loading of Direct Lake Power BI datasets](https://blog.crossjoin.co.uk/2023/07/02/on-demand-loading-of-direct-lake-power-bi-datasets-in-fabric/)
+* [Getting Started with Microsoft Fabric Licensing](https://www.advancinganalytics.co.uk/blog/2023/7/27/getting-started-with-microsoft-fabric-licensing)
+* [End to End Implementation](https://www.advancinganalytics.co.uk/blog/2023/7/17/fabric-end-to-end-implementation)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -95,6 +101,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Serverless](https://debruyn.dev/2023/preparing-a-migration-to-microsoft-fabric-from-azure-synapse-serverless-sql/) Migrate Serverless SQL
 * [SQL Server to Fabric](https://www.reddit.com/r/MicrosoftFabric/comments/14elh05/migrate_from_sql_server_to_fabric/) Migrate from SQL Server to Fabric
 * [Comparison Side by Side](https://endjin.com/blog/2023/05/azure-synapse-analytics-versus-microsoft-fabric-a-side-by-side-comparison) Compare Synapse Side by Side
+* [Navigating the Data Platform Landscape: Finding the Perfect Fit for Your Company Azure Synapse OR Microsoft Fabric](https://community.dynamics.com/blogs/post/?postid=4c923e38-8738-ee11-bdf4-000d3a4e511f)
 
 
 ## Data Integration
@@ -151,6 +158,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Use Cases
 
 *Industry use cases*
+* [Fabric end to end use case energy market](https://debruyn.dev/2023/fabric-end-to-end-use-case-overview-architecture/) & [Data Engineering](https://debruyn.dev/2023/fabric-end-to-end-use-case-data-engineering-part-1-spark-and-pandas-in-notebooks/)
 
 
 ## Fabric with Open AI
@@ -167,6 +175,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 *Videos explaining core concepts, how-tos and detailed technical aspects*
 * [Fabric Launch End to End Coverage](https://www.youtube.com/watch?v=5jlP0wdEsls)
+* [Fabric Introduction by James Serra](https://www.youtube.com/watch?v=a6A3jtvB62U)
 * [Synapse](https://www.youtube.com/@AzureSynapse) Search for Fabric related
 * [Data Factory](https://www.youtube.com/@AzureDataFactory)
 * [Data Explorer ADX](https://www.youtube.com/@azuredataexplorer737)
@@ -201,6 +210,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Microsoft Fabric Datawarehouse Sharing - Security and Permissions](https://www.youtube.com/watch?v=Z4_yY8axMsc)
 * [Real-time analytics Tutorial](https://www.youtube.com/watch?v=ZVrvP20ezYk) with Microsoft Fabric
 * [Using Dynamic Management Views to gain Insights with Fabric](https://www.youtube.com/watch?v=tiN38RR3rT8)
+* [Lakehouse vs Warehouse - James Serra](https://www.youtube.com/watch?v=34sI2e30JUM)
 
 ## Learning
 
