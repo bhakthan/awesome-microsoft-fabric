@@ -7,6 +7,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
     - [Community](#community)
     - [Architecture](#architecture)
     - [Administration](#administration)
+    - [One Lake](#onelake)
     - [Next Generation Synapse Analytics](#synapse-analytics)
     - [Migration](#migration)
     - [Data Integration](#data-integration)
@@ -90,6 +91,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Administration and Governance](https://www.element61.be/en/resource/administration-and-governance-microsoft-fabric)
 * [Secure, Govern, Manage at Scale](https://community.fabric.microsoft.com/t5/Webinars-and-Video-Gallery/Secure-govern-and-manage-your-data-at-scale-in-Microsoft-Fabric/m-p/3296299)
 
+## One Lake
+*one drive for data*
+* [One Drive for Data - ](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-in-fabric-the-onedrive-for-data?ft=All:) One Data Lake for entier organization
+* 
 
 ## Next Generation Synapse Analytics
 
@@ -121,6 +126,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Factory
 
 *Data factory to build pipelines, orchestrate and ETL*
+* [Quick Look at Data Factory](https://community.fabric.microsoft.com/t5/Webinars-and-Video-Gallery/A-quick-look-at-Data-Factory-in-Microsoft-Fabric/m-p/3298421) Create a dataflow and build a pipeline
 
 
 
