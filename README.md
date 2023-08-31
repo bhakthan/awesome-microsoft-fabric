@@ -85,6 +85,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Administration
 
 *Fabric Administration for IT Architects, Administrators*
+* [Fabric Admin](https://learn.microsoft.com/en-us/fabric/admin/microsoft-fabric-admin)
+* [Understanding the roles and domains](https://data-marc.com/2023/06/08/governance-in-microsoft-fabric-understanding-the-roles-and-domains/)
+* [Administration and Governance](https://www.element61.be/en/resource/administration-and-governance-microsoft-fabric)
+* [Secure, Govern, Manage at Scale](https://community.fabric.microsoft.com/t5/Webinars-and-Video-Gallery/Secure-govern-and-manage-your-data-at-scale-in-Microsoft-Fabric/m-p/3296299)
 
 
 ## Next Generation Synapse Analytics
