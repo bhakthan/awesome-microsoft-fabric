@@ -155,6 +155,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Activator
 
 *Build data observability to monitor and detect when data changes*
+* [How Data Activator Works](https://aka.ms/dataActivatorBlog)
+* [Extensive capabilities consolidated](https://github.com/microsoft/dataActivator/blob/main/Data%20Activator%20Consolidated%20Docs.pdf)
 
 
 ## Data Governance
