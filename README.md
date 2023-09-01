@@ -72,6 +72,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [On Demand Loading of Direct Lake Power BI datasets](https://blog.crossjoin.co.uk/2023/07/02/on-demand-loading-of-direct-lake-power-bi-datasets-in-fabric/)
 * [Getting Started with Microsoft Fabric Licensing](https://www.advancinganalytics.co.uk/blog/2023/7/27/getting-started-with-microsoft-fabric-licensing)
 * [End to End Implementation](https://www.advancinganalytics.co.uk/blog/2023/7/17/fabric-end-to-end-implementation)
+* [Azure Synapse Reference - Linkedin Pulse](https://www.linkedin.com/pulse/azure-synapse-reference-srikanth-bhakthan)
+* [How can Microsoft have an impact on your business](https://www.cloudformations.org/post/should-i-wait-for-microsoft-fabric)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -163,6 +165,25 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Mesh
 
 *Implementing Data Mesh in Microsoft Fabric*
+* [What is a data mesh?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/what-is-data-mesh)
+* [What is a data product?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/what-is-data-product)
+* [What are Data Domains](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-domains)
+* [What are Data Contracts](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-contracts)
+* [Data Marketplace](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-mesh-data-marketplace)
+* [Scenario: Financial Institution](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-mesh-scenario) Data Mesh
+* [When to use which - Data Mesh, Data Lakehouse, Data Fabric](https://techcommunity.microsoft.com/t5/data-architecture-blog/bring-vision-to-life-with-three-horizons-data-mesh-data/ba-p/3390414)
+
+*Community*
+* [Data Mesh Principles - Zhamak](https://martinfowler.com/articles/data-mesh-principles.html)
+* [Data Monolith to Mesh - Zhamak](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+* [List of Data Lakehouse and Data Mesh (Linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:6910990492251918336/)
+* [Microsoft Fabric measure up to Data Mesh](https://endjin.com/blog/2023/08/how-does-microsoft-fabric-measure-up-to-data-mesh)
+* [Develop a data mesh with Microsoft Fabric](https://endjin.com/blog/2023/08/developing-a-data-mesh-inspired-vision-using-microsoft-fabric)
+* [Explore Strategies with Microsoft Fabric for Data Driven Organization](https://endjin.com/blog/2023/08/microsoft-fabric-strategy-explore-options-using-wardley-maps)
+* [Data Mesh vs Data Fabric](https://atlan.com/data-mesh-vs-data-fabric/)
+* [Adopt a Product Mindset with Microsoft Fabric](https://endjin.com/blog/2023/08/adopt-a-product-mindset-to-maximise-value-from-microsoft-fabric)
+* [Building a data mesh architecture - Paul Andrew](https://mrpaulandrew.com/2021/12/15/building-a-data-mesh-architecture-in-azure-part-1/)
+
 
 
 ## Use Cases
@@ -237,7 +258,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Medallion Architecture](https://learn.microsoft.com/en-us/training/modules/describe-medallion-architecture/) Design Fabric Medallion Architecture with Bronze, Silver and Gold layers of Lakehouse
 * [DataFlow Gen2](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/) Ingest with Dataflows in Microsoft Fabric
 * [Data Analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/) Explore the fundamentals of data analysis, Gain Insights and Multi-Table Queries
-* 
+* [Azure Data Engineer - free online training from Azure](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
 
 
   
