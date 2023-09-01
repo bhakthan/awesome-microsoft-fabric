@@ -28,7 +28,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 ---
 ## Overview
-
+**A Data & Analytics Platform for the era of AI**
 *For Business and Technical Decision makers*
 * [Overview](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) Get Started - Microsoft Fabric Overview
 
