@@ -6,6 +6,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
     - [Blogs](#blogs)
     - [Community](#community)
     - [Samples](#samples)
+    - [Presentation](#presentation)
     - [Architecture](#architecture)
     - [Videos](#videos)
     - [Learning](#learning)
@@ -84,6 +85,16 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Samples
 *code samples*
 * [Fabric Samples for Data Engineering, Data Science, Continous Integration and Development CI/CD, real-time analytics and Developer](https://github.com/microsoft/fabric-samples/tree/main/docs-samples)
+
+## Presentation
+*Fabric Readiness*
+* [Introducing Unified Analytics](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/01.%20Introducing%20Unified%20Analytics.pptx)
+* [Data Engineering with Microsoft Synapse](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/02.%20Data%20Engineering%20with%20Microsoft%20Synapse.pptx)
+* [Data Science in Microsoft Fabric](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/03.%20Data%20Science%20in%20Microsoft%20Fabric.pptx)
+* [Data Warehousing with Microsoft Fabric](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/04.%20Data%20Warehousing%20with%20Microsoft%20Fabric.pptx)
+* [Synapse Real-Time Analytics in Microsoft Fabric](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/05.%20Synapse%20Real-Time%20Analytics%20in%20Microsoft%20Fabric.pptx)
+* [Data Integration with Data Factory](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/06.%20Data%20Integration%20with%20Data%20Factory.pptx)
+* [Introduction to Microsoft Fabric for Power BI Users](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/07.%20Introduction%20to%20Microsoft%20Fabric%20for%20Power%20BI%20Users.pptx)
 
 ## Architecture
 
@@ -178,6 +189,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [SQL Server to Fabric](https://www.reddit.com/r/MicrosoftFabric/comments/14elh05/migrate_from_sql_server_to_fabric/) Migrate from SQL Server to Fabric
 * [Comparison Side by Side](https://endjin.com/blog/2023/05/azure-synapse-analytics-versus-microsoft-fabric-a-side-by-side-comparison) Compare Synapse Side by Side
 * [Navigating the Data Platform Landscape: Finding the Perfect Fit for Your Company Azure Synapse OR Microsoft Fabric](https://community.dynamics.com/blogs/post/?postid=4c923e38-8738-ee11-bdf4-000d3a4e511f)
+
+* [Above presentations delivered in video](https://aka.ms/fabric-webinar-series)
 
 
 ## Data Integration
