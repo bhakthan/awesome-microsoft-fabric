@@ -201,7 +201,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Warehouse
 
 *Data Warehousing to democratize your data estate with industry learing performance*
-
+* [How Fabric Polaris Engine Works](https://www.linkedin.com/pulse/microsoft-fabric-data-warehouse-polaris-engine-tiago-balabuch)
 
 ## Data Factory
 
@@ -213,6 +213,9 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Engineering
 
 *Build your data estate and unlock value from your data*
+* [Mapping Data Flow to Spark - Example](https://github.com/sethiaarun/mapping-data-flow-to-spark)
+* [Understand Delta Lake Table Features - delta IO](https://delta.io/blog/2023-07-27-delta-lake-table-features/)
+* [Using Shortcuts instead of external tables to reference external data in Fabric Warehouse](https://www.linkedin.com/pulse/use-shortcuts-instead-external-tables-reference-data-fabric-popovic)
 
 
 ## Data Science
@@ -275,6 +278,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Fabric with Open AI
 
 *Fabric is the data platform for the era of AI. Open AI use cases through Fabric*
+* [Mapping data flow to Fabric with OpenAI](https://github.com/sethiaarun/mapping-dataflow-to-fabric-with-openai)
 
 
 ## Microsoft 365
