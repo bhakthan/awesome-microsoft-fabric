@@ -78,6 +78,11 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [End to End Implementation](https://www.advancinganalytics.co.uk/blog/2023/7/17/fabric-end-to-end-implementation)
 * [Azure Synapse Reference - Linkedin Pulse](https://www.linkedin.com/pulse/azure-synapse-reference-srikanth-bhakthan)
 * [How can Microsoft have an impact on your business](https://www.cloudformations.org/post/should-i-wait-for-microsoft-fabric)
+* [Using BlobFuse V2 - Fabric Notebook virtual filesystem ](https://datamonkeysite.com/2023/09/14/fabric-notebook-virtual-filesystem/)
+* [Fabric and Snowflake - Sharing data between](https://datamonkeysite.com/2023/08/25/sharing-data-between-onelake-and-snowflake/)
+* [Fabric DataFlow Gen2 to stage or not to stage](https://blog.crossjoin.co.uk/2023/09/03/fabric-dataflows-gen2-to-stage-or-not-to-stage/)
+* [Table partitioning - convert files to tables](https://www.red-gate.com/simple-talk/uncategorized/microsoft-fabric-using-notebooks-and-table-partitioning-to-convert-files-to-tables/)
+* [dbt with the lakehouse](https://debruyn.dev/2023/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse/)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
