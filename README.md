@@ -58,7 +58,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Azure Open AI with Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/harness-the-power-of-langchain-in-microsoft-fabric-for-advanced-document-summarization?ft=All) Document Summarization with LLM
 * [How to leverage Fabric for DataScience](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-leverage-microsoft-fabric-for-data-science/ba-p/3889244)
 * [Eveything you need to know about Fabric Capacities](https://blog.fabric.microsoft.com/en-us/blog/fabric-capacities-everything-you-need-to-know-about-whats-new-and-whats-coming?ft=All)
-
+* [Data Warehouse Utilization Reporting in Fabric Capacity Metrics App](https://blog.fabric.microsoft.com/en-us/blog/data-warehouse-utilization-reporting-in-fabric-capacity-metrics-app)
 
 ## Community
 
