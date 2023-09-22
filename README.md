@@ -203,6 +203,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Integration
 
 *Integrate to all your sources and destinations*
+* [Deployment Pipelines](https://sqlreitse.com/2023/09/22/microsoft-fabric-deployment-pipelines/)
 
 
 ## Data Warehouse
