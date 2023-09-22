@@ -131,7 +131,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Load data from landing to bronze](https://www.youtube.com/watch?v=inIwJoNzk-I) in your medallion architecture
 * [Load existing Delta Tables to Silver](https://www.youtube.com/watch?v=r7urq_EDR3k)
 * [Granular Access Control](https://www.youtube.com/watch?v=_GpwpXuS2gk)
-* [Concurreny - Performance at Scale](https://www.youtube.com/watch?v=l-8omtemVU0)
+* [Concurrency - Performance at Scale](https://www.youtube.com/watch?v=l-8omtemVU0)
 * [Shortcuts](https://www.youtube.com/watch?v=bjzPnZ-Ctu4)
 * [Understanding OneLake](https://www.youtube.com/watch?v=wEcRTSNhtLg) with Microsoft Fabric
 * [One Lake as Glue](https://www.youtube.com/watch?v=Rw4JPSjcBNA)
