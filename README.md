@@ -150,7 +150,9 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Using Dynamic Management Views to gain Insights with Fabric](https://www.youtube.com/watch?v=tiN38RR3rT8)
 * [Lakehouse vs Warehouse - James Serra](https://www.youtube.com/watch?v=34sI2e30JUM)
 * [Real-time data sharing](https://www.youtube.com/watch?v=4QJNVVT5Ga0)
-  
+* [Utilization Reporting - Data Warehouse - Fabric Capacity](https://www.youtube.com/watch?v=30UpPJFKHGM)
+* [Data Science in Fabric - Model Scoring with PREDICT](https://www.youtube.com/watch?v=HzdZ0n0lpFw)
+    
 ## Learning
 
 *Learning Fabric*
@@ -167,8 +169,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [DataFlow Gen2](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/) Ingest with Dataflows in Microsoft Fabric
 * [Data Analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/) Explore the fundamentals of data analysis, Gain Insights and Multi-Table Queries
 * [Azure Data Engineer - free online training from Azure](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
-* [Utilization Reporting - Data Warehouse - Fabric Capacity](https://www.youtube.com/watch?v=30UpPJFKHGM)
-* [Data Science in Fabric - Model Scoring with PREDICT](https://www.youtube.com/watch?v=HzdZ0n0lpFw)
+
 
 ## Administration
 
