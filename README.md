@@ -62,6 +62,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [How to leverage Fabric for DataScience](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-leverage-microsoft-fabric-for-data-science/ba-p/3889244)
 * [Eveything you need to know about Fabric Capacities](https://blog.fabric.microsoft.com/en-us/blog/fabric-capacities-everything-you-need-to-know-about-whats-new-and-whats-coming?ft=All)
 * [Data Warehouse Utilization Reporting in Fabric Capacity Metrics App](https://blog.fabric.microsoft.com/en-us/blog/data-warehouse-utilization-reporting-in-fabric-capacity-metrics-app)
+* [OneLake Shortcuts to Power Platform and Dynamics 365](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-adds-shortcut-support-to-power-platform-and-dynamics-365?ft=All)
+* [Understanding KQL DB Capacity](https://blog.fabric.microsoft.com/en-us/blog/understanding-fabric-kql-db-capacity?ft=All)
+* [Column Level and Row Level Security for Fabric Warehouse](https://blog.fabric.microsoft.com/en-us/blog/announcing-column-level-row-level-security-for-fabric-warehouse-sql-endpoint?ft=All)
+* [End to End Workshop - Analyzing wildlife data with Fabric - Includes Datasets](https://blog.fabric.microsoft.com/en-us/blog/announcing-an-end-to-end-workshop-analyzing-wildlife-data-with-microsoft-fabric?ft=All) & [Workshop](https://aka.ms/fabric-e2e-serengeti)
 
 ## Community
 
@@ -160,6 +164,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Spark Data Engineering Patterns - Delta Tables for PowerBI](https://www.youtube.com/watch?v=mt4Lqa36wss)
 * [Data Activator Demo](https://aka.ms/DataActivatorMechanicsVideo)
 * [Row level Security - Warehouse & SQL Endpoint](https://www.youtube.com/watch?v=_gcPNOyrGgc)
+* [Dataverse Integration with Microsoft Fabric](https://www.youtube.com/watch?v=bgcNsqp92YE)
     
 ## Learning
 
@@ -240,7 +245,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Science
 
 *Next generation data science to train, deploy and manage machine learning models*
-* [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning])https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
+* [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
 
 
 ## Power BI
