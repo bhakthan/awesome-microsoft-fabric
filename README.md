@@ -92,6 +92,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Table partitioning - convert files to tables](https://www.red-gate.com/simple-talk/uncategorized/microsoft-fabric-using-notebooks-and-table-partitioning-to-convert-files-to-tables/)
 * [dbt with the lakehouse](https://debruyn.dev/2023/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse/)
 * [Row Level Security RLS in Datawarehouse](https://www.youtube.com/watch?v=iP0Cz1XbFfE)
+* [Public repositories available in Github for Fabric - Collection of links](https://www.kevinrchant.com/2023/10/10/microsoft-fabric-repositories-publicly-available-in-github/)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -160,7 +161,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Real-time data sharing](https://www.youtube.com/watch?v=4QJNVVT5Ga0)
 * [Utilization Reporting - Data Warehouse - Fabric Capacity](https://www.youtube.com/watch?v=30UpPJFKHGM)
 * [Data Science in Fabric - Model Scoring with PREDICT](https://www.youtube.com/watch?v=HzdZ0n0lpFw)
-* [Advanced Notebook Features & writing data analytics jobs with Spark])https://www.youtube.com/watch?v=L3ZC46lAUhI)
+* [Advanced Notebook Features & writing data analytics jobs with Spark](https://www.youtube.com/watch?v=L3ZC46lAUhI)
 * [Spark Data Engineering Patterns - Delta Tables for PowerBI](https://www.youtube.com/watch?v=mt4Lqa36wss)
 * [Data Activator Demo](https://aka.ms/DataActivatorMechanicsVideo)
 * [Row level Security - Warehouse & SQL Endpoint](https://www.youtube.com/watch?v=_gcPNOyrGgc)
