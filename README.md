@@ -3,6 +3,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 - [Awesome Microsoft Fabric](#awesome-microsoft-fabric)
     - [Overview](#overview)
+    - [Roadmap](#roadmap)
     - [Blogs](#blogs)
     - [Community](#community)
     - [Samples](#samples)
@@ -36,7 +37,9 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 *For Business and Technical Decision makers*
 * [Overview](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) Get Started - Microsoft Fabric Overview
 
-
+## Roadmap
+* [Fabric Roadmap](https://aka.ms/FabricRoadmap)
+  
 ## Blogs
 
 * Blogs to empower teams that are looking to transform the organization with Microsoft Fabric*
@@ -84,6 +87,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Fabric DataFlow Gen2 to stage or not to stage](https://blog.crossjoin.co.uk/2023/09/03/fabric-dataflows-gen2-to-stage-or-not-to-stage/)
 * [Table partitioning - convert files to tables](https://www.red-gate.com/simple-talk/uncategorized/microsoft-fabric-using-notebooks-and-table-partitioning-to-convert-files-to-tables/)
 * [dbt with the lakehouse](https://debruyn.dev/2023/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse/)
+* [Row Level Security RLS in Datawarehouse](https://www.youtube.com/watch?v=iP0Cz1XbFfE)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -152,6 +156,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Real-time data sharing](https://www.youtube.com/watch?v=4QJNVVT5Ga0)
 * [Utilization Reporting - Data Warehouse - Fabric Capacity](https://www.youtube.com/watch?v=30UpPJFKHGM)
 * [Data Science in Fabric - Model Scoring with PREDICT](https://www.youtube.com/watch?v=HzdZ0n0lpFw)
+* [Advanced Notebook Features & writing data analytics jobs with Spark])https://www.youtube.com/watch?v=L3ZC46lAUhI)
+* [Spark Data Engineering Patterns - Delta Tables for PowerBI](https://www.youtube.com/watch?v=mt4Lqa36wss)
+* [Data Activator Demo](https://aka.ms/DataActivatorMechanicsVideo)
+* [Row level Security - Warehouse & SQL Endpoint](https://www.youtube.com/watch?v=_gcPNOyrGgc)
     
 ## Learning
 
@@ -232,6 +240,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Data Science
 
 *Next generation data science to train, deploy and manage machine learning models*
+* [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning])https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
 
 
 ## Power BI
