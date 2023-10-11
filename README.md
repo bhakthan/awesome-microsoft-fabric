@@ -93,6 +93,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [dbt with the lakehouse](https://debruyn.dev/2023/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse/)
 * [Row Level Security RLS in Datawarehouse](https://www.youtube.com/watch?v=iP0Cz1XbFfE)
 * [Public repositories available in Github for Fabric - Collection of links](https://www.kevinrchant.com/2023/10/10/microsoft-fabric-repositories-publicly-available-in-github/)
+* [Fabric icons](https://icons.michaeljohnpena.com/iconlist/fabric)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -265,6 +266,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 *Build data observability to monitor and detect when data changes*
 * [How Data Activator Works](https://aka.ms/dataActivatorBlog)
 * [Extensive capabilities consolidated](https://github.com/microsoft/dataActivator/blob/main/Data%20Activator%20Consolidated%20Docs.pdf)
+* [Automate data driven actions](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/automate-data-driven-actions-data-activator-in-microsoft-fabric/ba-p/3946833)
 
 
 ## Data Governance
@@ -300,6 +302,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 *Industry use cases*
 * [Fabric end to end use case energy market](https://debruyn.dev/2023/fabric-end-to-end-use-case-overview-architecture/) & [Data Engineering](https://debruyn.dev/2023/fabric-end-to-end-use-case-data-engineering-part-1-spark-and-pandas-in-notebooks/)
+* [Unlock data value with Healthcare Data Solutions in Fabric](https://aka.ms/MC4HDataintegration) & [AI](https://aka.ms/AzureHLTH23)
 
 
 ## Fabric with Open AI
