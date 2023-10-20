@@ -66,6 +66,11 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Understanding KQL DB Capacity](https://blog.fabric.microsoft.com/en-us/blog/understanding-fabric-kql-db-capacity?ft=All)
 * [Column Level and Row Level Security for Fabric Warehouse](https://blog.fabric.microsoft.com/en-us/blog/announcing-column-level-row-level-security-for-fabric-warehouse-sql-endpoint?ft=All)
 * [End to End Workshop - Analyzing wildlife data with Fabric - Includes Datasets](https://blog.fabric.microsoft.com/en-us/blog/announcing-an-end-to-end-workshop-analyzing-wildlife-data-with-microsoft-fabric?ft=All) & [Workshop](https://aka.ms/fabric-e2e-serengeti)
+* [Fabric Copilot Workshop](https://github.com/kinfey/MSFabricCopilotWorkshop)
+* [Change the game - Exploring Data with Fabric](https://blog.fabric.microsoft.com/en-us/blog/fabric-change-the-game-exploring-the-data?ft=All)
+* [OneLake File Explorer](https://blog.fabric.microsoft.com/en-us/blog/onelake-file-explorer-easy-access-to-open-workspaces-and-items-online?ft=All)
+* [Semantic Kernel and Fabric](https://blog.fabric.microsoft.com/en-us/blog/chat-your-data-in-microsoft-fabric-with-semantic-kernel?ft=All)
+* [Fabric Icons](https://blog.fabric.microsoft.com/en-us/blog/fabrics-new-item-icon-system?ft=All)
 
 ## Community
 
@@ -94,6 +99,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Row Level Security RLS in Datawarehouse](https://www.youtube.com/watch?v=iP0Cz1XbFfE)
 * [Public repositories available in Github for Fabric - Collection of links](https://www.kevinrchant.com/2023/10/10/microsoft-fabric-repositories-publicly-available-in-github/)
 * [Fabric icons](https://icons.michaeljohnpena.com/iconlist/fabric)
+* [Analyze Power BI Data in Excel with Fabric](https://blog.crossjoin.co.uk/2023/10/15/analyse-power-bi-data-in-excel-with-python/)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -248,6 +254,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 *Next generation data science to train, deploy and manage machine learning models*
 * [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
+* [FabricDataFrame - Semantic Link](https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-overview)
 
 
 ## Power BI
