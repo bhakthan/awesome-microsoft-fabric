@@ -71,6 +71,12 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [OneLake File Explorer](https://blog.fabric.microsoft.com/en-us/blog/onelake-file-explorer-easy-access-to-open-workspaces-and-items-online?ft=All)
 * [Semantic Kernel and Fabric](https://blog.fabric.microsoft.com/en-us/blog/chat-your-data-in-microsoft-fabric-with-semantic-kernel?ft=All)
 * [Fabric Icons](https://blog.fabric.microsoft.com/en-us/blog/fabrics-new-item-icon-system?ft=All)
+* [Delta-RS native support for Rust](https://blog.fabric.microsoft.com/en-us/blog/delta-rs-introduces-native-support-for-onelake?ft=All)
+* [Data Compaction](https://blog.fabric.microsoft.com/en-us/blog/announcing-automatic-data-compaction-for-fabric-warehouse?ft=All)
+* [Multiple Shortcuts](https://blog.fabric.microsoft.com/en-us/blog/create-multiple-shortcuts-faster-and-easier)
+* [Time travelling through data - Magic of Table Clone](https://blog.fabric.microsoft.com/en-us/blog/time-travelling-through-data-the-magic-of-table-clones)
+* [Using your own python library](https://blog.fabric.microsoft.com/en-US/blog/fabric-changing-the-game-using-your-own-library-with-microsoft-fabric/)
+* [Guardrails for Burstable Activity](https://blog.fabric.microsoft.com/en-us/blog/data-warehouse-sku-guardrails-for-burstable-capacity?ft=Uncategorized:category)
 
 ## Community
 
@@ -228,12 +234,15 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 *Integrate to all your sources and destinations*
 * [Deployment Pipelines](https://sqlreitse.com/2023/09/22/microsoft-fabric-deployment-pipelines/)
+* [Event Stream in Fabric with Event Processor](https://blog.fabric.microsoft.com/en-us/blog/whats-new-in-eventstream-enhanced-ux-on-event-processor-and-expanded-custom-app-connections?ft=All)
+* [IoT Hub Data Event Stream for email alerting](https://blog.fabric.microsoft.com/en-us/blog/stream-azure-iot-hub-data-into-fabric-eventstream-for-email-alerting?ft=All)
 
 
 ## Data Warehouse
 
 *Data Warehousing to democratize your data estate with industry learing performance*
 * [How Fabric Polaris Engine Works](https://www.linkedin.com/pulse/microsoft-fabric-data-warehouse-polaris-engine-tiago-balabuch)
+* [Publishing full DML logs to Delta Lake](https://blog.fabric.microsoft.com/en-us/blog/announcing-fabric-warehouse-publishing-full-dml-to-delta-lake-logs?ft=All)
 
 ## Data Factory
 
@@ -260,6 +269,8 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 ## Power BI
 
 *Uncover Powerful Insights*
+* [From RabbitMQ to PowerBI reports](https://blog.fabric.microsoft.com/en-us/blog/from-rabbitmq-to-powerbi-reports-with-microsoft-fabric-real-time-analytics?ft=All)
+* 
 
 
 ## Real-Time Analytics
