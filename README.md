@@ -77,6 +77,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Time travelling through data - Magic of Table Clone](https://blog.fabric.microsoft.com/en-us/blog/time-travelling-through-data-the-magic-of-table-clones)
 * [Using your own python library](https://blog.fabric.microsoft.com/en-US/blog/fabric-changing-the-game-using-your-own-library-with-microsoft-fabric/)
 * [Guardrails for Burstable Activity](https://blog.fabric.microsoft.com/en-us/blog/data-warehouse-sku-guardrails-for-burstable-capacity?ft=Uncategorized:category)
+* [Data Quality with Semantic Link](https://blog.fabric.microsoft.com/en-us/blog/fabric-changing-the-game-validate-dependencies-with-semantic-link?ft=All)
+* [Mirroring in Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-mirroring-in-microsoft-fabric?ft=All)
+* [Fabric and M365](https://blog.fabric.microsoft.com/en-us/blog/fabric-microsoft-365-data-better-together?ft=All)
+* [Fabric for existing synapse users](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-explained-for-existing-synapse-users?ft=All)
 
 ## Community
 
@@ -106,6 +110,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Public repositories available in Github for Fabric - Collection of links](https://www.kevinrchant.com/2023/10/10/microsoft-fabric-repositories-publicly-available-in-github/)
 * [Fabric icons](https://icons.michaeljohnpena.com/iconlist/fabric)
 * [Analyze Power BI Data in Excel with Fabric](https://blog.crossjoin.co.uk/2023/10/15/analyse-power-bi-data-in-excel-with-python/)
+* [Security - Item level access SQL Policy and Object Level](https://shabnamwatson.com/2023/11/14/microsoft-fabric-workspace-access-item-level-access-sql-policy-and-object-level-security/)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
