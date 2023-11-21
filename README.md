@@ -81,6 +81,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Mirroring in Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-mirroring-in-microsoft-fabric?ft=All)
 * [Fabric and M365](https://blog.fabric.microsoft.com/en-us/blog/fabric-microsoft-365-data-better-together?ft=All)
 * [Fabric for existing synapse users](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-explained-for-existing-synapse-users?ft=All)
+* [Delta Lake Support in Real-Time Analytics with KQL](https://blog.fabric.microsoft.com/en-us/blog/announcing-delta-support-in-real-time-analytics-kql-db?ft=All)
 
 ## Community
 
@@ -111,6 +112,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Fabric icons](https://icons.michaeljohnpena.com/iconlist/fabric)
 * [Analyze Power BI Data in Excel with Fabric](https://blog.crossjoin.co.uk/2023/10/15/analyse-power-bi-data-in-excel-with-python/)
 * [Security - Item level access SQL Policy and Object Level](https://shabnamwatson.com/2023/11/14/microsoft-fabric-workspace-access-item-level-access-sql-policy-and-object-level-security/)
+* [Comparative Analysis of Fabric](https://www.linkedin.com/pulse/unveiling-microsoft-fabric-comparative-analysis-against-sanchez)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
