@@ -82,6 +82,9 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Fabric and M365](https://blog.fabric.microsoft.com/en-us/blog/fabric-microsoft-365-data-better-together?ft=All)
 * [Fabric for existing synapse users](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-explained-for-existing-synapse-users?ft=All)
 * [Delta Lake Support in Real-Time Analytics with KQL](https://blog.fabric.microsoft.com/en-us/blog/announcing-delta-support-in-real-time-analytics-kql-db?ft=All)
+* [SAP data into Fabric](https://blog.fabric.microsoft.com/en-us/blog/integrate-your-sap-data-into-microsoft-fabric?ft=All)
+* [Semantic Link: OneLake integrated Semantic Models](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-onelake-integrated-semantic-models?ft=All)
+* [Explore Data Transformation in Eventstream for KQL DB](https://blog.fabric.microsoft.com/en-us/blog/explore-data-transformation-in-eventstream-for-kql-database-integration?ft=All)
 
 ## Community
 
@@ -186,6 +189,10 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Data Activator Demo](https://aka.ms/DataActivatorMechanicsVideo)
 * [Row level Security - Warehouse & SQL Endpoint](https://www.youtube.com/watch?v=_gcPNOyrGgc)
 * [Dataverse Integration with Microsoft Fabric](https://www.youtube.com/watch?v=bgcNsqp92YE)
+* [Microsoft Fabric Capacity Smoothing and Data Warehouse Throttling](https://www.youtube.com/watch?v=6pe9NnpRm0w)
+* [Permissions in Microsoft Fabric Workspace and SQL](https://www.youtube.com/watch?v=47vCxbHchn4)
+* [Microsoft Fabric Spark Utilities - mssparkutils](https://www.youtube.com/watch?v=P3vQyvO55DI)
+* [Data Engineering Starter Kit - Quick Start with Fabric Product Group](https://www.youtube.com/watch?v=Sf5qSfiYITA)
     
 ## Learning
 
