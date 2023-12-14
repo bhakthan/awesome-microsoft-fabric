@@ -39,6 +39,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 
 ## Roadmap
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap)
+* [Adoption Roadmap](https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap)
   
 ## Blogs
 
