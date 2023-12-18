@@ -19,7 +19,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
     - [Data Warehouse](#data-warehouse)
     - [Data Factory](#data-factory)
     - [Data Engineering](#data-engineering)
-    - [Data Science](#data-science)
+    - [Data Science / AI](#data-science-/-AI)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
     - [Data Activator](#data-activator)
@@ -43,7 +43,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
   
 ## Blogs
 
-* Blogs to empower teams that are looking to transform the organization with Microsoft Fabric*
+Blogs to empower teams that are looking to transform the organization with Microsoft Fabric
 * [Microsoft Fabric Blog](https://blog.fabric.microsoft.com/en-US/blog/) Manage your data in one place with Lake Centric SaaS Solution
 * [Submit your ideas](https://aka.ms/fabricideas)
 * [Get Started with Fabric](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/get-started-with-microsoft-fabric-all-in-one-place-for-all-your/ba-p/3830387)
@@ -86,6 +86,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [SAP data into Fabric](https://blog.fabric.microsoft.com/en-us/blog/integrate-your-sap-data-into-microsoft-fabric?ft=All)
 * [Semantic Link: OneLake integrated Semantic Models](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-onelake-integrated-semantic-models?ft=All)
 * [Explore Data Transformation in Eventstream for KQL DB](https://blog.fabric.microsoft.com/en-us/blog/explore-data-transformation-in-eventstream-for-kql-database-integration?ft=All)
+* [Lakehouse Vs Warehouse - Deep Dive into usecases](https://blog.fabric.microsoft.com/en-CA/blog/lakehouse-vs-data-warehouse-deep-dive-into-use-cases-differences-and-architecture-designs/)
 
 ## Community
 
@@ -274,18 +275,19 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
 * [Using Shortcuts instead of external tables to reference external data in Fabric Warehouse](https://www.linkedin.com/pulse/use-shortcuts-instead-external-tables-reference-data-fabric-popovic)
 
 
-## Data Science
+## Data Science / AI
 
 *Next generation data science to train, deploy and manage machine learning models*
 * [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
 * [FabricDataFrame - Semantic Link](https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-overview)
+* [Prebuilt AI Services in Fabric](https://blog.fabric.microsoft.com/en-ca/blog/prebuilt-azure-ai-services-in-fabric-2?ft=All)
 
 
 ## Power BI
 
 *Uncover Powerful Insights*
 * [From RabbitMQ to PowerBI reports](https://blog.fabric.microsoft.com/en-us/blog/from-rabbitmq-to-powerbi-reports-with-microsoft-fabric-real-time-analytics?ft=All)
-* 
+* [Incremental Refresh on Delta Tables](https://blog.crossjoin.co.uk/2023/12/17/incremental-refresh-on-delta-tables-in-power-bi/)
 
 
 ## Real-Time Analytics
