@@ -19,7 +19,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
     - [Data Warehouse](#data-warehouse)
     - [Data Factory](#data-factory)
     - [Data Engineering](#data-engineering)
-    - [Data Science / AI](#data-science-/-AI)
+    - [Data Science / AI](#data-science/AI)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
     - [Data Activator](#data-activator)
@@ -275,7 +275,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Using Shortcuts instead of external tables to reference external data in Fabric Warehouse](https://www.linkedin.com/pulse/use-shortcuts-instead-external-tables-reference-data-fabric-popovic)
 
 
-## Data Science / AI
+## Data Science/AI
 
 *Next generation data science to train, deploy and manage machine learning models*
 * [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
