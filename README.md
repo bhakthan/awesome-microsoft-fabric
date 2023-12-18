@@ -19,7 +19,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
     - [Data Warehouse](#data-warehouse)
     - [Data Factory](#data-factory)
     - [Data Engineering](#data-engineering)
-    - [Data Science / AI](#data-science/AI)
+    - [Data Science / AI](#data-science-AI)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
     - [Data Activator](#data-activator)
@@ -87,6 +87,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Semantic Link: OneLake integrated Semantic Models](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-onelake-integrated-semantic-models?ft=All)
 * [Explore Data Transformation in Eventstream for KQL DB](https://blog.fabric.microsoft.com/en-us/blog/explore-data-transformation-in-eventstream-for-kql-database-integration?ft=All)
 * [Lakehouse Vs Warehouse - Deep Dive into usecases](https://blog.fabric.microsoft.com/en-CA/blog/lakehouse-vs-data-warehouse-deep-dive-into-use-cases-differences-and-architecture-designs/)
+* [Datawarehouse Recovery](https://blog.fabric.microsoft.com/en-ca/blog/the-art-of-data-warehouse-recovery-within-microsoft-fabric?ft=All)
 
 ## Community
 
@@ -195,6 +196,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Permissions in Microsoft Fabric Workspace and SQL](https://www.youtube.com/watch?v=47vCxbHchn4)
 * [Microsoft Fabric Spark Utilities - mssparkutils](https://www.youtube.com/watch?v=P3vQyvO55DI)
 * [Data Engineering Starter Kit - Quick Start with Fabric Product Group](https://www.youtube.com/watch?v=Sf5qSfiYITA)
+* [Auto Logging and MLFlow in Fabric](https://www.youtube.com/watch?v=VrIrZfq2RQU)
+* [Model and Experiment Tracking in Fabric MLFLOW](https://www.youtube.com/watch?v=vqqVcD5f-g0)
+* [CSV Ingestion Performance Improvements](https://www.youtube.com/watch?v=PD3AnXiCQo0)
     
 ## Learning
 
@@ -213,7 +217,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Data Analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/) Explore the fundamentals of data analysis, Gain Insights and Multi-Table Queries
 * [Azure Data Engineer - free online training from Azure](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
 
-
+*YT Community*
+* [Learn Microsoft Fabric with Power BI - Amit Chandan - YT Playlist](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39)
+  
 ## Administration
 
 *Fabric Administration for IT Architects, Administrators*
@@ -275,7 +281,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Using Shortcuts instead of external tables to reference external data in Fabric Warehouse](https://www.linkedin.com/pulse/use-shortcuts-instead-external-tables-reference-data-fabric-popovic)
 
 
-## Data Science/AI
+## Data Science AI
 
 *Next generation data science to train, deploy and manage machine learning models*
 * [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
