@@ -345,6 +345,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric end to end use case energy market](https://debruyn.dev/2023/fabric-end-to-end-use-case-overview-architecture/) & [Data Engineering](https://debruyn.dev/2023/fabric-end-to-end-use-case-data-engineering-part-1-spark-and-pandas-in-notebooks/)
 * [Unlock data value with Healthcare Data Solutions in Fabric](https://aka.ms/MC4HDataintegration) & [AI](https://aka.ms/AzureHLTH23)
 
+*Community*
+* [Paul Andrew's Delivering Near Real-Time Satellite Internet Analytics Using Microsoft Fabric](https://www.cloudformations.org/_files/ugd/fb2e49_81aeea8e433b4a4fad7168b106810934.pdf)
+* [Paul Andrew's Marketing Analytics using Microsoft Fabric](https://www.cloudformations.org/_files/ugd/fb2e49_e906b9338f0f4a52b0c24943a20c57b1.pdf)
 
 ## Fabric with Open AI
 
@@ -356,9 +359,3 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Microsoft Larger Ecosystem*
 * [Microsoft 365 Data and Fabric](https://blog.fabric.microsoft.com/en-us/blog/microsoft-365-data-microsoft-fabric-better-together/) Better Together
-
-
-
-  
-
-
