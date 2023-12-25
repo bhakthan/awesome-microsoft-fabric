@@ -5,6 +5,7 @@ A curated unofficial list of awesome Microsoft Fabric (Public Preview) resources
     - [Overview](#overview)
     - [Roadmap](#roadmap)
     - [Blogs](#blogs)
+    - [Workshops](#workshop)
     - [Community](#community)
     - [Samples](#samples)
     - [Presentation](#presentation)
@@ -88,6 +89,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Explore Data Transformation in Eventstream for KQL DB](https://blog.fabric.microsoft.com/en-us/blog/explore-data-transformation-in-eventstream-for-kql-database-integration?ft=All)
 * [Lakehouse Vs Warehouse - Deep Dive into usecases](https://blog.fabric.microsoft.com/en-CA/blog/lakehouse-vs-data-warehouse-deep-dive-into-use-cases-differences-and-architecture-designs/)
 * [Datawarehouse Recovery](https://blog.fabric.microsoft.com/en-ca/blog/the-art-of-data-warehouse-recovery-within-microsoft-fabric?ft=All)
+
+## Workshop
+* [Fabric Workshops and Readiness](https://github.com/microsoft/Fabric_Workshops)
 
 ## Community
 
