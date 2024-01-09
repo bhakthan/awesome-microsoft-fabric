@@ -89,6 +89,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Explore Data Transformation in Eventstream for KQL DB](https://blog.fabric.microsoft.com/en-us/blog/explore-data-transformation-in-eventstream-for-kql-database-integration?ft=All)
 * [Lakehouse Vs Warehouse - Deep Dive into usecases](https://blog.fabric.microsoft.com/en-CA/blog/lakehouse-vs-data-warehouse-deep-dive-into-use-cases-differences-and-architecture-designs/)
 * [Datawarehouse Recovery](https://blog.fabric.microsoft.com/en-ca/blog/the-art-of-data-warehouse-recovery-within-microsoft-fabric?ft=All)
+* [Understanding the underlying architecture](https://piethein.medium.com/microsoft-fabric-a-better-understanding-of-the-underlying-architecture-and-concepts-847407b2524f)
+* [Automate Fabric Datawarehouse queries and commands with data factory](https://blog.fabric.microsoft.com/en-us/blog/automate-fabric-data-warehouse-queries-and-commands-with-data-factory?ft=All)
+* [Fabric Data Factory Data Pipelines to Orchestrate Notebook-based Workflows](https://blog.fabric.microsoft.com/en-us/blog/use-fabric-data-factory-data-pipelines-to-orchestrate-notebook-based-workflows?ft=All)
 
 ## Workshop
 * [Fabric Workshops and Readiness](https://github.com/microsoft/Fabric_Workshops)
@@ -203,6 +206,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Auto Logging and MLFlow in Fabric](https://www.youtube.com/watch?v=VrIrZfq2RQU)
 * [Model and Experiment Tracking in Fabric MLFLOW](https://www.youtube.com/watch?v=vqqVcD5f-g0)
 * [CSV Ingestion Performance Improvements](https://www.youtube.com/watch?v=PD3AnXiCQo0)
+* [Explore custom spark pools](https://www.youtube.com/watch?v=jouBo0AzbvQ)
+* [Automated Maintenance Features in Fabric](https://www.youtube.com/watch?v=uKgXKAw00XM)
     
 ## Learning
 
