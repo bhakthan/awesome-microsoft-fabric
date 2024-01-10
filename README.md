@@ -208,6 +208,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [CSV Ingestion Performance Improvements](https://www.youtube.com/watch?v=PD3AnXiCQo0)
 * [Explore custom spark pools](https://www.youtube.com/watch?v=jouBo0AzbvQ)
 * [Automated Maintenance Features in Fabric](https://www.youtube.com/watch?v=uKgXKAw00XM)
+* [Incremental Refresh with your Warehouse without a date in Microsoft Fabric](https://www.youtube.com/watch?v=uuIznvWX3zw)
     
 ## Learning
 
