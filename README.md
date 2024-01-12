@@ -4,6 +4,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
 - [Awesome Microsoft Fabric](#awesome-microsoft-fabric)
     - [Overview](#overview)
     - [Roadmap](#roadmap)
+    - [Hack](#hack)
     - [Blogs](#blogs)
     - [Workshops](#workshop)
     - [Community](#community)
@@ -29,6 +30,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
     - [Use cases](#use-cases)
     - [Fabric with OpenAI](#fabric-with-openAI)
     - [Microsoft 365](#microsoft-365)
+    - [Application](#application)
 
 
 ---
@@ -41,6 +43,9 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
 ## Roadmap
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap)
 * [Adoption Roadmap](https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap)
+
+## Hack
+* [Fabric AI Hack](https://techcommunity.microsoft.com/t5/educator-developer-blog/hack-together-the-microsoft-fabric-global-ai-hack/ba-p/4024305)
   
 ## Blogs
 
@@ -237,11 +242,14 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Understanding the roles and domains](https://data-marc.com/2023/06/08/governance-in-microsoft-fabric-understanding-the-roles-and-domains/)
 * [Administration and Governance](https://www.element61.be/en/resource/administration-and-governance-microsoft-fabric)
 * [Secure, Govern, Manage at Scale](https://community.fabric.microsoft.com/t5/Webinars-and-Video-Gallery/Secure-govern-and-manage-your-data-at-scale-in-Microsoft-Fabric/m-p/3296299)
+* [Fabric Tenant Settings - Reports](https://techcommunity.microsoft.com/t5/azure-data/microsoft-fabric-tenant-settings-reports/m-p/4021214)
+* [Extract Tenant Settings using Powershell and REST API](https://techcommunity.microsoft.com/t5/azure-data/extracting-tenant-settings-from-microsoft-fabric-using/m-p/4021001)
+* [Fabric Tenant Settings - Current & Snapshot Comparison](https://techcommunity.microsoft.com/t5/azure-data/microsoft-fabric-tenant-settings-v2-current-amp-snapshot/m-p/4024479)
 
 ## One Lake
 *one drive for data*
 * [One Drive for Data - ](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-in-fabric-the-onedrive-for-data?ft=All:) One Data Lake for entier organization
-* 
+* [Store and Manage Medical Imaging Data in ADLS](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/store-and-manage-medical-imaging-data-with-azure-data-lake/ba-p/3990509)
 
 ## Next Generation Synapse Analytics
 
@@ -304,6 +312,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *Uncover Powerful Insights*
 * [From RabbitMQ to PowerBI reports](https://blog.fabric.microsoft.com/en-us/blog/from-rabbitmq-to-powerbi-reports-with-microsoft-fabric-real-time-analytics?ft=All)
 * [Incremental Refresh on Delta Tables](https://blog.crossjoin.co.uk/2023/12/17/incremental-refresh-on-delta-tables-in-power-bi/)
+* [Add LLM Prompts to Reports using Power BI Copilot and Microsoft Fabric](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/add-llm-prompts-to-reports-using-power-bi-copilot-for-microsoft/ba-p/4027217)
+* [Using KQL Query - Kusto query settings in Power BI](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/using-kql-query-settings-in-power-bi/ba-p/4013580)
 
 
 ## Real-Time Analytics
@@ -370,3 +380,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Microsoft Larger Ecosystem*
 * [Microsoft 365 Data and Fabric](https://blog.fabric.microsoft.com/en-us/blog/microsoft-365-data-microsoft-fabric-better-together/) Better Together
+
+## Application
+*Build cloud applications for Microsoft Fabric*
+* [Course - Cloud Powered App - Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/developing-a-curriculum-for-microsoft-fabric-cloud-powered-app/ba-p/4024337)
+* [Content Moderation with Azure Content Safety and Blob Metadata for Analysis and Insights with Microsoft Fabric](https://techcommunity.microsoft.com/t5/apps-on-azure/microsoft-fabric-amp-content-safety-analytics-on-metadata/m-p/4023162)
