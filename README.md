@@ -99,6 +99,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Automate Fabric Datawarehouse queries and commands with data factory](https://blog.fabric.microsoft.com/en-us/blog/automate-fabric-data-warehouse-queries-and-commands-with-data-factory?ft=All)
 * [Fabric Data Factory Data Pipelines to Orchestrate Notebook-based Workflows](https://blog.fabric.microsoft.com/en-us/blog/use-fabric-data-factory-data-pipelines-to-orchestrate-notebook-based-workflows?ft=All)
 
+## Certification
+* [Fabric Certification and Career Hub - New Fabric Analytics Engineer Associate certification](https://blog.fabric.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub?ft=All)
+
 ## Workshop
 * [Fabric Workshops and Readiness](https://github.com/microsoft/Fabric_Workshops)
 
@@ -135,9 +138,6 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
-
-*Certification*
-* [Fabric Certification and Career Hub - New Fabric Analytics Engineer Associate certification](https://blog.fabric.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub?ft=All)
 
 ## Samples
 *code samples*
