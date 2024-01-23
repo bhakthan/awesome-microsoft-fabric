@@ -6,6 +6,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
     - [Roadmap](#roadmap)
     - [Hack](#hack)
     - [Blogs](#blogs)
+    - [Certification](#certification)
     - [Workshops](#workshop)
     - [Community](#community)
     - [Samples](#samples)
@@ -134,6 +135,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
+
+*Certification*
+* [Fabric Certification and Career Hub - New Fabric Analytics Engineer Associate certification](https://blog.fabric.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub?ft=All)
 
 ## Samples
 *code samples*
@@ -305,6 +309,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Semantic Link - Using Fabric Notebooks with Power BI datasets for Machine Learning](https://blog.fabric.microsoft.com/en-us/blog/semantic-link-use-fabric-notebooks-and-power-bi-datasets-for-machine-learning-data-validation-and-more?ft=All)
 * [FabricDataFrame - Semantic Link](https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-overview)
 * [Prebuilt AI Services in Fabric](https://blog.fabric.microsoft.com/en-ca/blog/prebuilt-azure-ai-services-in-fabric-2?ft=All)
+* [Copilot for Data Science and Data Engineering](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-copilot-a-game-changer-for-data-professionals/)
 
 
 ## Power BI
