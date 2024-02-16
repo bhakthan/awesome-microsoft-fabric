@@ -6,6 +6,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
     - [Roadmap](#roadmap)
     - [Hack](#hack)
     - [Blogs](#blogs)
+    - [Ideas and Usergroups](#ideas)
     - [Certification](#certification)
     - [Workshops](#workshop)
     - [Community](#community)
@@ -99,6 +100,10 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Automate Fabric Datawarehouse queries and commands with data factory](https://blog.fabric.microsoft.com/en-us/blog/automate-fabric-data-warehouse-queries-and-commands-with-data-factory?ft=All)
 * [Fabric Data Factory Data Pipelines to Orchestrate Notebook-based Workflows](https://blog.fabric.microsoft.com/en-us/blog/use-fabric-data-factory-data-pipelines-to-orchestrate-notebook-based-workflows?ft=All)
 
+## Ideas and Usergroups
+* [Fabric Ideas](https://ideas.fabric.microsoft.com/)
+* [User Groups](https://aka.ms/FabricUserGroups)
+  
 ## Certification
 * [Fabric Certification and Career Hub - New Fabric Analytics Engineer Associate certification](https://blog.fabric.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub?ft=All)
 
@@ -254,6 +259,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *one drive for data*
 * [One Drive for Data - ](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-in-fabric-the-onedrive-for-data?ft=All:) One Data Lake for entier organization
 * [Store and Manage Medical Imaging Data in ADLS](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/store-and-manage-medical-imaging-data-with-azure-data-lake/ba-p/3990509)
+* [Interacting with OneLake using Shortcuts REST APIs](https://blog.fabric.microsoft.com/en-US/blog/interacting-with-onelake-using-rest-apis/)
 
 ## Next Generation Synapse Analytics
 
@@ -350,6 +356,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Data Marketplace](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-mesh-data-marketplace)
 * [Scenario: Financial Institution](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/architectures/data-mesh-scenario) Data Mesh
 * [When to use which - Data Mesh, Data Lakehouse, Data Fabric](https://techcommunity.microsoft.com/t5/data-architecture-blog/bring-vision-to-life-with-three-horizons-data-mesh-data/ba-p/3390414)
+* [Easily implement data mesh architecture with domains in Fabric](https://blog.fabric.microsoft.com/en-us/blog/easily-implement-data-mesh-architecture-with-domains-in-fabric?ft=All)
 
 *Community*
 * [Data Mesh Principles - Zhamak](https://martinfowler.com/articles/data-mesh-principles.html)
