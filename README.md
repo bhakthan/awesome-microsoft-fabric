@@ -33,6 +33,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
     - [Fabric with OpenAI](#fabric-with-openAI)
     - [Microsoft 365](#microsoft-365)
     - [Application](#application)
+    - [Copilot](#copilot)
 
 
 ---
@@ -99,8 +100,10 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Understanding the underlying architecture](https://piethein.medium.com/microsoft-fabric-a-better-understanding-of-the-underlying-architecture-and-concepts-847407b2524f)
 * [Automate Fabric Datawarehouse queries and commands with data factory](https://blog.fabric.microsoft.com/en-us/blog/automate-fabric-data-warehouse-queries-and-commands-with-data-factory?ft=All)
 * [Fabric Data Factory Data Pipelines to Orchestrate Notebook-based Workflows](https://blog.fabric.microsoft.com/en-us/blog/use-fabric-data-factory-data-pipelines-to-orchestrate-notebook-based-workflows?ft=All)
+* [Data Pipelines - Advanced Scheduling Techniques](https://blog.fabric.microsoft.com/en-us/blog/fabric-data-pipelines-advanced-scheduling-techniques-part-1?ft=All)
+* [Data Flow Gen2 Destinations and managed settings](https://blog.fabric.microsoft.com/en-us/blog/dataflows-gen-2-data-destinations-and-managed-settings?ft=All)
 
-## Ideas and Usergroups
+## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
 * [User Groups](https://aka.ms/FabricUserGroups)
   
@@ -147,6 +150,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 ## Samples
 *code samples*
 * [Fabric Samples for Data Engineering, Data Science, Continous Integration and Development CI/CD, real-time analytics and Developer](https://github.com/microsoft/fabric-samples/tree/main/docs-samples)
+* [CI/CD GIT integration](https://github.com/microsoft/fabric-samples/tree/main/e2e-samples)
 
 ## Presentation
 *Fabric Readiness*
@@ -223,6 +227,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Explore custom spark pools](https://www.youtube.com/watch?v=jouBo0AzbvQ)
 * [Automated Maintenance Features in Fabric](https://www.youtube.com/watch?v=uKgXKAw00XM)
 * [Incremental Refresh with your Warehouse without a date in Microsoft Fabric](https://www.youtube.com/watch?v=uuIznvWX3zw)
+* [Real-time analytics (Synapse) with Fabrics](https://www.youtube.com/watch?v=SyRDll6OvX0)
     
 ## Learning
 
@@ -398,3 +403,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *Build cloud applications for Microsoft Fabric*
 * [Course - Cloud Powered App - Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/developing-a-curriculum-for-microsoft-fabric-cloud-powered-app/ba-p/4024337)
 * [Content Moderation with Azure Content Safety and Blob Metadata for Analysis and Insights with Microsoft Fabric](https://techcommunity.microsoft.com/t5/apps-on-azure/microsoft-fabric-amp-content-safety-analytics-on-metadata/m-p/4023162)
+
+## Copilot
+*Copilot & Fabric
+* [Use Copilot in Fabric](https://blog.fabric.microsoft.com/en-us/blog/fabric-change-the-game-how-easy-is-it-to-use-copilot-in-microsoft-fabric?ft=All)
