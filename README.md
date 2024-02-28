@@ -24,6 +24,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
     - [Data Factory](#data-factory)
     - [Data Engineering](#data-engineering)
     - [Data Science / AI](#data-science-AI)
+    - [EventHouse](#EventHouse)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
     - [Data Activator](#data-activator)
@@ -42,6 +43,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
 
 *For Business and Technical Decision makers*
 * [Overview](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) Get Started - Microsoft Fabric Overview
+* [Decision Guide](https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store)
 
 ## Roadmap
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap)
@@ -102,6 +104,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Data Factory Data Pipelines to Orchestrate Notebook-based Workflows](https://blog.fabric.microsoft.com/en-us/blog/use-fabric-data-factory-data-pipelines-to-orchestrate-notebook-based-workflows?ft=All)
 * [Data Pipelines - Advanced Scheduling Techniques](https://blog.fabric.microsoft.com/en-us/blog/fabric-data-pipelines-advanced-scheduling-techniques-part-1?ft=All)
 * [Data Flow Gen2 Destinations and managed settings](https://blog.fabric.microsoft.com/en-us/blog/dataflows-gen-2-data-destinations-and-managed-settings?ft=All)
+* [Managed Private End Points](https://blog.fabric.microsoft.com/en-us/blog/introducing-managed-private-endpoints-for-microsoft-fabric-in-public-preview/)
 
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -291,6 +294,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Deployment Pipelines](https://sqlreitse.com/2023/09/22/microsoft-fabric-deployment-pipelines/)
 * [Event Stream in Fabric with Event Processor](https://blog.fabric.microsoft.com/en-us/blog/whats-new-in-eventstream-enhanced-ux-on-event-processor-and-expanded-custom-app-connections?ft=All)
 * [IoT Hub Data Event Stream for email alerting](https://blog.fabric.microsoft.com/en-us/blog/stream-azure-iot-hub-data-into-fabric-eventstream-for-email-alerting?ft=All)
+* [DataFlow Gen2 Destinations](https://blog.fabric.microsoft.com/en-us/blog/dataflows-gen-2-data-destinations-and-managed-settings?ft=All)
 
 
 ## Data Warehouse
@@ -312,6 +316,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Mapping Data Flow to Spark - Example](https://github.com/sethiaarun/mapping-data-flow-to-spark)
 * [Understand Delta Lake Table Features - delta IO](https://delta.io/blog/2023-07-27-delta-lake-table-features/)
 * [Using Shortcuts instead of external tables to reference external data in Fabric Warehouse](https://www.linkedin.com/pulse/use-shortcuts-instead-external-tables-reference-data-fabric-popovic)
+* [Fabric Data Pipeline Advanced Scheduling Techniques](https://blog.fabric.microsoft.com/en-us/blog/fabric-data-pipelines-advanced-scheduling-techniques-part-1?ft=All)
 
 
 ## Data Science AI
@@ -322,7 +327,10 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Prebuilt AI Services in Fabric](https://blog.fabric.microsoft.com/en-ca/blog/prebuilt-azure-ai-services-in-fabric-2?ft=All)
 * [Copilot for Data Science and Data Engineering](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-copilot-a-game-changer-for-data-professionals/)
 
-
+## EventHouse
+*Real time data^
+* [Fabric Eventhouse real time data](https://blog.fabric.microsoft.com/en-us/blog/eventhouse-overview-handling-real-time-data-with-microsoft-fabric?ft=All)
+  
 ## Power BI
 
 *Uncover Powerful Insights*
