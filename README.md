@@ -105,6 +105,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Data Pipelines - Advanced Scheduling Techniques](https://blog.fabric.microsoft.com/en-us/blog/fabric-data-pipelines-advanced-scheduling-techniques-part-1?ft=All)
 * [Data Flow Gen2 Destinations and managed settings](https://blog.fabric.microsoft.com/en-us/blog/dataflows-gen-2-data-destinations-and-managed-settings?ft=All)
 * [Managed Private End Points](https://blog.fabric.microsoft.com/en-us/blog/introducing-managed-private-endpoints-for-microsoft-fabric-in-public-preview/)
+* [Mapping Azure Synapse Dedicated SQL pools to fabric data warehouse compute](https://blog.fabric.microsoft.com/en-us/blog/mapping-azure-synapse-dedicated-sql-pools-to-fabric-data-warehouse-compute?ft=All)
 
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -231,7 +232,10 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Automated Maintenance Features in Fabric](https://www.youtube.com/watch?v=uKgXKAw00XM)
 * [Incremental Refresh with your Warehouse without a date in Microsoft Fabric](https://www.youtube.com/watch?v=uuIznvWX3zw)
 * [Real-time analytics (Synapse) with Fabrics](https://www.youtube.com/watch?v=SyRDll6OvX0)
-    
+* [Consume Warehouse data from other sources](https://www.youtube.com/watch?v=SSSlufo9kqM)
+* [Everything you need to know to get started with ADX](https://www.youtube.com/watch?v=XVEAjwjpTng)
+* [Fabric Spark Compute Capabilities - Azure VMs and their impact on Performance](https://www.youtube.com/watch?v=LJAmc1Ng-Ic)
+*     
 ## Learning
 
 *Learning Fabric*
@@ -344,6 +348,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Actionable real-time insights and perform analysis on large volumes of data*
 * [Realtime data sharing in Fabric](https://blog.fabric.microsoft.com/en-sg/blog/introducing-real-time-data-sharing-in-microsoft-fabric?ft=All)
+
 
 
 ## Data Activator
