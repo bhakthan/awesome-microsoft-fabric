@@ -272,6 +272,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [One Drive for Data - ](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-in-fabric-the-onedrive-for-data?ft=All:) One Data Lake for entier organization
 * [Store and Manage Medical Imaging Data in ADLS](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/store-and-manage-medical-imaging-data-with-azure-data-lake/ba-p/3990509)
 * [Interacting with OneLake using Shortcuts REST APIs](https://blog.fabric.microsoft.com/en-US/blog/interacting-with-onelake-using-rest-apis/)
+* [Building Common Data Architectures with OneLake - Security](https://blog.fabric.microsoft.com/en-us/blog/building-common-data-architectures-with-onelake-in-microsoft-fabric/)
 
 ## Next Generation Synapse Analytics
 
