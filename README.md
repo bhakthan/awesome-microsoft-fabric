@@ -113,6 +113,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
   
 ## Certification
 * [Fabric Certification and Career Hub - New Fabric Analytics Engineer Associate certification](https://blog.fabric.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub?ft=All)
+* [DP-600 Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/) & [Community Measuring Guide](https://www.serverlesssql.com/dp-600-fabric-analytics-engineer-skills-measured-guide/)
 
 ## Workshop
 * [Fabric Workshops and Readiness](https://github.com/microsoft/Fabric_Workshops)
@@ -235,7 +236,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Consume Warehouse data from other sources](https://www.youtube.com/watch?v=SSSlufo9kqM)
 * [Everything you need to know to get started with ADX](https://www.youtube.com/watch?v=XVEAjwjpTng)
 * [Fabric Spark Compute Capabilities - Azure VMs and their impact on Performance](https://www.youtube.com/watch?v=LJAmc1Ng-Ic)
-*     
+      
 ## Learning
 
 *Learning Fabric*
@@ -267,12 +268,22 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Extract Tenant Settings using Powershell and REST API](https://techcommunity.microsoft.com/t5/azure-data/extracting-tenant-settings-from-microsoft-fabric-using/m-p/4021001)
 * [Fabric Tenant Settings - Current & Snapshot Comparison](https://techcommunity.microsoft.com/t5/azure-data/microsoft-fabric-tenant-settings-v2-current-amp-snapshot/m-p/4024479)
 
+
+*Community*
+* [Trusted workspace access for onelake shortcuts - configuring workspace identity - Fabric networking](https://www.serverlesssql.com/trusted-workspace-access-for-onelake-shortcuts/)
+* [Fabric Networking: Managed Private Endpoints with Setup and Considerations](https://www.serverlesssql.com/managed-private-endpoints-in-microsoft-fabric/)
+* [Fabric Link for Dataverse](https://www.serverlesssql.com/fabric-link-for-dataverse-whats-in-the-box/)
+
 ## One Lake
 *one drive for data*
 * [One Drive for Data - ](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-in-fabric-the-onedrive-for-data?ft=All:) One Data Lake for entier organization
 * [Store and Manage Medical Imaging Data in ADLS](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/store-and-manage-medical-imaging-data-with-azure-data-lake/ba-p/3990509)
 * [Interacting with OneLake using Shortcuts REST APIs](https://blog.fabric.microsoft.com/en-US/blog/interacting-with-onelake-using-rest-apis/)
 * [Building Common Data Architectures with OneLake - Security](https://blog.fabric.microsoft.com/en-us/blog/building-common-data-architectures-with-onelake-in-microsoft-fabric/)
+
+*Community*
+* [Exploring Fabric OneLake vs Azure Data Lake Gen2 Storage Accounts](https://www.serverlesssql.com/onelake-storage/)
+* [Delta Change Data Feed in Fabric Lakehouse](https://www.serverlesssql.com/delta-change-data-feed-in-fabric-lakehouses/)
 
 ## Next Generation Synapse Analytics
 
@@ -417,6 +428,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *Build cloud applications for Microsoft Fabric*
 * [Course - Cloud Powered App - Fabric](https://techcommunity.microsoft.com/t5/educator-developer-blog/developing-a-curriculum-for-microsoft-fabric-cloud-powered-app/ba-p/4024337)
 * [Content Moderation with Azure Content Safety and Blob Metadata for Analysis and Insights with Microsoft Fabric](https://techcommunity.microsoft.com/t5/apps-on-azure/microsoft-fabric-amp-content-safety-analytics-on-metadata/m-p/4023162)
+
+## Copilot
+
+*Community*
+* [Using Copilot in Fabric Notebook for data engineering](https://www.serverlesssql.com/using-copilot-in-fabric-notebooks-for-data-engineering/)
 
 ## Copilot
 *Copilot & Fabric
