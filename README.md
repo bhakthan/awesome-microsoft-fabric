@@ -28,6 +28,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
     - [Data Activator](#data-activator)
+    - [Data Quality](#data-quality)
     - [Data Governance](#data-governance)
     - [Data Mesh](#data-mesh)
     - [Use cases](#use-cases)
@@ -173,6 +174,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Lakehouse Introduction](https://learn.microsoft.com/en-us/fabric/data-engineering/tutorial-lakehouse-introduction) End-to-end scenario from data acquisition to data consumption
 * [Building ETL step by step](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/step-by-step-tutorial-building-etls-with-microsoft-fabric/ba-p/3885183)
 * [Criteria to make decisions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/microsoft-fabric-microsoft-fabric-criteria-to-make-decision-part/ba-p/3847511)
+* [A better Understanding of the Underlying Architecture- Fabric](https://piethein.medium.com/microsoft-fabric-a-better-understanding-of-the-underlying-architecture-and-concepts-847407b2524f)
 
 ## Videos
 
@@ -344,7 +346,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Copilot for Data Science and Data Engineering](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-copilot-a-game-changer-for-data-professionals/)
 
 ## EventHouse
-*Real time data^
+*Real time data*
 * [Fabric Eventhouse real time data](https://blog.fabric.microsoft.com/en-us/blog/eventhouse-overview-handling-real-time-data-with-microsoft-fabric?ft=All)
   
 ## Power BI
@@ -370,6 +372,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Extensive capabilities consolidated](https://github.com/microsoft/dataActivator/blob/main/Data%20Activator%20Consolidated%20Docs.pdf)
 * [Automate data driven actions](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/automate-data-driven-actions-data-activator-in-microsoft-fabric/ba-p/3946833)
 
+## Data Quality
+* [Data Quality within Lakehouse](https://piethein.medium.com/data-quality-within-lakehouses-0c9417ce0487)
+
+*Community*
+* [Accessing Purview Portal in your own Fabric Environment](https://www.kevinrchant.com/2024/02/10/accessing-the-new-microsoft-purview-portal-in-your-own-microsoft-fabric-environment/)
 
 ## Data Governance
 
@@ -398,6 +405,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Data Mesh vs Data Fabric](https://atlan.com/data-mesh-vs-data-fabric/)
 * [Adopt a Product Mindset with Microsoft Fabric](https://endjin.com/blog/2023/08/adopt-a-product-mindset-to-maximise-value-from-microsoft-fabric)
 * [Building a data mesh architecture - Paul Andrew](https://mrpaulandrew.com/2021/12/15/building-a-data-mesh-architecture-in-azure-part-1/)
+* [Understanding Data Modelling in Data Mesh](https://piethein.medium.com/understanding-data-modelling-in-data-mesh-bf0dfcfd0583)
 
 
 
