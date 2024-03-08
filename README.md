@@ -4,6 +4,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
 - [Awesome Microsoft Fabric](#awesome-microsoft-fabric)
     - [Overview](#overview)
     - [Roadmap](#roadmap)
+    - [GuidedTour](#guidedtour)
     - [Hack](#hack)
     - [Blogs](#blogs)
     - [Ideas and Usergroups](#ideas)
@@ -49,6 +50,9 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
 ## Roadmap
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap)
 * [Adoption Roadmap](https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap)
+
+## GuidedTour
+* [Fabric Guided Tour](https://guidedtour.microsoft.com/en-us/guidedtour/microsoft-fabric/microsoft-fabric/1/1)
 
 ## Hack
 * [Fabric AI Hack](https://techcommunity.microsoft.com/t5/educator-developer-blog/hack-together-the-microsoft-fabric-global-ai-hack/ba-p/4024305)
