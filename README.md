@@ -111,6 +111,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Data Flow Gen2 Destinations and managed settings](https://blog.fabric.microsoft.com/en-us/blog/dataflows-gen-2-data-destinations-and-managed-settings?ft=All)
 * [Managed Private End Points](https://blog.fabric.microsoft.com/en-us/blog/introducing-managed-private-endpoints-for-microsoft-fabric-in-public-preview/)
 * [Mapping Azure Synapse Dedicated SQL pools to fabric data warehouse compute](https://blog.fabric.microsoft.com/en-us/blog/mapping-azure-synapse-dedicated-sql-pools-to-fabric-data-warehouse-compute?ft=All)
+* [Analyze Dataverse Tables with Fabric](https://blog.fabric.microsoft.com/en-us/blog/analyze-dataverse-tables-from-microsoft-fabric?ft=All)
+* [Bridging Fabric Lakehouses: Delta Change Data Feed for Seamless ETL](https://blog.fabric.microsoft.com/en-us/blog/bridging-fabric-lakehouses-delta-change-data-feed-for-seamless-etl?ft=All)
 
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -153,6 +155,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Analyze Power BI Data in Excel with Fabric](https://blog.crossjoin.co.uk/2023/10/15/analyse-power-bi-data-in-excel-with-python/)
 * [Security - Item level access SQL Policy and Object Level](https://shabnamwatson.com/2023/11/14/microsoft-fabric-workspace-access-item-level-access-sql-policy-and-object-level-security/)
 * [Comparative Analysis of Fabric](https://www.linkedin.com/pulse/unveiling-microsoft-fabric-comparative-analysis-against-sanchez)
+* [Streamlit with Microsoft Fabric](https://murggu.medium.com/using-streamlit-with-fabric-ebb0998ccc7f)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
