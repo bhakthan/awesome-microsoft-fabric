@@ -113,6 +113,10 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Mapping Azure Synapse Dedicated SQL pools to fabric data warehouse compute](https://blog.fabric.microsoft.com/en-us/blog/mapping-azure-synapse-dedicated-sql-pools-to-fabric-data-warehouse-compute?ft=All)
 * [Analyze Dataverse Tables with Fabric](https://blog.fabric.microsoft.com/en-us/blog/analyze-dataverse-tables-from-microsoft-fabric?ft=All)
 * [Bridging Fabric Lakehouses: Delta Change Data Feed for Seamless ETL](https://blog.fabric.microsoft.com/en-us/blog/bridging-fabric-lakehouses-delta-change-data-feed-for-seamless-etl?ft=All)
+* [Integrate onpremise data using data pipelines in data factory - data gateway](https://blog.fabric.microsoft.com/en-us/blog/integrating-on-premises-data-into-microsoft-fabric-using-data-pipelines-in-data-factory?ft=All)
+* [Fast copy in Gen2](https://blog.fabric.microsoft.com/en-us/blog/fast-copy-in-dataflows-gen-2?ft=All)
+* [Analyze Dataverse tables in Fabric](https://blog.fabric.microsoft.com/en-us/blog/analyze-dataverse-tables-from-microsoft-fabric?ft=All)
+* [Delta change data feed for seemless ETL](https://blog.fabric.microsoft.com/en-us/blog/bridging-fabric-lakehouses-delta-change-data-feed-for-seamless-etl?ft=All)
 
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
