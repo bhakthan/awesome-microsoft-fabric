@@ -249,6 +249,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Consume Warehouse data from other sources](https://www.youtube.com/watch?v=SSSlufo9kqM)
 * [Everything you need to know to get started with ADX](https://www.youtube.com/watch?v=XVEAjwjpTng)
 * [Fabric Spark Compute Capabilities - Azure VMs and their impact on Performance](https://www.youtube.com/watch?v=LJAmc1Ng-Ic)
+* [Mapping personas to Microsoft Fabric roles](https://www.youtube.com/watch?v=1DCTAYhtHgg)
       
 ## Learning
 
