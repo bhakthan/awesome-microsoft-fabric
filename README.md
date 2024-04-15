@@ -267,6 +267,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [DataFlow Gen2](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/) Ingest with Dataflows in Microsoft Fabric
 * [Data Analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/) Explore the fundamentals of data analysis, Gain Insights and Multi-Table Queries
 * [Azure Data Engineer - free online training from Azure](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
+* [Learn together](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-fabric-learn-together/)
 
 *YT Community*
 * [Learn Microsoft Fabric with Power BI - Amit Chandan - YT Playlist](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39)
