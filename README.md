@@ -17,6 +17,7 @@ A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs
     - [Videos](#videos)
     - [Learning](#learning)
     - [Administration](#administration)
+    - [Security](#security)
     - [One Lake](#onelake)
     - [Next Generation Synapse Analytics](#synapse-analytics)
     - [Migration](#migration)
@@ -117,7 +118,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fast copy in Gen2](https://blog.fabric.microsoft.com/en-us/blog/fast-copy-in-dataflows-gen-2?ft=All)
 * [Analyze Dataverse tables in Fabric](https://blog.fabric.microsoft.com/en-us/blog/analyze-dataverse-tables-from-microsoft-fabric?ft=All)
 * [Delta change data feed for seemless ETL](https://blog.fabric.microsoft.com/en-us/blog/bridging-fabric-lakehouses-delta-change-data-feed-for-seamless-etl?ft=All)
-
+* [CosmosDB for NoSQL with Fabric](https://blog.fabric.microsoft.com/en-us/blog/fabric-change-the-game-embracing-azure-cosmos-db-for-no-sql?ft=All)
+* [Mirroring Azure SQL Database in Fabric](https://blog.fabric.microsoft.com/en-us/blog/announcing-mirroring-azure-sql-database-in-fabric-for-public-preview/)
+  
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
 * [User Groups](https://aka.ms/FabricUserGroups)
@@ -289,6 +292,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Networking: Managed Private Endpoints with Setup and Considerations](https://www.serverlesssql.com/managed-private-endpoints-in-microsoft-fabric/)
 * [Fabric Link for Dataverse](https://www.serverlesssql.com/fabric-link-for-dataverse-whats-in-the-box/)
 
+## Security
+* [Fabric Security End to End - Whitepaper](https://learn.microsoft.com/en-us/fabric/security/white-paper-landing-page)
+* [External Data Sharing](https://blog.fabric.microsoft.com/en-us/blog/introducing-external-data-sharing-a-new-way-to-collaborate-across-fabric-tenants)
+* 
+
 ## One Lake
 *one drive for data*
 * [One Drive for Data - ](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-in-fabric-the-onedrive-for-data?ft=All:) One Data Lake for entier organization
@@ -348,7 +356,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Understand Delta Lake Table Features - delta IO](https://delta.io/blog/2023-07-27-delta-lake-table-features/)
 * [Using Shortcuts instead of external tables to reference external data in Fabric Warehouse](https://www.linkedin.com/pulse/use-shortcuts-instead-external-tables-reference-data-fabric-popovic)
 * [Fabric Data Pipeline Advanced Scheduling Techniques](https://blog.fabric.microsoft.com/en-us/blog/fabric-data-pipelines-advanced-scheduling-techniques-part-1?ft=All)
-
+* [Optimistic Job Admission - Spark](https://blog.fabric.microsoft.com/en-us/blog/introducing-optimistic-job-admission-for-fabric-spark?ft=All)
 
 ## Data Science AI
 
@@ -357,6 +365,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [FabricDataFrame - Semantic Link](https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-overview)
 * [Prebuilt AI Services in Fabric](https://blog.fabric.microsoft.com/en-ca/blog/prebuilt-azure-ai-services-in-fabric-2?ft=All)
 * [Copilot for Data Science and Data Engineering](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-copilot-a-game-changer-for-data-professionals/)
+* [Code First AutoML and Hyperparameter Tuning](https://blog.fabric.microsoft.com/en-us/blog/introducing-code-first-automl-and-hyperparameter-tuning-now-in-public-preview-for-fabric-data-science?ft=All)
 
 ## EventHouse
 *Real time data*
