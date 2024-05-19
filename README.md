@@ -285,6 +285,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Tenant Settings - Reports](https://techcommunity.microsoft.com/t5/azure-data/microsoft-fabric-tenant-settings-reports/m-p/4021214)
 * [Extract Tenant Settings using Powershell and REST API](https://techcommunity.microsoft.com/t5/azure-data/extracting-tenant-settings-from-microsoft-fabric-using/m-p/4021001)
 * [Fabric Tenant Settings - Current & Snapshot Comparison](https://techcommunity.microsoft.com/t5/azure-data/microsoft-fabric-tenant-settings-v2-current-amp-snapshot/m-p/4024479)
+* [Fabric Deployment Pipelines using API](https://blog.fabric.microsoft.com/en-us/blog/fabric-ci-cd-announcements-supporting-new-items-and-much-more?ft=All)
 
 
 *Community*
@@ -306,6 +307,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Community*
 * [Exploring Fabric OneLake vs Azure Data Lake Gen2 Storage Accounts](https://www.serverlesssql.com/onelake-storage/)
+* [Databricks - Writing to OneLake](https://murggu.medium.com/databricks-and-fabric-writing-to-onelake-and-adls-gen2-671dcf24cf33)
 * [Delta Change Data Feed in Fabric Lakehouse](https://www.serverlesssql.com/delta-change-data-feed-in-fabric-lakehouses/)
 
 ## Next Generation Synapse Analytics
