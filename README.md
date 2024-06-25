@@ -171,6 +171,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *code samples*
 * [Fabric Samples for Data Engineering, Data Science, Continous Integration and Development CI/CD, real-time analytics and Developer](https://github.com/microsoft/fabric-samples/tree/main/docs-samples)
 * [CI/CD GIT integration](https://github.com/microsoft/fabric-samples/tree/main/e2e-samples)
+* [Fabric Workload Development](https://github.com/microsoft/Microsoft-Fabric-workload-development-sample)
 
 ## Presentation
 *Fabric Readiness*
