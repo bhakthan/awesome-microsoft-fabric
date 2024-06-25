@@ -120,6 +120,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Delta change data feed for seemless ETL](https://blog.fabric.microsoft.com/en-us/blog/bridging-fabric-lakehouses-delta-change-data-feed-for-seamless-etl?ft=All)
 * [CosmosDB for NoSQL with Fabric](https://blog.fabric.microsoft.com/en-us/blog/fabric-change-the-game-embracing-azure-cosmos-db-for-no-sql?ft=All)
 * [Mirroring Azure SQL Database in Fabric](https://blog.fabric.microsoft.com/en-us/blog/announcing-mirroring-azure-sql-database-in-fabric-for-public-preview/)
+* [Fabric git Integration](https://blog.fabric.microsoft.com/en-us/blog/introducing-new-branching-capabilities-in-fabric-git-integration?ft=All)
+* [Mastering Enterprise T-SQL ETL/ELT: A Guide with Data Warehouse and Fabric Pipelines](https://blog.fabric.microsoft.com/en-us/blog/mastering-enterprise-t-sql-etl-elt-a-guide-with-data-warehouse-and-fabric-pipelines?ft=All)
+* [Demystifying Data Ingestion in Fabric: Fundamental Components for Ingesting Data into a Fabric Lakehouse using Fabric Data Pipelines](https://blog.fabric.microsoft.com/en-us/blog/demystifying-data-ingestion-in-fabric-fundamental-components-for-ingesting-data-into-a-fabric-lakehouse-using-fabric-data-pipelines?ft=All)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -254,6 +257,12 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Everything you need to know to get started with ADX](https://www.youtube.com/watch?v=XVEAjwjpTng)
 * [Fabric Spark Compute Capabilities - Azure VMs and their impact on Performance](https://www.youtube.com/watch?v=LJAmc1Ng-Ic)
 * [Mapping personas to Microsoft Fabric roles](https://www.youtube.com/watch?v=1DCTAYhtHgg)
+
+#community
+* [Data pipeline vs Dataflow vs Shortcut vs Notebook in Microsoft Fabric](https://www.youtube.com/watch?v=t5mUKaLWpHE)
+* [Cost and Performance Considerations when ingesting data into Microsoft Fabric](https://www.youtube.com/watch?v=KgaTE4f08Qo)
+* [How to understand DW query cost](https://www.youtube.com/watch?v=GdAzYjbw9pQ)
+* [Direct Lake vs Direct Query? Which one is used and how to validate](https://www.youtube.com/watch?v=KkU980shLCo)
       
 ## Learning
 
