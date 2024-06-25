@@ -123,6 +123,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric git Integration](https://blog.fabric.microsoft.com/en-us/blog/introducing-new-branching-capabilities-in-fabric-git-integration?ft=All)
 * [Mastering Enterprise T-SQL ETL/ELT: A Guide with Data Warehouse and Fabric Pipelines](https://blog.fabric.microsoft.com/en-us/blog/mastering-enterprise-t-sql-etl-elt-a-guide-with-data-warehouse-and-fabric-pipelines?ft=All)
 * [Demystifying Data Ingestion in Fabric: Fundamental Components for Ingesting Data into a Fabric Lakehouse using Fabric Data Pipelines](https://blog.fabric.microsoft.com/en-us/blog/demystifying-data-ingestion-in-fabric-fundamental-components-for-ingesting-data-into-a-fabric-lakehouse-using-fabric-data-pipelines?ft=All)
+* [Custom Pools - Workspace level capacity pools for data engineering and data science](https://blog.fabric.microsoft.com/en-us/blog/introducing-capacity-pools-for-data-engineering-and-data-science-in-microsoft-fabric/)
+* [Microsoft Fabric Lifecycle Management: Getting started with development in isolation using a Private Workspace](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-lifecycle-management-getting-started-with-development-in-isolation-using-a-private-workspace?ft=All)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
