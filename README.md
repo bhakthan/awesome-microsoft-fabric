@@ -1,5 +1,5 @@
 # awesome-microsoft-fabric
-A curated unofficial list of awesome Microsoft Fabric resources, updates,  blogs, videos and more
+A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  blogs, videos and more
 
 - [Awesome Microsoft Fabric](#awesome-microsoft-fabric)
     - [Overview](#overview)
