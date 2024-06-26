@@ -125,6 +125,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Demystifying Data Ingestion in Fabric: Fundamental Components for Ingesting Data into a Fabric Lakehouse using Fabric Data Pipelines](https://blog.fabric.microsoft.com/en-us/blog/demystifying-data-ingestion-in-fabric-fundamental-components-for-ingesting-data-into-a-fabric-lakehouse-using-fabric-data-pipelines?ft=All)
 * [Custom Pools - Workspace level capacity pools for data engineering and data science](https://blog.fabric.microsoft.com/en-us/blog/introducing-capacity-pools-for-data-engineering-and-data-science-in-microsoft-fabric/)
 * [Microsoft Fabric Lifecycle Management: Getting started with development in isolation using a Private Workspace](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-lifecycle-management-getting-started-with-development-in-isolation-using-a-private-workspace?ft=All)
+* [Build Custom AI applications Retrieval Augmented Generation RAG with LLM - Fabric](https://blog.fabric.microsoft.com/en-us/blog/building-custom-ai-applications-with-microsoft-fabric-implementing-retrieval-augmented-generation-for-enhanced-language-models/)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
