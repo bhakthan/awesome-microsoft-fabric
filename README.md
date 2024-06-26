@@ -168,6 +168,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Security - Item level access SQL Policy and Object Level](https://shabnamwatson.com/2023/11/14/microsoft-fabric-workspace-access-item-level-access-sql-policy-and-object-level-security/)
 * [Comparative Analysis of Fabric](https://www.linkedin.com/pulse/unveiling-microsoft-fabric-comparative-analysis-against-sanchez)
 * [Streamlit with Microsoft Fabric](https://murggu.medium.com/using-streamlit-with-fabric-ebb0998ccc7f)
+* [Databricks and Unity Catalog integration with Fabric](https://murggu.medium.com/microsoft-fabric-and-databricks-unity-catalog-unraveling-the-integration-scenarios-a31a01297e76)
+* [Fabric REST API data pipeline](https://murggu.medium.com/fabric-rest-api-data-pipelines-33b1b987efcf)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -308,7 +310,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 ## Security
 * [Fabric Security End to End - Whitepaper](https://learn.microsoft.com/en-us/fabric/security/white-paper-landing-page)
 * [External Data Sharing](https://blog.fabric.microsoft.com/en-us/blog/introducing-external-data-sharing-a-new-way-to-collaborate-across-fabric-tenants)
-* 
+* [Creating managed and external spark tables in Fabric Lakehouse](https://murggu.medium.com/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
 
 ## One Lake
 *one drive for data*
