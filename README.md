@@ -263,6 +263,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Spark Compute Capabilities - Azure VMs and their impact on Performance](https://www.youtube.com/watch?v=LJAmc1Ng-Ic)
 * [Mapping personas to Microsoft Fabric roles](https://www.youtube.com/watch?v=1DCTAYhtHgg)
 * [Microsoft Fabric Data Engineering – Apache Spark Jobs Monitoring](https://www.youtube.com/watch?v=afe6vdO_UHw)
+* [Fabric Apache Spark Jobs monitoring capabilities - Resource Usage Analysis](https://www.youtube.com/watch?v=SC8a9ks4-Qg)
+* [Copilot demo in notebooks](https://www.youtube.com/watch?v=H3LND_ErY5U)
 
 #community
 * [Data pipeline vs Dataflow vs Shortcut vs Notebook in Microsoft Fabric](https://www.youtube.com/watch?v=t5mUKaLWpHE)
