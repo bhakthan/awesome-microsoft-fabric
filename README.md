@@ -126,6 +126,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Custom Pools - Workspace level capacity pools for data engineering and data science](https://blog.fabric.microsoft.com/en-us/blog/introducing-capacity-pools-for-data-engineering-and-data-science-in-microsoft-fabric/)
 * [Microsoft Fabric Lifecycle Management: Getting started with development in isolation using a Private Workspace](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-lifecycle-management-getting-started-with-development-in-isolation-using-a-private-workspace?ft=All)
 * [Build Custom AI applications Retrieval Augmented Generation RAG with LLM - Fabric](https://blog.fabric.microsoft.com/en-us/blog/building-custom-ai-applications-with-microsoft-fabric-implementing-retrieval-augmented-generation-for-enhanced-language-models/)
+* [SOC-1 SOC-2, SOC-3 compliance](https://blog.fabric.microsoft.com/en-US/blog/microsoft-fabric-compliance-offerings/)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
