@@ -172,6 +172,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Streamlit with Microsoft Fabric](https://murggu.medium.com/using-streamlit-with-fabric-ebb0998ccc7f)
 * [Databricks and Unity Catalog integration with Fabric](https://murggu.medium.com/microsoft-fabric-and-databricks-unity-catalog-unraveling-the-integration-scenarios-a31a01297e76)
 * [Fabric REST API data pipeline](https://murggu.medium.com/fabric-rest-api-data-pipelines-33b1b987efcf)
+* [Use external readers to access onelake data](https://github.com/djouallah/Light_ETL_Challenge/tree/main)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
