@@ -401,6 +401,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Incremental Refresh on Delta Tables](https://blog.crossjoin.co.uk/2023/12/17/incremental-refresh-on-delta-tables-in-power-bi/)
 * [Add LLM Prompts to Reports using Power BI Copilot and Microsoft Fabric](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/add-llm-prompts-to-reports-using-power-bi-copilot-for-microsoft/ba-p/4027217)
 * [Using KQL Query - Kusto query settings in Power BI](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/using-kql-query-settings-in-power-bi/ba-p/4013580)
+* [Semantic Link Labs - Vertipaq Analyser on Dataset](https://blog.fabric.microsoft.com/en-US/blog/semantic-link-updates-june-2024/)
 
 
 ## Real-Time Analytics
