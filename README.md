@@ -318,6 +318,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Security End to End - Whitepaper](https://learn.microsoft.com/en-us/fabric/security/white-paper-landing-page)
 * [External Data Sharing](https://blog.fabric.microsoft.com/en-us/blog/introducing-external-data-sharing-a-new-way-to-collaborate-across-fabric-tenants)
 * [Creating managed and external spark tables in Fabric Lakehouse](https://murggu.medium.com/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
+* [Setting up private link for securing Inbound connectivity in Fabric with Terraform](https://murggu.medium.com/setting-up-private-link-in-fabric-with-terraform-e568fa562a50)
+* [Securing Outbound Connectivity in Fabric](https://murggu.medium.com/using-managed-private-endpoints-from-fabric-spark-fb1311eaab33)
 
 ## One Lake
 *one drive for data*
@@ -393,6 +395,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 ## EventHouse
 *Real time data*
 * [Fabric Eventhouse real time data](https://blog.fabric.microsoft.com/en-us/blog/eventhouse-overview-handling-real-time-data-with-microsoft-fabric?ft=All)
+* [Fabric RTI accelerator](https://github.com/SuryaTejJosyula/FabricRTI_Accelerator)
+* [Learn ADX in a day](https://github.com/Azure/ADX-in-a-Day)
   
 ## Power BI
 
