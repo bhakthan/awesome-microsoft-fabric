@@ -38,6 +38,8 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Microsoft 365](#microsoft-365)
     - [Application](#application)
     - [Copilot](#copilot)
+    - [Limitations](#limitations)
+    - [KnownIssues](#knownissues)
 
 
 ---
@@ -491,6 +493,12 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Community*
 * [Using Copilot in Fabric Notebook for data engineering](https://www.serverlesssql.com/using-copilot-in-fabric-notebooks-for-data-engineering/)
+
+## Limitations
+* [Datawarehouse Limitations](https://learn.microsoft.com/en-us/fabric/data-warehouse/limitations)
+
+## Knownissues
+* [Known Issues](https://support.fabric.microsoft.com/en-US/known-issues/)
 
 ## Copilot
 *Copilot & Fabric
