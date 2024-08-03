@@ -177,6 +177,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Databricks and Unity Catalog integration with Fabric](https://murggu.medium.com/microsoft-fabric-and-databricks-unity-catalog-unraveling-the-integration-scenarios-a31a01297e76)
 * [Fabric REST API data pipeline](https://murggu.medium.com/fabric-rest-api-data-pipelines-33b1b987efcf)
 * [Use external readers to access onelake data](https://github.com/djouallah/Light_ETL_Challenge/tree/main)
+* [Decoding Delta lake compatibility between Fabric and Databricks](https://milescole.dev/integration/2024/03/22/Decoding-Delta-Lake-Compatibility-Between-Fabric-and-Databricks.html)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
