@@ -129,6 +129,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Microsoft Fabric Lifecycle Management: Getting started with development in isolation using a Private Workspace](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-lifecycle-management-getting-started-with-development-in-isolation-using-a-private-workspace?ft=All)
 * [Build Custom AI applications Retrieval Augmented Generation RAG with LLM - Fabric](https://blog.fabric.microsoft.com/en-us/blog/building-custom-ai-applications-with-microsoft-fabric-implementing-retrieval-augmented-generation-for-enhanced-language-models/)
 * [SOC-1 SOC-2, SOC-3 compliance](https://blog.fabric.microsoft.com/en-US/blog/microsoft-fabric-compliance-offerings/)
+* [CI/CD with warehouse](https://blog.fabric.microsoft.com/en-us/blog/ci-cd-with-warehouses-in-microsoft-fabric?ft=All)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -276,6 +277,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Cost and Performance Considerations when ingesting data into Microsoft Fabric](https://www.youtube.com/watch?v=KgaTE4f08Qo)
 * [How to understand DW query cost](https://www.youtube.com/watch?v=GdAzYjbw9pQ)
 * [Direct Lake vs Direct Query? Which one is used and how to validate](https://www.youtube.com/watch?v=KkU980shLCo)
+* [End to End Analytics with NY City Taxi Yellow cab data](https://www.youtube.com/watch?v=CtH1C2EP7e4)
+* [Enterprise Grade RAG with Fabric using Cosmos DB and DiskANN](https://www.youtube.com/watch?v=vDAc7RcAAdk)
       
 ## Learning
 
@@ -361,6 +364,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Event Stream in Fabric with Event Processor](https://blog.fabric.microsoft.com/en-us/blog/whats-new-in-eventstream-enhanced-ux-on-event-processor-and-expanded-custom-app-connections?ft=All)
 * [IoT Hub Data Event Stream for email alerting](https://blog.fabric.microsoft.com/en-us/blog/stream-azure-iot-hub-data-into-fabric-eventstream-for-email-alerting?ft=All)
 * [DataFlow Gen2 Destinations](https://blog.fabric.microsoft.com/en-us/blog/dataflows-gen-2-data-destinations-and-managed-settings?ft=All)
+
+*community*
+* [Attach DuckDB](https://datamonkeysite.com/2024/08/03/how-to-attach-onelake-lakehouse-to-duckdb/)
 
 
 ## Data Warehouse
