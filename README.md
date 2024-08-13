@@ -313,6 +313,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Extract Tenant Settings using Powershell and REST API](https://techcommunity.microsoft.com/t5/azure-data/extracting-tenant-settings-from-microsoft-fabric-using/m-p/4021001)
 * [Fabric Tenant Settings - Current & Snapshot Comparison](https://techcommunity.microsoft.com/t5/azure-data/microsoft-fabric-tenant-settings-v2-current-amp-snapshot/m-p/4024479)
 * [Fabric Deployment Pipelines using API](https://blog.fabric.microsoft.com/en-us/blog/fabric-ci-cd-announcements-supporting-new-items-and-much-more?ft=All)
+* [Scale up / Scale down / Pause - Capacity management](https://github.com/nocsi-zz/fabric-capacity-management) [ & Using powershell](https://pl.seequality.net/microsoft-fabric-101-episode-3-pausing-and-scaling-using-portal-and-powershell/)
 
 
 *Community*
