@@ -130,6 +130,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Build Custom AI applications Retrieval Augmented Generation RAG with LLM - Fabric](https://blog.fabric.microsoft.com/en-us/blog/building-custom-ai-applications-with-microsoft-fabric-implementing-retrieval-augmented-generation-for-enhanced-language-models/)
 * [SOC-1 SOC-2, SOC-3 compliance](https://blog.fabric.microsoft.com/en-US/blog/microsoft-fabric-compliance-offerings/)
 * [CI/CD with warehouse](https://blog.fabric.microsoft.com/en-us/blog/ci-cd-with-warehouses-in-microsoft-fabric?ft=All)
+* [How Spark compute works in Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-compute)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -178,6 +179,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric REST API data pipeline](https://murggu.medium.com/fabric-rest-api-data-pipelines-33b1b987efcf)
 * [Use external readers to access onelake data](https://github.com/djouallah/Light_ETL_Challenge/tree/main)
 * [Decoding Delta lake compatibility between Fabric and Databricks](https://milescole.dev/integration/2024/03/22/Decoding-Delta-Lake-Compatibility-Between-Fabric-and-Databricks.html)
+* [ArcGIS GeoAnalytics for Fabric](https://community.esri.com/t5/arcgis-geoanalytics-for-microsoft-fabric/ct-p/arcgis-geoanalytics-for-microsoft-fabric)
+* [Automating Fabric: Dynamically Configuring Microsoft Fabric Data Pipelines](https://peerinsights.hashnode.dev/automating-fabric-dynamically-configuring-microsoft-fabric-data-pipelines)
+* [Fabric Spark Notebooks and CU-Capacity Unit Consumption](https://justb.dk/blog/2025/02/fabric-spark-notebooks-and-cu-consumption/)
+* [Optimizing Fabric Spark with High Concurrency Mode](https://justb.dk/blog/2025/03/optimizing-spark-with-high-concurrency-mode/)
+* [Running Multiple Spark Notebooks on the Same Capacity](https://justb.dk/blog/2025/03/running-multiple-notebooks-on-the-same-capacity-in-fabric-spark/)
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -280,6 +286,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Direct Lake vs Direct Query? Which one is used and how to validate](https://www.youtube.com/watch?v=KkU980shLCo)
 * [End to End Analytics with NY City Taxi Yellow cab data](https://www.youtube.com/watch?v=CtH1C2EP7e4)
 * [Enterprise Grade RAG with Fabric using Cosmos DB and DiskANN](https://www.youtube.com/watch?v=vDAc7RcAAdk)
+* [Performance Optimization - Native Execyution Engine](https://www.data-traveling.com/articles/performance-optimization-with-native-execution-engine-for-fabric-spark)
       
 ## Learning
 
@@ -416,7 +423,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Add LLM Prompts to Reports using Power BI Copilot and Microsoft Fabric](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/add-llm-prompts-to-reports-using-power-bi-copilot-for-microsoft/ba-p/4027217)
 * [Using KQL Query - Kusto query settings in Power BI](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/using-kql-query-settings-in-power-bi/ba-p/4013580)
 * [Semantic Link Labs - Vertipaq Analyser on Dataset](https://blog.fabric.microsoft.com/en-US/blog/semantic-link-updates-june-2024/)
-
+* [Refreshing A Power BI Semantic Model With Eventstreams, Pipelines And Activator](https://blog.crossjoin.co.uk/2024/12/08/refreshing-a-power-bi-semantic-model-with-eventstreams-pipelines-and-activator/)
+* [Streamlining Data-Driven Decisions: The Power BI Metric Sets](https://medium.com/@massamahesh/streamlining-data-driven-decisions-the-power-bi-fabric-metrics-layer-d15f1407d020)
 
 ## Real-Time Analytics
 
