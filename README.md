@@ -131,6 +131,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [SOC-1 SOC-2, SOC-3 compliance](https://blog.fabric.microsoft.com/en-US/blog/microsoft-fabric-compliance-offerings/)
 * [CI/CD with warehouse](https://blog.fabric.microsoft.com/en-us/blog/ci-cd-with-warehouses-in-microsoft-fabric?ft=All)
 * [How Spark compute works in Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-compute)
+* [AI Functions in Fabric](https://blog.fabric.microsoft.com/en-us/blog/announcing-ai-functions-for-easy-llm-powered-data-enrichment/)
+* [AI Skill improvements](https://blog.fabric.microsoft.com/en-us/blog/new-improvements-coming-to-the-ai-skill?ft=All)
+* 
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -408,6 +411,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Prebuilt AI Services in Fabric](https://blog.fabric.microsoft.com/en-ca/blog/prebuilt-azure-ai-services-in-fabric-2?ft=All)
 * [Copilot for Data Science and Data Engineering](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-copilot-a-game-changer-for-data-professionals/)
 * [Code First AutoML and Hyperparameter Tuning](https://blog.fabric.microsoft.com/en-us/blog/introducing-code-first-automl-and-hyperparameter-tuning-now-in-public-preview-for-fabric-data-science?ft=All)
+* [Streamling Data Science and Data Engineering with Copilot](https://blog.fabric.microsoft.com/en-us/blog/streamline-data-engineering-data-science-with-copilot-in-microsoft-fabric?ft=All)
 
 ## EventHouse
 *Real time data*
