@@ -133,6 +133,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [How Spark compute works in Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-compute)
 * [AI Functions in Fabric](https://blog.fabric.microsoft.com/en-us/blog/announcing-ai-functions-for-easy-llm-powered-data-enrichment/)
 * [AI Skill improvements](https://blog.fabric.microsoft.com/en-us/blog/new-improvements-coming-to-the-ai-skill?ft=All)
+* [Store and access your Iceberg data in OneLake using Snowflake and Shortcuts](https://support.fabric.microsoft.com/en-us/blog/store-and-use-your-snowflake-iceberg-data-in-onelake?ft=All)
 * 
   
 ## Ideas
@@ -187,6 +188,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Spark Notebooks and CU-Capacity Unit Consumption](https://justb.dk/blog/2025/02/fabric-spark-notebooks-and-cu-consumption/)
 * [Optimizing Fabric Spark with High Concurrency Mode](https://justb.dk/blog/2025/03/optimizing-spark-with-high-concurrency-mode/)
 * [Running Multiple Spark Notebooks on the Same Capacity](https://justb.dk/blog/2025/03/running-multiple-notebooks-on-the-same-capacity-in-fabric-spark/)
+* [Reading Snowflake Iceberg Table using Fabric OneLake](https://datamonkeysite.com/2023/12/16/reading-snowflake-iceberg-table-using-fabric-onelake/)
+  
 
 *Microsoft Fabric Community*
 * [Fabric Community](https://community.fabric.microsoft.com/)
@@ -412,7 +415,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Copilot for Data Science and Data Engineering](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-copilot-a-game-changer-for-data-professionals/)
 * [Code First AutoML and Hyperparameter Tuning](https://blog.fabric.microsoft.com/en-us/blog/introducing-code-first-automl-and-hyperparameter-tuning-now-in-public-preview-for-fabric-data-science?ft=All)
 * [Streamling Data Science and Data Engineering with Copilot](https://blog.fabric.microsoft.com/en-us/blog/streamline-data-engineering-data-science-with-copilot-in-microsoft-fabric?ft=All)
-
+* [LLM Powered Data Enrichment](https://www.youtube.com/watch?v=UEv7wvmo020)
+  
 ## EventHouse
 *Real time data*
 * [Fabric Eventhouse real time data](https://blog.fabric.microsoft.com/en-us/blog/eventhouse-overview-handling-real-time-data-with-microsoft-fabric?ft=All)
