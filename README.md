@@ -134,7 +134,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [AI Functions in Fabric](https://blog.fabric.microsoft.com/en-us/blog/announcing-ai-functions-for-easy-llm-powered-data-enrichment/)
 * [AI Skill improvements](https://blog.fabric.microsoft.com/en-us/blog/new-improvements-coming-to-the-ai-skill?ft=All)
 * [Store and access your Iceberg data in OneLake using Snowflake and Shortcuts](https://support.fabric.microsoft.com/en-us/blog/store-and-use-your-snowflake-iceberg-data-in-onelake?ft=All)
-* 
+* [Unlock Iceberg data in onelake](https://blog.fabric.microsoft.com/en-US/blog/unlock-the-power-of-your-iceberg-data-in-onelake/)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
