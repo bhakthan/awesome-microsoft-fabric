@@ -506,6 +506,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Mapping data flow to Fabric with OpenAI](https://github.com/sethiaarun/mapping-dataflow-to-fabric-with-openai)
 * [Build Intelligent Agents with Microsoft Fabric - Autogen Notebook Example](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_microsoft_fabric.ipynb)
 * [Unleash the power of Azure OpenAI and Fabric with Data Search](https://support.fabric.microsoft.com/en-gb/blog/fabric-change-the-game-unleashing-the-power-of-microsoft-fabric-and-openai-for-dataset-search)
+* [Implementing Data Agents in Fabric for Comprehensive Business Insights](https://www.bakertilly.com/insights/implementing-data-agent-in-microsoft-fabric-for-comprehensive-business-insights)
 
 
 ## Microsoft 365
