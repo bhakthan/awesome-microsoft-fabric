@@ -438,6 +438,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Semantic Link Labs - Vertipaq Analyser on Dataset](https://blog.fabric.microsoft.com/en-US/blog/semantic-link-updates-june-2024/)
 * [Refreshing A Power BI Semantic Model With Eventstreams, Pipelines And Activator](https://blog.crossjoin.co.uk/2024/12/08/refreshing-a-power-bi-semantic-model-with-eventstreams-pipelines-and-activator/)
 * [Streamlining Data-Driven Decisions: The Power BI Metric Sets](https://medium.com/@massamahesh/streamlining-data-driven-decisions-the-power-bi-fabric-metrics-layer-d15f1407d020)
+* [Deep dive into using notebooks with your semantic model](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-using-notebooks-with-your-semantic-model-preview/)
 
 ## Real-Time Analytics
 
