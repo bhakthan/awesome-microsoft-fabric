@@ -135,6 +135,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [AI Skill improvements](https://blog.fabric.microsoft.com/en-us/blog/new-improvements-coming-to-the-ai-skill?ft=All)
 * [Store and access your Iceberg data in OneLake using Snowflake and Shortcuts](https://support.fabric.microsoft.com/en-us/blog/store-and-use-your-snowflake-iceberg-data-in-onelake?ft=All)
 * [Unlock Iceberg data in onelake](https://blog.fabric.microsoft.com/en-US/blog/unlock-the-power-of-your-iceberg-data-in-onelake/)
+* [Fabric Migration Assistant for Datawarehouse / Synapse Migration to Fabric](https://blog.fabric.microsoft.com/en-us/blog/public-preview-of-migration-assistant-for-fabric-data-warehouse)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -218,6 +219,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Building ETL step by step](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/step-by-step-tutorial-building-etls-with-microsoft-fabric/ba-p/3885183)
 * [Criteria to make decisions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/microsoft-fabric-microsoft-fabric-criteria-to-make-decision-part/ba-p/3847511)
 * [A better Understanding of the Underlying Architecture- Fabric](https://piethein.medium.com/microsoft-fabric-a-better-understanding-of-the-underlying-architecture-and-concepts-847407b2524f)
+* [Build RAG Data pipeline from Azure Blob Storage to SQL Database in Microsoft Fabric within minutes](https://blog.fabric.microsoft.com/en-us/blog/ai-ready-apps-build-rag-data-pipeline-from-azure-blob-storage-to-sql-database-in-microsoft-fabric-within-minutes?ft=All)
 
 ## Videos
 
@@ -328,6 +330,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Tenant Settings - Current & Snapshot Comparison](https://techcommunity.microsoft.com/t5/azure-data/microsoft-fabric-tenant-settings-v2-current-amp-snapshot/m-p/4024479)
 * [Fabric Deployment Pipelines using API](https://blog.fabric.microsoft.com/en-us/blog/fabric-ci-cd-announcements-supporting-new-items-and-much-more?ft=All)
 * [Scale up / Scale down / Pause - Capacity management](https://github.com/nocsi-zz/fabric-capacity-management) [ & Using powershell](https://pl.seequality.net/microsoft-fabric-101-episode-3-pausing-and-scaling-using-portal-and-powershell/)
+* [Fabric CLI](https://microsoft.github.io/fabric-cli/)
 
 
 *Community*
@@ -348,6 +351,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Store and Manage Medical Imaging Data in ADLS](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/store-and-manage-medical-imaging-data-with-azure-data-lake/ba-p/3990509)
 * [Interacting with OneLake using Shortcuts REST APIs](https://blog.fabric.microsoft.com/en-US/blog/interacting-with-onelake-using-rest-apis/)
 * [Building Common Data Architectures with OneLake - Security](https://blog.fabric.microsoft.com/en-us/blog/building-common-data-architectures-with-onelake-in-microsoft-fabric/)
+* [Easily load Fabric OneLake Data into Excel](https://blog.fabric.microsoft.com/en-us/blog/easily-load-fabric-onelake-data-into-excel-onelake-catalog-and-modern-get-data-are-integrated-into-excel-for-windows-preview?ft=All)
 
 *Community*
 * [Exploring Fabric OneLake vs Azure Data Lake Gen2 Storage Accounts](https://www.serverlesssql.com/onelake-storage/)
