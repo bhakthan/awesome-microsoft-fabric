@@ -136,7 +136,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Store and access your Iceberg data in OneLake using Snowflake and Shortcuts](https://support.fabric.microsoft.com/en-us/blog/store-and-use-your-snowflake-iceberg-data-in-onelake?ft=All)
 * [Unlock Iceberg data in onelake](https://blog.fabric.microsoft.com/en-US/blog/unlock-the-power-of-your-iceberg-data-in-onelake/)
 * [Fabric Migration Assistant for Datawarehouse / Synapse Migration to Fabric](https://blog.fabric.microsoft.com/en-us/blog/public-preview-of-migration-assistant-for-fabric-data-warehouse)
-* [Playbook for Metdata driven lakehouse implementation](https://blog.fabric.microsoft.com/en-sg/blog/playbook-for-metadata-driven-lakehouse-implementation-in-microsoft-fabric?ft=All)
+* [Playbook for Metadata driven lakehouse implementation](https://blog.fabric.microsoft.com/en-sg/blog/playbook-for-metadata-driven-lakehouse-implementation-in-microsoft-fabric?ft=All)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
