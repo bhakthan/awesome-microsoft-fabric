@@ -137,6 +137,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Unlock Iceberg data in onelake](https://blog.fabric.microsoft.com/en-US/blog/unlock-the-power-of-your-iceberg-data-in-onelake/)
 * [Fabric Migration Assistant for Datawarehouse / Synapse Migration to Fabric](https://blog.fabric.microsoft.com/en-us/blog/public-preview-of-migration-assistant-for-fabric-data-warehouse)
 * [Playbook for Metadata driven lakehouse implementation](https://blog.fabric.microsoft.com/en-sg/blog/playbook-for-metadata-driven-lakehouse-implementation-in-microsoft-fabric?ft=All)
+* [SKU Estimator - Mastering SKU estimations - Plan your next project](https://blog.fabric.microsoft.com/en-us/blog/mastering-sku-estimations-with-the-microsoft-fabric-sku-estimator?ft=All)
+* [Common usecases for building user defined functions UDF](https://blog.fabric.microsoft.com/en-us/blog/common-use-cases-for-building-solutions-with-microsoft-fabric-user-data-functions-udfs?ft=All)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
