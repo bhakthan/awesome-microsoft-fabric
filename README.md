@@ -194,6 +194,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Running Multiple Spark Notebooks on the Same Capacity](https://justb.dk/blog/2025/03/running-multiple-notebooks-on-the-same-capacity-in-fabric-spark/)
 * [Reading Snowflake Iceberg Table using Fabric OneLake](https://datamonkeysite.com/2023/12/16/reading-snowflake-iceberg-table-using-fabric-onelake/)
 * [Understanding relation between Microsoft Fabric, Azure Subscription and Entra Tenant](https://isinghrana.medium.com/micunderstanding-relationship-between-microsoft-fabric-tenant-azure-subscription-and-entra-tenant-40baac213aeb)
+* [Mirroring Snowflake Views](https://github.com/DaSenf1860/mirror_snowflake_views)
   
 
 *Microsoft Fabric Community*
