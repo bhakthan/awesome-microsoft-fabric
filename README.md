@@ -139,6 +139,15 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Playbook for Metadata driven lakehouse implementation](https://blog.fabric.microsoft.com/en-sg/blog/playbook-for-metadata-driven-lakehouse-implementation-in-microsoft-fabric?ft=All)
 * [SKU Estimator - Mastering SKU estimations - Plan your next project](https://blog.fabric.microsoft.com/en-us/blog/mastering-sku-estimations-with-the-microsoft-fabric-sku-estimator?ft=All)
 * [Common usecases for building user defined functions UDF](https://blog.fabric.microsoft.com/en-us/blog/common-use-cases-for-building-solutions-with-microsoft-fabric-user-data-functions-udfs?ft=All)
+* [Integrate API Management in Fabric for GraphQL](https://blog.fabric.microsoft.com/en-us/blog/integrating-azure-api-management-with-fabric-api-for-graphql)
+* [Privacy by Design: PII Detection and Anonymization with PySpark on Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/privacy-by-design-pii-detection-and-anonymization-with-pyspark-on-microsoft-fabric)
+* [AI functions for better performance—and lower costs](https://blog.fabric.microsoft.com/en-us/blog/introducing-upgrades-to-ai-functions-for-better-performance-and-lower-costs)
+* [Secure Your Data from Day One: Best Practices for Success with Purview Data Loss Prevention (DLP) Policies in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/secure-your-data-from-day-one-best-practices-for-success-with-purview-data-loss-prevention-dlp-policies-in-microsoft-fabric)
+* [Refresh SQL analytics endpoint Metadata REST API](https://blog.fabric.microsoft.com/en-us/blog/refresh-sql-analytics-endpoint-metadata-rest-api-now-in-public-preview)
+* [Pipeline Activities support OPDG and VNET](https://blog.fabric.microsoft.com/en-us/blog/new-pipeline-activities-now-support-opdg-and-vnet)
+* [Integrating Fabric with Databricks in private network](https://blog.fabric.microsoft.com/en-us/blog/integrating-fabric-with-databricks-using-private-network)
+* [Create SQL Database using Fabric-cli](https://blog.fabric.microsoft.com/en-us/blog/how-to-create-a-sql-database-in-fabric-using-fabric-cli)
+* [Understand OneLake Security Shortcuts](https://blog.fabric.microsoft.com/en-us/blog/understanding-onelake-security-with-shortcuts)
   
 ## Ideas
 * [Fabric Ideas](https://ideas.fabric.microsoft.com/)
@@ -356,6 +365,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Interacting with OneLake using Shortcuts REST APIs](https://blog.fabric.microsoft.com/en-US/blog/interacting-with-onelake-using-rest-apis/)
 * [Building Common Data Architectures with OneLake - Security](https://blog.fabric.microsoft.com/en-us/blog/building-common-data-architectures-with-onelake-in-microsoft-fabric/)
 * [Easily load Fabric OneLake Data into Excel](https://blog.fabric.microsoft.com/en-us/blog/easily-load-fabric-onelake-data-into-excel-onelake-catalog-and-modern-get-data-are-integrated-into-excel-for-windows-preview?ft=All)
+* [CMK - Customer Managed Keys in OneLake](https://blog.fabric.microsoft.com/en-us/blog/customer-managed-keys-in-onelake-strengthening-data-protection-and-control)
 
 *Community*
 * [Exploring Fabric OneLake vs Azure Data Lake Gen2 Storage Accounts](https://www.serverlesssql.com/onelake-storage/)
@@ -398,6 +408,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *Data Warehousing to democratize your data estate with industry learing performance*
 * [How Fabric Polaris Engine Works](https://www.linkedin.com/pulse/microsoft-fabric-data-warehouse-polaris-engine-tiago-balabuch)
 * [Publishing full DML logs to Delta Lake](https://blog.fabric.microsoft.com/en-us/blog/announcing-fabric-warehouse-publishing-full-dml-to-delta-lake-logs?ft=All)
+* [Inline Scalar UDF - User Defined Functions in DWH](https://blog.fabric.microsoft.com/en-us/blog/inline-scalar-user-defined-functions-udfs-in-microsoft-fabric-warehouse-preview)
+* [Resultset Caching in Data Warehouse](https://blog.fabric.microsoft.com/en-us/blog/result-set-caching-preview-for-microsoft-fabric?)
 
 ## Data Factory
 
@@ -425,6 +437,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Code First AutoML and Hyperparameter Tuning](https://blog.fabric.microsoft.com/en-us/blog/introducing-code-first-automl-and-hyperparameter-tuning-now-in-public-preview-for-fabric-data-science?ft=All)
 * [Streamling Data Science and Data Engineering with Copilot](https://blog.fabric.microsoft.com/en-us/blog/streamline-data-engineering-data-science-with-copilot-in-microsoft-fabric?ft=All)
 * [LLM Powered Data Enrichment](https://www.youtube.com/watch?v=UEv7wvmo020)
+* [Fabric Data Agent - Data Source Instructions](https://blog.fabric.microsoft.com/en-us/blog/new-in-fabric-data-agent-data-source-instructions-for-smarter-more-accurate-ai-responses/)
+* [Best Practices for Data Agent](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-configuration-best-practices)
+* 
   
 ## EventHouse
 *Real time data*
