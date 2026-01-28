@@ -27,6 +27,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Data Engineering](#data-engineering)
     - [Data Science / AI](#data-science-AI)
     - [EventHouse](#EventHouse)
+    - [Ontology / IQ](#IQ)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
     - [Data Activator](#data-activator)
@@ -446,6 +447,18 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Eventhouse real time data](https://blog.fabric.microsoft.com/en-us/blog/eventhouse-overview-handling-real-time-data-with-microsoft-fabric?ft=All)
 * [Fabric RTI accelerator](https://github.com/SuryaTejJosyula/FabricRTI_Accelerator)
 * [Learn ADX in a day](https://github.com/Azure/ADX-in-a-Day)
+
+
+## IQ & Ontology
+*Elevates unified data platform to unified intelligence*
+* [Fabric IQ blog](https://aka.ms/fabric-iq-blogs)
+* [Fabric IQ video](https://aka.ms/FabricIQ-Sizzle)
+* [Ontology blog - Fabric IQ: The Semantic Foundation for Enterprise AI](https://blog.fabric.microsoft.com/en-GB/blog/introducing-fabric-iq-the-semantic-foundation-for-enterprise-ai/)
+* [Fabric IQ - Ontology demo](https://www.youtube.com/watch?v=nT8_uZpIcCg&t=13s)
+* [Ignite Session BRK222 - Microsoft Fabric IQ: Turning unified data into unified intelligence: Microsoft Fabric IQ: Turning unified data into unified intelligence | BRK222](https://www.youtube.com/watch?v=yy7M_O_z_wQ)
+* [Fabric IQ Docs](https://aka.ms/ontologyitem-overview)
+* [Fabric IQ - Get started with a tutorial](https://aka.ms/ontology-tutorial)
+* [Jumpstart ontology creation with Semantic model](https://aka.ms/ontology-sm-tutorial)
   
 ## Power BI
 
