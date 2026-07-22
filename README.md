@@ -25,19 +25,26 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Migration](#migration)
     - [Data Integration](#data-integration)
     - [Mirroring](#mirroring)
+    - [Databases](#databases)
     - [Data Warehouse](#data-warehouse)
     - [Data Factory](#data-factory)
     - [Data Engineering](#data-engineering)
+    - [User Data Functions](#user-data-functions)
+    - [API for GraphQL](#api-for-graphql)
     - [Data Science / AI](#data-science-AI)
     - [EventHouse](#EventHouse)
     - [Fabric IQ and Ontology](#fabric-iq-and-ontology)
+    - [Graph](#graph)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
+    - [Maps](#maps)
+    - [Digital Twin Builder](#digital-twin-builder)
     - [Data Activator](#data-activator)
     - [Data Quality](#data-quality)
     - [Data Governance](#data-governance)
     - [Data Mesh](#data-mesh)
     - [Use cases](#use-cases)
+    - [Industry Solutions](#industry-solutions)
     - [Fabric with OpenAI](#fabric-with-openai)
     - [Microsoft 365](#microsoft-365)
     - [Application](#application)
@@ -358,6 +365,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Scale up / Scale down / Pause - Capacity management](https://github.com/nocsi-zz/fabric-capacity-management) [ & Using powershell](https://pl.seequality.net/microsoft-fabric-101-episode-3-pausing-and-scaling-using-portal-and-powershell/)
 * [Associated Identities for Fabric Items](https://blog.fabric.microsoft.com/blog/associated-identities-for-items-preview)
 * [VNET Data Gateway Autoscaling](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553)
+* [Workspace Monitoring Overview](https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview)
+* [Enable Workspace Monitoring](https://learn.microsoft.com/en-us/fabric/fundamentals/enable-workspace-monitoring)
+* [Workspace Monitoring Dashboards](https://github.com/microsoft/fabric-toolbox/tree/main/monitoring/workspace-monitoring-dashboards)
 
 
 *Community*
@@ -442,6 +452,17 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Extended Mirroring Capabilities](https://learn.microsoft.com/en-us/fabric/mirroring/extended-capabilities)
 * [Stream Mirrored Database Change Feeds into Eventstreams](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893)
 
+## Databases
+*SQL database and Cosmos DB database workloads in Microsoft Fabric*
+* [Databases in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/database/)
+* [SQL Database in Fabric Overview](https://learn.microsoft.com/en-us/fabric/database/sql/overview)
+* [Create a SQL Database in Fabric](https://learn.microsoft.com/en-us/fabric/database/sql/create)
+* [SQL Database Security Overview](https://learn.microsoft.com/en-us/fabric/database/sql/security-overview)
+* [Cosmos DB in Fabric Overview](https://learn.microsoft.com/en-us/fabric/database/cosmos-db/overview)
+* [Create a Cosmos DB Database in Fabric](https://learn.microsoft.com/en-us/fabric/database/cosmos-db/quickstart-portal)
+* [Cosmos DB in Fabric FAQ](https://learn.microsoft.com/en-us/fabric/database/cosmos-db/faq)
+* [Vector Indexing in Cosmos DB for Fabric](https://learn.microsoft.com/en-us/fabric/database/cosmos-db/index-vector-data)
+
 
 ## Data Warehouse
 
@@ -495,6 +516,20 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [JobInsight for Spark Diagnostics](https://blog.fabric.microsoft.com/blog/gain-deeper-insights-into-spark-jobs-with-jobinsight-in-microsoft-fabric)
 * [Lakehouse Auto-Binding in Git](https://blog.fabric.microsoft.com/blog/fabric-notebooks-support-lakehouse-auto-binding-in-git-preview)
 
+## User Data Functions
+*Serverless Python functions with REST endpoints for Fabric workloads*
+* [User Data Functions Overview](https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-overview)
+* [Create a User Data Functions Item](https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/create-user-data-functions-portal)
+* [What's New in Fabric User Data Functions - Ignite 2025](https://blog.fabric.microsoft.com/blog/whats-new-in-fabric-user-data-functions-ignite-2025-edition)
+
+## API for GraphQL
+*Create a managed GraphQL API over multiple Fabric data sources*
+* [API for GraphQL Overview](https://learn.microsoft.com/en-us/fabric/data-engineering/api-graphql-overview)
+* [Get Started with API for GraphQL](https://learn.microsoft.com/en-us/fabric/data-engineering/get-started-api-graphql)
+* [Introducing Microsoft Fabric API for GraphQL](https://blog.fabric.microsoft.com/en-us/blog/introducing-microsoft-fabric-api-for-graphql-public-preview)
+* [Build a Local GraphQL MCP Server for AI Agents](https://learn.microsoft.com/en-us/fabric/data-engineering/api-graphql-local-model-context-protocol)
+* [Custom Authorization for API for GraphQL](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352)
+
 ## Data Science AI
 
 *Next generation data science to train, deploy and manage machine learning models*
@@ -510,6 +545,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Data Agent Overview and Code Interpreter](https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent)
 * [Service Principal Support for Fabric Data Agents](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Service-Principal-Support-for-Data-Agents-in-Fabric-Preview/ba-p/5181634)
 * [Evaluate Fabric Data Agents with the Python SDK](https://blog.fabric.microsoft.com/blog/evaluate-your-fabric-data-agents-programmatically-with-the-python-sdk)
+* [Machine Learning Model Endpoints](https://learn.microsoft.com/en-us/fabric/data-science/model-endpoints)
   
 ## EventHouse
 *Real time data*
@@ -531,6 +567,14 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [What is Fabric IQ?](https://learn.microsoft.com/en-us/fabric/iq/overview)
 * [Ontology Overview](https://learn.microsoft.com/en-us/fabric/iq/ontology/overview)
 * [Plan in Fabric IQ](https://learn.microsoft.com/en-us/fabric/iq/plan/overview)
+
+## Graph
+*Relationship-aware analytics and AI reasoning over OneLake data using ISO GQL*
+* [Graph in Microsoft Fabric Overview](https://learn.microsoft.com/en-us/fabric/graph/overview)
+* [Graph in Fabric Generally Available](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Graph-in-Fabric-Generally-Available/ba-p/5190748)
+* [Graph-Powered AI Reasoning Preview Announcement](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Graph-powered-AI-reasoning-Preview/ba-p/5172172)
+* [Graph Data Models](https://learn.microsoft.com/en-us/fabric/graph/graph-data-models)
+* [GQL Language Guide](https://learn.microsoft.com/en-us/fabric/graph/gql-language-guide)
   
 ## Power BI
 
@@ -550,8 +594,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *Actionable real-time insights and perform analysis on large volumes of data*
 * [Realtime data sharing in Fabric](https://blog.fabric.microsoft.com/en-sg/blog/introducing-real-time-data-sharing-in-microsoft-fabric?ft=All)
 * [Real-Time Dashboards](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create)
+* [Real-Time Hub Overview](https://learn.microsoft.com/en-us/fabric/real-time-hub/real-time-hub-overview)
 * [AI-Powered Real-Time Dashboard Visuals](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-way-to-create-visuals-on-Real-Time-Dashboards-Preview/ba-p/5194484)
-* [Digital Twin Builder](https://blog.fabric.microsoft.com/blog/digital-twin-builder-in-microsoft-fabric-real-time-intelligence-revolutionizing-digital-twin-creation-and-management)
 * [Business Events in Real-Time Intelligence](https://blog.fabric.microsoft.com/blog/business-events-in-microsoft-fabric-preview)
 * [Eventstream Workspace Monitoring](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-your-Eventstreams-with-workspace-monitoring-Preview/ba-p/5161116)
 * [Customer Managed Keys for Eventhouse](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-Managed-Keys-CMK-for-Eventhouse-Preview/ba-p/5172008)
@@ -559,6 +603,19 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [AI-Powered Anomaly Detection](https://blog.fabric.microsoft.com/blog/ai-powered-real-time-intelligence-with-anomaly-detection-preview)
 * [Remote MCP Server for Eventhouse](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/mcp-remote-eventhouse)
 
+## Maps
+*Native geospatial visualization for real-time and historical Fabric data*
+* [Microsoft Fabric Maps Overview](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/map/about-fabric-maps)
+* [Maps in Microsoft Fabric Generally Available](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Maps-in-Microsoft-Fabric-Generally-Available/ba-p/5172200)
+* [Fabric Maps Layers](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/map/about-layers)
+* [Tutorial: Real-Time Work Order Routing with Fabric Maps](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/map/tutorial-real-time-work-order-routing-application)
+
+## Digital Twin Builder
+*Model physical environments and operational data with Fabric Real-Time Intelligence*
+* [Digital Twin Builder Overview](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/digital-twin-builder/overview)
+* [Introducing Digital Twin Builder](https://blog.fabric.microsoft.com/blog/digital-twin-builder-in-microsoft-fabric-real-time-intelligence-revolutionizing-digital-twin-creation-and-management)
+* [Real-Time Intelligence Enhanced with Digital Twin Builder](https://blog.fabric.microsoft.com/blog/elevate-how-your-organization-operates-using-real-time-intelligence-now-enhanced-with-digital-twin-builder)
+* [Digital Twin Builder REST API](https://learn.microsoft.com/en-us/rest/api/fabric/digitaltwinbuilder/items)
 
 
 ## Data Activator
@@ -611,11 +668,17 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Industry use cases*
 * [Fabric end to end use case energy market](https://debruyn.dev/2023/fabric-end-to-end-use-case-overview-architecture/) & [Data Engineering](https://debruyn.dev/2023/fabric-end-to-end-use-case-data-engineering-part-1-spark-and-pandas-in-notebooks/)
-* [Unlock data value with Healthcare Data Solutions in Fabric](https://aka.ms/MC4HDataintegration) & [AI](https://aka.ms/AzureHLTH23)
 
 *Community*
 * [Paul Andrew's Delivering Near Real-Time Satellite Internet Analytics Using Microsoft Fabric](https://www.cloudformations.org/_files/ugd/fb2e49_81aeea8e433b4a4fad7168b106810934.pdf)
 * [Paul Andrew's Marketing Analytics using Microsoft Fabric](https://www.cloudformations.org/_files/ugd/fb2e49_e906b9338f0f4a52b0c24943a20c57b1.pdf)
+
+## Industry Solutions
+### Healthcare Data Solutions
+* [Healthcare Data Solutions in Microsoft Fabric Overview](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/overview)
+* [Healthcare Data Foundations](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/healthcare-data-foundations-overview)
+* [DICOM Data Transformation](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/dicom-data-transformation-overview)
+* [OMOP Transformations](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/omop-transformations-overview)
 
 ## Fabric with OpenAI
 
