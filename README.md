@@ -12,6 +12,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Certification](#certification)
     - [Workshops](#workshop)
     - [Community](#community)
+    - [Recent Community Blogs](#recent-community-blogs)
     - [Samples](#samples)
     - [Presentation](#presentation)
     - [Architecture](#architecture)
@@ -24,6 +25,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Next Generation Synapse Analytics](#next-generation-synapse-analytics)
     - [Migration](#migration)
     - [Data Integration](#data-integration)
+    - [Connectors and Data Movement](#connectors-and-data-movement)
     - [Mirroring](#mirroring)
     - [Databases](#databases)
     - [Data Warehouse](#data-warehouse)
@@ -33,7 +35,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [API for GraphQL](#api-for-graphql)
     - [Data Science / AI](#data-science-AI)
     - [EventHouse](#EventHouse)
-    - [Fabric IQ and Ontology](#fabric-iq-and-ontology)
+    - [Microsoft IQ](#microsoft-iq)
     - [Graph](#graph)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
@@ -445,7 +447,35 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *community*
 * [Attach DuckDB](https://datamonkeysite.com/2024/08/03/how-to-attach-onelake-lakehouse-to-duckdb/)
 
+## Connectors and Data Movement
+*Connector-based ingress, egress, batch, streaming, CDC, zero-copy access and private connectivity*
+
+### Decision Guidance and Connector Catalogs
+* [Choose Between Copy Job, Mirroring, Copy Activity and Eventstreams](https://learn.microsoft.com/en-us/fabric/data-factory/decision-guide-data-movement)
+* [Data Factory Connector Overview](https://learn.microsoft.com/en-us/fabric/data-factory/connector-overview)
+
+### Batch, Incremental and Low-Code Data Movement
+* [Copy Job Overview](https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job)
+* [Copy Job Connectors](https://learn.microsoft.com/en-us/fabric/data-factory/copy-job-connectors)
+* [Dataflow Gen2 Overview](https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-overview)
+
+### Streaming and Zero-Copy Ingress
+* [Eventstreams Overview and Streaming Connectors](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/overview)
+* [Real-Time Hub Overview](https://learn.microsoft.com/en-us/fabric/real-time-hub/real-time-hub-overview)
+* [OneLake Shortcuts Overview](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts)
+* [Create an ADLS Gen2 Shortcut](https://learn.microsoft.com/en-us/fabric/onelake/create-adls-shortcut)
+
+### Gateways and Private Connectivity
+* [On-Premises Data Gateway Overview](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-onprem)
+* [Virtual Network Data Gateway Overview](https://learn.microsoft.com/en-us/data-integration/vnet/overview)
+* [Managed Private Endpoints Overview](https://learn.microsoft.com/en-us/fabric/security/security-managed-private-endpoints-overview)
+
+### Egress and Data Sharing
+* [External Data Sharing Overview](https://learn.microsoft.com/en-us/fabric/governance/external-data-sharing-overview)
+
 ## Mirroring
+* [Mirroring Overview](https://learn.microsoft.com/en-us/fabric/mirroring/overview)
+* [Open Mirroring](https://learn.microsoft.com/en-us/fabric/mirroring/open-mirroring)
 * [Mirroring for Azure Database for MySQL](https://learn.microsoft.com/en-us/fabric/mirroring/azure-database-mysql)
 * [Mirroring for Google BigQuery](https://learn.microsoft.com/en-us/fabric/mirroring/google-bigquery)
 * [Dremio Catalog Mirroring](https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/dremio)
@@ -554,19 +584,52 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Learn ADX in a day](https://github.com/Azure/ADX-in-a-Day)
 
 
-## Fabric IQ and Ontology
-*Elevates unified data platform to unified intelligence*
-* [Fabric IQ blog](https://aka.ms/fabric-iq-blogs)
-* [Fabric IQ video](https://aka.ms/FabricIQ-Sizzle)
-* [Ontology blog - Fabric IQ: The Semantic Foundation for Enterprise AI](https://blog.fabric.microsoft.com/en-GB/blog/introducing-fabric-iq-the-semantic-foundation-for-enterprise-ai/)
-* [Fabric IQ - Ontology demo](https://www.youtube.com/watch?v=nT8_uZpIcCg&t=13s)
-* [Ignite Session BRK222 - Microsoft Fabric IQ: Turning unified data into unified intelligence: Microsoft Fabric IQ: Turning unified data into unified intelligence | BRK222](https://www.youtube.com/watch?v=yy7M_O_z_wQ)
-* [Fabric IQ Docs](https://aka.ms/ontologyitem-overview)
-* [Fabric IQ - Get started with a tutorial](https://aka.ms/ontology-tutorial)
-* [Jumpstart ontology creation with Semantic model](https://aka.ms/ontology-sm-tutorial)
+## Microsoft IQ
+*The enterprise intelligence layer combining business data, organizational context, authoritative knowledge and fresh web information for agents and Copilot*
+
+### Microsoft IQ
+* [Microsoft IQ Documentation Hub](https://learn.microsoft.com/en-us/microsoft-iq/)
+* [Microsoft IQ Product Overview](https://www.microsoft.com/en-us/ai/microsoft-iq)
+* [Microsoft IQ Series](https://github.com/microsoft/iq-series) Official training videos and Jupyter cookbooks
+
+### Fabric IQ
+*Live state of the business through OneLake data, semantic models, ontologies, Graph and data agents*
+* [Fabric IQ Documentation](https://learn.microsoft.com/en-us/fabric/iq/)
 * [What is Fabric IQ?](https://learn.microsoft.com/en-us/fabric/iq/overview)
 * [Ontology Overview](https://learn.microsoft.com/en-us/fabric/iq/ontology/overview)
 * [Plan in Fabric IQ](https://learn.microsoft.com/en-us/fabric/iq/plan/overview)
+* [Get Started with Fabric IQ Learning Path](https://learn.microsoft.com/en-us/training/paths/get-started-fabric-iq/)
+* [Ontology MCP Server](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontology-mcp-server)
+* [Fabric IQ Build 2026 Announcements](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/)
+* [Fabric IQ Blog](https://aka.ms/fabric-iq-blogs)
+* [Fabric IQ Video](https://aka.ms/FabricIQ-Sizzle)
+* [Ontology - The Semantic Foundation for Enterprise AI](https://blog.fabric.microsoft.com/en-GB/blog/introducing-fabric-iq-the-semantic-foundation-for-enterprise-ai/)
+* [Fabric IQ Ontology Demo](https://www.youtube.com/watch?v=nT8_uZpIcCg&t=13s)
+* [Ignite BRK222 - Turning Unified Data into Unified Intelligence](https://www.youtube.com/watch?v=yy7M_O_z_wQ)
+* [Fabric IQ Ontology Tutorial](https://aka.ms/ontology-tutorial)
+* [Jumpstart Ontology Creation with a Semantic Model](https://aka.ms/ontology-sm-tutorial)
+
+### Work IQ
+*How employees work through Microsoft 365 context, tools, collaboration signals and APIs*
+* [Work IQ Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/)
+* [Work IQ API Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/api-overview)
+* [Announcing the Work IQ APIs](https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/announcing-the-new-work-iq-apis/)
+* [Work IQ Samples](https://github.com/microsoft/work-iq-samples/)
+* [Use Work IQ in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/use-work-iq)
+* [Use Work IQ in Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/work-iq)
+
+### Foundry IQ
+*Authoritative enterprise knowledge and multi-source agentic retrieval for AI applications*
+* [What is Foundry IQ?](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq)
+* [Foundry IQ FAQ](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/foundry-iq-faq)
+* [Build Smarter Agents Faster with Foundry IQ](https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/)
+* [Mastering Foundry IQ Cookbook](https://microsoft-foundry.github.io/forgebook/notebook/mastering-foundry-iq/)
+
+### Web IQ
+*Fresh web knowledge and AI-native grounding for agentic multi-step workflows*
+* [Web IQ Product Page and Access](https://www.microsoft.com/en-us/webiq)
+* [Announcing Microsoft Web IQ](https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ)
+* [Engineering Agentic Web Grounding at Scale](https://commandline.microsoft.com/grounding-system-agentic-web-engineering-retrieval/)
 
 ## Graph
 *Relationship-aware analytics and AI reasoning over OneLake data using ISO GQL*
@@ -594,7 +657,6 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *Actionable real-time insights and perform analysis on large volumes of data*
 * [Realtime data sharing in Fabric](https://blog.fabric.microsoft.com/en-sg/blog/introducing-real-time-data-sharing-in-microsoft-fabric?ft=All)
 * [Real-Time Dashboards](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create)
-* [Real-Time Hub Overview](https://learn.microsoft.com/en-us/fabric/real-time-hub/real-time-hub-overview)
 * [AI-Powered Real-Time Dashboard Visuals](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-way-to-create-visuals-on-Real-Time-Dashboards-Preview/ba-p/5194484)
 * [Business Events in Real-Time Intelligence](https://blog.fabric.microsoft.com/blog/business-events-in-microsoft-fabric-preview)
 * [Eventstream Workspace Monitoring](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-your-Eventstreams-with-workspace-monitoring-Preview/ba-p/5161116)
@@ -729,6 +791,43 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Community*
 * [Using Copilot in Fabric Notebook for data engineering](https://www.serverlesssql.com/using-copilot-in-fabric-notebooks-for-data-engineering/)
+
+## Recent Community Blogs
+*Recent technically substantive posts from Microsoft Fabric MVPs and established community authors*
+
+### Architecture and Administration
+* [Microsoft Fabric Architecture](https://www.serverlesssql.com/microsoft-fabric-architecture/) - Andy Cutler, August 2025
+* [Fabric Architecture: Azure Tenants](https://www.serverlesssql.com/fabric-architecture-azure-tenants/) - Andy Cutler, November 2025
+* [Structure Fabric Items by Applying Naming Conventions](https://data-marc.com/2025/02/13/structure-fabric-items-by-applying-naming-conventions/) - Marc Lelijveld, February 2025
+
+### Capacity Management and Cost
+* [Microsoft Fabric Costs Explained](https://thatfabricguy.com/microsoft-fabric-costs-explained/) - Bas Land, February 2025
+* [Extracting and Storing Fabric Admin and Capacity Metrics](https://data-marc.com/2025/07/30/your-metrics-your-rules-extracting-and-storing-fabric-admin-and-capacity-metrics-data-in-fabric/) - Marc Lelijveld, July 2025
+
+### Security and Governance
+* [The Hidden Risk in Fabric Notebook Exports](https://data-marc.com/2025/04/09/the-hidden-risk-in-fabric-notebook-exports-your-data-travels-too/) - Marc Lelijveld, April 2025
+* [Validating Azure Key Vault Access Securely in Fabric Notebooks](https://data-marc.com/2025/05/08/validating-azure-key-vault-access-securely-in-fabric-notebooks/) - Marc Lelijveld, May 2025
+* [Automating Semantic Model Security with Fabric Semantic Link](https://data-marc.com/2025/10/14/automating-power-bi-semantic-model-security-with-fabric-semantic-link/) - Marc Lelijveld, October 2025
+
+### Data Engineering and Spark
+* [Delta Lake Liquid Clustering vs Partitioning](https://thatfabricguy.com/delta-lake-liquid-clustering-partitioning/) - Bas Land, May 2025
+* [Delta Lake Partitioning for Microsoft Fabric](https://thatfabricguy.com/delta-lake-partitioning-for-microsoft-fabric/) - Bas Land, March 2025
+* [Materialized Lake Views in Microsoft Fabric Lakehouse](https://thatfabricguy.com/materialized-lake-views-in-microsoft-fabric-lakehouse/) - Bas Land, July 2025
+* [GenMLV Deployment Framework for Materialized Lake Views](https://www.serverlesssql.com/genmlv/) - Andy Cutler, July 2025
+* [Keep Spark Sessions Alive in Microsoft Fabric](https://thatfabricguy.com/keep-spark-sessions-alive-in-microsoft-fabric/) - Bas Land, July 2025
+
+### Data Warehouse and CI/CD
+* [Deploying a Case-Insensitive Warehouse Using Deployment Pipelines](https://www.serverlesssql.com/deploying-case-insensitive-warehouse-using-deployment-pipelines/) - Andy Cutler, February 2025
+
+### Data Agents, AI and Copilot
+* [Rethinking Fabric Data Agent Deployment Using the Data Agent SDK](https://data-marc.com/2026/06/23/rethinking-fabric-data-agent-deployment-using-the-data-agent-sdk/) - Marc Lelijveld, June 2026
+* [Why Semantic Models Behave Differently in Fabric Data Agents](https://data-marc.com/2026/05/29/why-semantic-models-behave-differently-in-fabric-data-agents/) - Marc Lelijveld, May 2026
+* [Fabric Copilot: Building a Foundation of Trust](https://data-marc.com/2026/01/28/microsoft-fabric-copilot-building-a-foundation-of-trust-before-you-ask-questions/) - Marc Lelijveld, January 2026
+* [Automatically Populate Data Agents with Semantic Model Synonyms](https://data-marc.com/2025/06/04/automatically-populate-data-agents-with-semantic-model-synonyms/) - Marc Lelijveld, June 2025
+* [Natural Language Interaction Depends on Semantic Modeling](https://data-marc.com/2025/06/03/natural-language-interaction-isnt-magic-its-semantic-modeling-done-right/) - Marc Lelijveld, June 2025
+
+### Developer Tools
+* [VS Code Notebooks for Microsoft Fabric](https://thatfabricguy.com/vs-code-notebooks-fabric/) - Bas Land, June 2025
 
 ## Limitations
 * [Datawarehouse Limitations](https://learn.microsoft.com/en-us/fabric/data-warehouse/limitations)
