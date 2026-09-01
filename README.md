@@ -49,6 +49,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Use cases](#use-cases)
     - [Industry Solutions](#industry-solutions)
     - [Fabric with OpenAI](#fabric-with-openai)
+    - [Microsoft Foundry and Agent Runtimes](#microsoft-foundry-and-agent-runtimes)
     - [Microsoft 365](#microsoft-365)
     - [Application](#application)
     - [Fabric Apps](#fabric-apps)
@@ -865,6 +866,44 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Implementing Data Agents in Fabric for Comprehensive Business Insights](https://www.bakertilly.com/insights/implementing-data-agent-in-microsoft-fabric-for-comprehensive-business-insights)
 * [Agent Skills for Fabric](https://github.com/microsoft/skills-for-fabric/tree/main)
 
+## Microsoft Foundry and Agent Runtimes
+*How Microsoft Foundry, Copilot Studio and serverless agent runtimes connect to Fabric data, and where agents actually run*
+
+### Foundry and Fabric Integration
+* [Use the Microsoft Fabric Data Agent with Foundry Agents](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/fabric) Ground a Foundry agent on Fabric data through the data agent tool
+* [Connect Agents to Microsoft Fabric with Fabric IQ](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/fabric-iq) Ontology-grounded reasoning for Foundry agents
+* [OneLake for Microsoft Foundry](https://learn.microsoft.com/en-us/fabric/onelake/onelake-foundry-knowledge) Use OneLake files as a knowledge source for Foundry agents
+* [Observability for Fabric Data Agents in Microsoft Foundry](https://learn.microsoft.com/en-us/fabric/data-science/fabric-data-agent-foundry-observability) Latency, status and error telemetry for agent tool calls
+* [What is Microsoft Foundry Agent Service?](https://learn.microsoft.com/en-us/azure/foundry/agents/overview)
+* [Build and Run Agents at Scale with Microsoft Foundry at Build 2026](https://devblogs.microsoft.com/foundry/agent-service-build2026/)
+* [Build 2026 - From Observability to ROI for AI Agents on Any Framework](https://devblogs.microsoft.com/foundry/build-2026-from-observability-to-roi-for-ai-agents-on-any-framework/)
+* [Unlocking Enterprise AI - OneLake Files in Foundry](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Unlocking-Enterprise-AI-Seamless-Integration-of-OneLake-Files-in/ba-p/5172423)
+* [How Do I Connect to OneLake?](https://learn.microsoft.com/en-us/fabric/onelake/onelake-access-api) Access paths and APIs used by external engines and agents
+
+### Fabric IQ and Foundry IQ Together
+* [Create an Ontology Agent with Foundry IQ](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-create-agent-foundry-iq)
+* [Agent Integration Options for Ontology](https://learn.microsoft.com/en-us/fabric/iq/ontology/concepts-agent-integration) Compare MCP, Foundry IQ and direct integration paths
+* [What's Next for Fabric IQ Ontology - The Operational Context Layer](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-next-for-Fabric-IQ-Ontology-The-operational-context-that/ba-p/5172145)
+* [Agentic Applications for a Unified Data Foundation Solution Accelerator](https://microsoft.github.io/agentic-applications-for-unified-data-foundation-solution-accelerator/) Foundry IQ plus Fabric IQ reference implementation
+* [Microsoft Fabric IQ Product Page](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)
+
+### Azure Functions Agent Hosting and Hosted Skills
+*Serverless, event-driven runtime for agents and agent tools that operate over Fabric and OneLake data*
+* [Azure Functions Hosted Skills Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills) Serverless event-driven runtime for AI agents and skills
+* [Build an Event-Driven AI App with Azure Functions Hosted Skills](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-hosted-skills)
+* [Azure Functions Hosted Skills Reference](https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-reference) mcp.json and agents.config.yaml configuration
+* [Azure Functions Agents Runtime on GitHub](https://github.com/Azure/azure-functions-agents-runtime)
+* [Integrate Azure Functions with Foundry Agents](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/azure-functions)
+* [Connect an MCP Server on Azure Functions to Foundry Agent Service](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-foundry-tools)
+* [Use AI Tools and Models in Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-ai-enabled-apps)
+* [Tutorial - Host an MCP Server on Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-tutorial)
+* [Build a Custom Remote MCP Server Using Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-custom-remote-mcp-server)
+* [Host Servers Built with MCP SDKs on Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-host-mcp-server-sdks)
+* [Build an MCP Apps Server Using Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/scenario-mcp-apps)
+* [Entra Agent Identity Platform for Apps](https://learn.microsoft.com/en-us/azure/app-service/overview-agent-identity)
+* [Azure Functions at Build 2026 Update](https://techcommunity.microsoft.com/blog/appsonazureblog/azure-functions-at-build-2026-update/4524075)
+* [Fabric User Data Functions Overview](https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-overview) In-Fabric serverless functions, complementary to Azure Functions
+
 ## Microsoft 365
 
 *Microsoft Larger Ecosystem*
@@ -915,7 +954,27 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 ## Copilot
 
+*Copilot experiences across every Fabric workload, and consuming Fabric data agents from Copilot surfaces*
+
+### Copilot in Fabric
+* [Overview of Copilot in Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/copilot-fabric-overview)
+* [Enable and Configure Copilot in Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/copilot-enable-fabric)
+* [Release Status of AI and Copilot in Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/copilot-ai-feature-state)
+* [Privacy, Security and Responsible AI Use of Copilot in Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/copilot-privacy-security)
+* [Copilot in Fabric Is Available Worldwide](https://blog.fabric.microsoft.com/blog/copilot-in-fabric-preview-is-available-worldwide)
 * [Use Copilot in Fabric](https://blog.fabric.microsoft.com/en-us/blog/fabric-change-the-game-how-easy-is-it-to-use-copilot-in-microsoft-fabric?ft=All)
+
+### Copilot by Workload
+* [Copilot in the Data Warehouse Workload](https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot)
+* [Copilot for Data Engineering and Data Science](https://learn.microsoft.com/en-us/fabric/data-engineering/copilot-notebooks-overview) Notebook chat and inline code completion
+* [Copilot in the Data Factory Workload](https://learn.microsoft.com/en-us/fabric/data-factory/copilot-fabric-data-factory)
+* [Copilot for Real-Time Intelligence](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/copilot-real-time-intelligence)
+
+### Fabric Data Agents in Copilot Surfaces
+* [Consume a Data Agent from Microsoft 365 Copilot](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-365-copilot)
+* [Consume a Data Agent in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio)
+* [Add a Fabric Data Agent as a Tool in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio-tool)
+* [Fabric Data Agent Creation Concepts](https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent)
 
 *Community*
 * [Using Copilot in Fabric Notebook for data engineering](https://www.serverlesssql.com/using-copilot-in-fabric-notebooks-for-data-engineering/)
