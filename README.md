@@ -76,6 +76,10 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
 * [What's New in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new) Authoritative rolling list of new and updated Fabric features
 * [What's New Archive](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new-archive) Historical Microsoft Fabric feature announcements
 * [Fabric August 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-august-2026-feature-summary/5325824) Fabric Runtime 2.0 GA, BigQuery mirroring GA, data agent routing GA and more
+* [Fabric Influencers Spotlight August 2026](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-August-2026/ba-p/5365378) Curated MVP and Super User content across every Fabric workload
+* [SQL Query Editor Enhancements Generally Available](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033) September 2026
+* [Networking Communication Policies Admin API Generally Available](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-tenant-wide-visibility-into-workspace-networking-policies/ba-p/5361690) Tenant-wide view of workspace networking policies
+* [ODBC to ADBC Driver Transition](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Start-validating-today-The-ODBC-to-ADBC-driver-transition-in/ba-p/5362917) Validate before ADBC becomes the default
 * [Fabric July 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-july-2026-feature-summary/5325823) Real-Time Dashboard GA, OneLake storage tiers, Plan in Fabric IQ GA and more
 * [Fabric June 2026 Feature Summary](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690) GPU-accelerated Data Warehouse, Data Agent enhancements, OneLake storage tiers and more
 * [Fabric April 2026 Feature Summary](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490) Fabric Local MCP, tabbed multitasking, cross-workspace MLflow and more
@@ -259,6 +263,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Criteria to make decisions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/microsoft-fabric-microsoft-fabric-criteria-to-make-decision-part/ba-p/3847511)
 * [A better Understanding of the Underlying Architecture- Fabric](https://piethein.medium.com/microsoft-fabric-a-better-understanding-of-the-underlying-architecture-and-concepts-847407b2524f)
 * [Build RAG Data pipeline from Azure Blob Storage to SQL Database in Microsoft Fabric within minutes](https://blog.fabric.microsoft.com/en-us/blog/ai-ready-apps-build-rag-data-pipeline-from-azure-blob-storage-to-sql-database-in-microsoft-fabric-within-minutes?ft=All)
+* [OneLake Architectural Guidance - A Practical Blueprint for the AI Era](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-architectural-guidance-A-practical-blueprint-for-the-AI/ba-p/5282667)
+* [Connectivity Patterns in Microsoft Fabric](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connectivity-patterns-in-Microsoft-Fabric-A-guide-for-data/ba-p/5360180) A guide for data integration workloads
+* [Building the Bronze, Silver and Gold Layers](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-the-Bronze-Silver-Gold-layers/ba-p/5360201)
+* [Choosing Your Medallion Pattern in Fabric Data Warehouse](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Choosing-your-medallion-pattern-in-Fabric-Data-Warehouse/ba-p/5328670)
+* [Fabric Data Warehouse Best Practices for Medallion Architectures](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-best-practices-for-medallion-architectures/ba-p/5364080)
 
 ## Videos
 
@@ -358,9 +367,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Learn Microsoft Fabric with Power BI - Amit Chandan - YT Playlist](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39)
   
 ## Administration
-
 *Fabric Administration for IT Architects, Administrators*
 * [Fabric Admin](https://learn.microsoft.com/en-us/fabric/admin/microsoft-fabric-admin)
+* [Retention and Recovery in Fabric](https://learn.microsoft.com/en-us/fabric/admin/retention-recovery)
+* [Enabling Item Recovery by Default](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Enabling-Item-Recovery-by-default-in-Microsoft-Fabric/ba-p/5323843)
+* [Anonymous Data Access in Fabric Apps](https://learn.microsoft.com/en-us/fabric/apps/anonymous-data-access)
 * [Understanding the roles and domains](https://data-marc.com/2023/06/08/governance-in-microsoft-fabric-understanding-the-roles-and-domains/)
 * [Administration and Governance](https://www.element61.be/en/resource/administration-and-governance-microsoft-fabric)
 * [Secure, Govern, Manage at Scale](https://community.fabric.microsoft.com/t5/Webinars-and-Video-Gallery/Secure-govern-and-manage-your-data-at-scale-in-Microsoft-Fabric/m-p/3296299)
@@ -403,6 +414,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Customer-Managed Keys for Fabric Workspaces](https://learn.microsoft.com/en-us/fabric/security/workspace-customer-managed-keys)
 * [Tenant-Level Private Links](https://learn.microsoft.com/en-us/fabric/security/security-private-links-overview)
 * [Set Up and Use Tenant-Level Private Links](https://learn.microsoft.com/en-us/fabric/security/security-private-links-use)
+* [Overview of Managed Virtual Networks in Fabric](https://learn.microsoft.com/en-us/fabric/security/security-managed-vnets-fabric-overview)
+* [Set Up and Use Workspace-Level Private Links](https://learn.microsoft.com/en-us/fabric/security/security-workspace-level-private-links-set-up)
+* [Outbound Access Protection for Operations Agent](https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-operations-agent)
+* [Outbound Access Protection for Fabric Maps](https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-fabric-maps)
+* [Workspace OAP for Operations Agent and Fabric Maps Announcement](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817)
 
 ## OneLake
 *one drive for data*
@@ -422,6 +438,14 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Controlling Storage Costs with OneLake Lifecycle Management](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Controlling-storage-costs-with-OneLake-lifecycle-management/ba-p/5295135) Hot, cool and cold tiering policies
 * [Manage Inbound Access to OneLake with Resource Instance Rules](https://learn.microsoft.com/en-us/fabric/onelake/onelake-manage-inbound-access-trusted-resources)
 * [Shortcut Transformations for Files](https://learn.microsoft.com/en-us/fabric/onelake/shortcuts/transformations) Zero-code CSV, JSON and Excel ingestion into Delta tables
+* [OneLake Security Roles, Permissions and Scopes](https://learn.microsoft.com/en-us/fabric/onelake/security/data-access-control-model)
+* [OneLake Security for SQL Analytics Endpoints](https://learn.microsoft.com/en-us/fabric/onelake/security/sql-analytics-endpoint-onelake-security)
+* [Secure and Manage OneLake Shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcut-security)
+* [New OneLake Security Improvements](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/New-OneLake-security-improvements-for-Microsoft-Fabric/ba-p/5314377)
+* [Securing Zero-Copy Distribution Patterns with OneLake Security and Shortcuts](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-zero-copy-distribution-patterns-with-OneLake-security/ba-p/5227853)
+* [OneLake Consumption](https://learn.microsoft.com/en-us/fabric/onelake/onelake-consumption) How OneLake storage and transactions are billed
+* [Create a Dataverse Shortcut](https://learn.microsoft.com/en-us/fabric/onelake/create-dataverse-shortcut)
+* [What's New for Dataverse Fabric Link](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-for-Dataverse-Fabric-Link-More-control-stronger/ba-p/5279493)
 
 *Community*
 * [Exploring Fabric OneLake vs Azure Data Lake Gen2 Storage Accounts](https://www.serverlesssql.com/onelake-storage/)
@@ -516,6 +540,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Use Iceberg Tables with OneLake](https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables) Shortcut to Snowflake-managed Iceberg tables and virtualize as Delta
 * [Store and Use Your Snowflake Iceberg Data in OneLake](https://support.fabric.microsoft.com/en-us/blog/store-and-use-your-snowflake-iceberg-data-in-onelake?ft=All) Zero-copy access to Snowflake Iceberg tables via shortcuts
 * [Unlock the Power of Your Iceberg Data in OneLake](https://blog.fabric.microsoft.com/en-US/blog/unlock-the-power-of-your-iceberg-data-in-onelake/) Bi-directional Delta and Iceberg metadata virtualization
+* [Bring Your Snowflake Iceberg Tables to OneLake with Fabric Mirroring](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Snowflake-Iceberg-tables-to-OneLake-with-Fabric/ba-p/5301177)
+* [Connect Securely to Snowflake in Fabric Pipelines and Copy Jobs](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connect-securely-to-Snowflake-in-Fabric-Pipelines-and-Copy-Jobs/ba-p/5363159)
+* [Configure Snowflake in a Copy Activity](https://learn.microsoft.com/en-us/fabric/data-factory/connector-snowflake-copy-activity)
 
 ### Databricks Interoperability
 * [Mirrored Catalog from Azure Databricks](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks) Bring Unity Catalog tables into Fabric without copying data
@@ -523,6 +550,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Zero-Copy Access to OneLake Data in Azure Databricks](https://blog.fabric.microsoft.com/blog/zero-copy-access-to-onelake-data-in-azure-databricks-preview?ft=All) Unity Catalog queries Fabric data in place, OneLake stays source of truth
 * [Enable OneLake Catalog Federation in Databricks](https://learn.microsoft.com/en-us/azure/databricks/query-federation/onelake) Databricks-side configuration for federating OneLake into Unity Catalog
 * [Integrating Fabric with Databricks Using a Private Network](https://blog.fabric.microsoft.com/en-us/blog/integrating-fabric-with-databricks-using-private-network)
+* [Choosing a Power BI Storage Mode for Reporting on Azure Databricks Data](https://blog.crossjoin.co.uk/2026/09/06/choosing-a-power-bi-storage-mode-for-reporting-on-data-from-azure-databricks/) - Chris Webb, September 2026
+* [Writing Databricks Parquet That VertiPaq Likes](https://datamonkeysite.com/2026/09/09/writing-databricks-parquet-that-vertipaq-likes/) - Mim, September 2026
 
 ### Open Table Formats and Multi-Cloud Reach
 * [Access Delta Lake Tables as Iceberg Automatically](https://blog.fabric.microsoft.com/blog/new-in-onelake-access-your-delta-lake-tables-as-iceberg-automatically) OneLake serves the same table in both formats
@@ -585,6 +614,16 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Use IDENTITY Columns to Create Surrogate Keys](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-identity)
 * [Ingest Data with the Bulk Copy API](https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-bulk-copy)
 * [Use Data Clustering in Fabric Data Warehouse](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-data-clustering)
+* [SQL Query Editor](https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor) Faster results grid, scalable IntelliSense and .sql import/export
+* [Warehouse Performance Guidelines](https://learn.microsoft.com/en-us/fabric/data-warehouse/guidelines-warehouse-performance)
+* [SQL Audit Logs in Fabric Data Warehouse](https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-audit-logs) and [Predicate Filtering GA](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/SQL-Audit-Logs-More-Signal-Less-Noise-with-Predicate-Filtering/ba-p/5357211)
+* [How to Observe Warehouse Utilization Trends](https://learn.microsoft.com/en-us/fabric/data-warehouse/how-to-observe-utilization)
+* [Understanding Warehouse Consumption with Capacity Metrics and Query Insights](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Understanding-Warehouse-Consumption-with-Capacity-Metrics-and/ba-p/5357458)
+* [Ingest Data Using the COPY Statement](https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-copy) Now supports workspace identity
+* [Configure Custom SQL Pools in the Fabric Portal](https://learn.microsoft.com/en-us/fabric/data-warehouse/configure-custom-sql-pools-portal)
+* [Using Custom SQL Pools to Balance Performance and Cost](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Custom-SQL-Pools-to-balance-performance-and-cost-in-Fabric/ba-p/5359735)
+* [10 Things to Know About GPU-Powered Query Acceleration](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/10-Things-to-know-about-GPU-powered-Query-Acceleration-in-Fabric/ba-p/5359441)
+* [Upgrade Fabric Data Warehouse System File Version](https://learn.microsoft.com/en-us/fabric/data-warehouse/upgrade-warehouse) Required for Warehouse CI/CD 2.0
 
 ## Data Factory
 
@@ -604,6 +643,13 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Migration Planning for Azure Data Factory to Fabric](https://learn.microsoft.com/en-us/fabric/data-factory/migrate-planning-azure-data-factory)
 * [Invoke SSIS Package Activity](https://learn.microsoft.com/en-us/fabric/data-factory/invoke-ssis-package-activity) Run SSIS packages from Fabric pipeline orchestration
 * [Execute Power Query Programmatically](https://learn.microsoft.com/en-us/rest/api/fabric/dataflow/query-execution/execute-query) REST API to evaluate M scripts from code
+* [Upgrade Dataflow Gen1 to Gen2 with the Upgrade Wizard](https://learn.microsoft.com/en-us/fabric/data-factory/migrate-to-dataflow-gen2-using-upgrade-wizard) In-place upgrade retaining IDs, schedules and connections
+* [Common dbt Job Patterns in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-factory/common-dbt-job-patterns) and [Announcement](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Common-dbt-job-patterns-in-Microsoft-Fabric-Preview/ba-p/5361480)
+* [Pipeline Canvas in Fabric Data Factory](https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-canvas-experience)
+* [Public APIs for Dataflow Gen2](https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-public-apis)
+* [Enable Workspace Monitoring in Data Factory](https://learn.microsoft.com/en-us/fabric/data-factory/workspace-monitoring)
+* [Manage Fabric Connections at Scale with Connection Recency](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-Fabric-connections-at-scale-with-connection-recency-in/ba-p/5363147)
+* [On-Premises Data Gateway August 2026 Release](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-August-2026-release/ba-p/5363026)
 
 
 
@@ -637,6 +683,13 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Microsoft ODBC Driver for Fabric Data Engineering](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-odbc-driver)
 * [Microsoft ADO.NET Driver for Fabric Data Engineering](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-adonet-driver)
 * [Spark Connector for SQL Databases](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-sql-connector)
+* [Fabric Runtime Release Channels](https://learn.microsoft.com/en-us/fabric/data-engineering/release-channels) and [Announcement](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Runtime-Release-Channels/ba-p/5240330)
+* [Faster Spark Queries with the Native Execution Engine](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Faster-Spark-queries-with-the-Native-Execution-Engine-New/ba-p/5316897)
+* [Native Execution Engine Accelerates CSV Workloads](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Native-Execution-Engine-now-accelerates-CSV-workloads-in/ba-p/5311861)
+* [Concurrency Limits and Queueing in Apache Spark for Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-concurrency-and-queueing)
+* [Customer-Managed Key Encryption for Spark Jobs](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-managed-key-encryption-now-extends-to-Spark-jobs-in/ba-p/5323769)
+* [Fabric Connection in Notebooks](https://learn.microsoft.com/en-us/fabric/data-engineering/fabric-connection-with-notebook)
+* [SQL Analytics Endpoint Metadata Sync](https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync)
 
 ## User Data Functions
 *Serverless Python functions with REST endpoints for Fabric workloads*
@@ -674,6 +727,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Provide Example Queries to a Data Agent](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-example-queries)
 * [Use Multimodal Input with AI Functions](https://learn.microsoft.com/en-us/fabric/data-science/ai-functions/multimodal-overview)
 * [Foundry Tools in Fabric](https://learn.microsoft.com/en-us/fabric/data-science/ai-services/ai-services-overview) Prebuilt AI models formerly known as Azure AI services
+* [AI Functions - Transform Data at Scale with AI](https://learn.microsoft.com/en-us/fabric/data-science/ai-functions/overview)
   
 ## EventHouse
 *Real time data*
@@ -777,6 +831,26 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [DeltaFlow Output Transformation](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/delta-flow-output-transformation) Flatten Debezium CDC payloads into analytics-ready rows
 * [Add a Cribl Source to an Eventstream](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-cribl)
 * [Process Events with Multiple Schemas](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/process-events-with-multiple-schemas)
+* [MQTT Source in Fabric Eventstream](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-mqtt)
+* [Process Events Using a SQL Operator](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/process-events-using-sql-code-editor)
+* [Enrich Events with Reference Data](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/enrich-events-with-reference-data)
+* [Eventstream Connector VNet and On-Premises Support Guide](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/streaming-connector-private-network-support-guide)
+* [Turn On OneLake Availability for an Eventhouse](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-house-onelake-availability)
+* [Customize Real-Time Dashboard Visuals](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals-customize) and [Conditional Formatting](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-conditional-formatting)
+* [Introduction to Azure and Fabric Events](https://learn.microsoft.com/en-us/fabric/real-time-hub/fabric-events-overview)
+* [Capacity Operation Events in Real-Time Hub](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Operation-Events-in-Real-Time-Hub-Preview/ba-p/5364092)
+* [What's New in Fabric Eventstreams - 2026 Q2 Edition](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-New-in-Fabric-Eventstreams-2026-Q2-Edition/ba-p/5277663)
+* [Eventhouse for Data Engineers](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-for-data-engineers-A-faster-path-from-events-to/ba-p/5325610)
+* [From Factory Floor to Fabric - Securely Stream Private Data](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-factory-floor-to-Fabric-Securely-stream-private-data-with/ba-p/5362960)
+
+### Business Events and Event-Driven Patterns
+*Design guidance for the Business Events pillar in Real-Time hub*
+* [Create Business Events in Real-Time Hub](https://learn.microsoft.com/en-us/fabric/real-time-hub/business-events/create-business-events)
+* [Choose the Right Event Pillar - Business, Fabric and Azure Events](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Choose-the-right-event-pillar-in-Microsoft-Fabric-Business/ba-p/5331534)
+* [Design a Business Event Schema Consumers Can Act On](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Design-a-Business-Event-schema-that-consumers-can-act-on/ba-p/5331546)
+* [Five Business Event Scenarios and the Pattern They Share](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Five-Business-Event-scenarios-and-the-pattern-they-share/ba-p/5361411)
+* [Reacting to Business Events with Activator and Eventhouse](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Reacting-to-Business-Events-with-Activator-and-Eventhouse/ba-p/5361410)
+* [Build Event-Driven Architectures with Real-Time Hub](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-event-driven-architectures-in-Fabric-with-Real-Time-Hub/ba-p/5318834)
 
 ## Maps
 *Native geospatial visualization for real-time and historical Fabric data*
@@ -786,6 +860,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Tutorial: Real-Time Work Order Routing with Fabric Maps](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/map/tutorial-real-time-work-order-routing-application)
 * [Create Tilesets](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/map/create-tile-sets) PMTiles from OneLake geospatial data for fast interactive maps
 * [Bring Fabric Maps into Real-Time Dashboards](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Fabric-Maps-into-Real-Time-Dashboards-Preview/ba-p/5360916)
+* [Customize a Map in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/real-time-intelligence/map/customize-map) Data-driven styling, legends and traffic overlays
 
 ## Digital Twin Builder
 *Model physical environments and operational data with Fabric Real-Time Intelligence*
@@ -871,6 +946,11 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 ### Foundry and Fabric Integration
 * [Use the Microsoft Fabric Data Agent with Foundry Agents](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/fabric) Ground a Foundry agent on Fabric data through the data agent tool
+* [Fabric Data Agents in Microsoft Foundry - Easier to Connect, Easier to Trust](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-data-agents-in-Microsoft-Foundry-Easier-to-connect-easier/ba-p/5318989)
+* [Fabric Data Agent API Is Now Public](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-data-agent-API-is-now-public-Build-Fabric-data-agents/ba-p/5230588) Build data agents into your own tools and pipelines
+* [Fabric Data Agent Python SDK](https://learn.microsoft.com/en-us/fabric/data-science/fabric-data-agent-sdk)
+* [Fabric Data Agent Runtime](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-runtime)
+* [Prepare Your Fabric Data Agent Integrations for Assistants API Retirement](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Prepare-your-Fabric-Data-Agent-integrations-for-Assistants-API/ba-p/5314634) Migration guidance for existing integrations
 * [Connect Agents to Microsoft Fabric with Fabric IQ](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/fabric-iq) Ontology-grounded reasoning for Foundry agents
 * [OneLake for Microsoft Foundry](https://learn.microsoft.com/en-us/fabric/onelake/onelake-foundry-knowledge) Use OneLake files as a knowledge source for Foundry agents
 * [Observability for Fabric Data Agents in Microsoft Foundry](https://learn.microsoft.com/en-us/fabric/data-science/fabric-data-agent-foundry-observability) Latency, status and error telemetry for agent tool calls
@@ -886,6 +966,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [What's Next for Fabric IQ Ontology - The Operational Context Layer](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-next-for-Fabric-IQ-Ontology-The-operational-context-that/ba-p/5172145)
 * [Agentic Applications for a Unified Data Foundation Solution Accelerator](https://microsoft.github.io/agentic-applications-for-unified-data-foundation-solution-accelerator/) Foundry IQ plus Fabric IQ reference implementation
 * [Microsoft Fabric IQ Product Page](https://www.microsoft.com/en-us/microsoft-fabric/features/iq)
+* [Fabric IQ in Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview) Surface Fabric IQ grounded answers inside Copilot Chat
 
 ### Azure Functions Agent Hosting and Hosted Skills
 *Serverless, event-driven runtime for agents and agent tools that operate over Fabric and OneLake data*
@@ -951,6 +1032,9 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Associate an Identity with Fabric Items](https://learn.microsoft.com/en-us/rest/api/fabric/articles/item-management/associate-item-identity)
 * [Workspace Monitoring Overview](https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview)
 * [Microsoft Fabric Embed](https://learn.microsoft.com/en-us/fabric/embed/what-is-fabric-embed) Embed Real-Time Dashboards in your own applications
+* [Introduction to CI/CD in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/cicd/cicd-overview)
+* [New CI/CD Resources - From Concepts to End-to-End Automation](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/New-CI-CD-resources-for-Microsoft-Fabric-from-concepts-to-end-to/ba-p/5358502)
+* [SqlPackage for SQL Database in Fabric](https://learn.microsoft.com/en-us/fabric/database/sql/sqlpackage)
 
 ## Copilot
 
@@ -974,6 +1058,13 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Consume a Data Agent from Microsoft 365 Copilot](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-365-copilot)
 * [Consume a Data Agent in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio)
 * [Add a Fabric Data Agent as a Tool in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio-tool)
+* [Fabric Data Agents in Microsoft Copilot Studio Generally Available](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Agents-in-Microsoft-Copilot-Studio-Generally/ba-p/5362882) Added as a Fabric IQ Data MCP tool while retaining source permissions
+* [Fabric IQ in Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview)
+* [The Future of Conversational Analytics in Fabric](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-future-of-conversational-analytics-in-Fabric/ba-p/5302562)
+* [Advanced DAX Generation for Semantic Models in Fabric Data Agents](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-DAX-generation-for-semantic-models-in-Fabric-data/ba-p/5363136)
+* [Semantic Model Best Practices for Data Agents](https://learn.microsoft.com/en-us/fabric/data-science/semantic-model-best-practices)
+* [Use Sensitivity Labels to Improve AI Agent Accuracy](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-sensitivity-labels-to-improve-AI-Agents-accuracy-and/ba-p/5256054)
+* [Retirement of Fabric Data Agent Integration in Copilot in Power BI](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Retirement-of-Fabric-data-agent-integration-in-Copilot-in-Power/ba-p/5328344) Deprecation notice and migration path
 * [Fabric Data Agent Creation Concepts](https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent)
 
 *Community*
@@ -992,6 +1083,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Structure Fabric Items by Applying Naming Conventions](https://data-marc.com/2025/02/13/structure-fabric-items-by-applying-naming-conventions/) - Marc Lelijveld, February 2025
 
 ### Capacity Management and Cost
+* [The Query Finished - Why Is My Fabric SQL Database Still Consuming CUs?](https://data-mozart.com/the-query-finished-why-is-my-fabric-sql-database-still-consuming-cus/) - Nikola Ilic, September 2026
+* [Monitoring Microsoft Fabric Capacity Usage with Operation Events](https://www.fourmoo.com/2026/09/09/monitoring-microsoft-fabric-capacity-usage-with-operation-events/) - Gilbert Quevauvilliers, September 2026
 * [One-Minute Trap: How New Fabric Warehouse CU Metering Affects Your Workloads](https://data-mozart.com/one-minute-trap-how-new-fabric-warehouse-cu-metering-affect-your-workloads/) - Nikola Ilic, July 2026
 * [Dynamically Changing Fabric Data Warehouse SQL Pools for Cost and Performance](https://www.fourmoo.com/2026/08/27/dynamically-changing-the-microsoft-fabric-data-warehouse-sql-pools-for-cost-and-performance/) - Gilbert Quevauvilliers, August 2026
 * [Reusable AI Skills for Writing to Lakehouse Tables and Reducing CU Consumption](https://www.fourmoo.com/2026/08/18/reusable-ai-skills-for-writing-to-microsoft-fabric-lakehouse-tables-from-python-notebooks-and-to-reduce-capacity-units-consumption/) - Gilbert Quevauvilliers, August 2026
@@ -1007,6 +1100,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Automating Semantic Model Security with Fabric Semantic Link](https://data-marc.com/2025/10/14/automating-power-bi-semantic-model-security-with-fabric-semantic-link/) - Marc Lelijveld, October 2025
 
 ### Data Engineering and Spark
+* [Implementing SCD Type 2 in Microsoft Fabric - The Definitive Guide](https://data-mozart.com/implementing-scd-type-2-in-microsoft-fabric-the-definitive-guide/) - Nikola Ilic, September 2026
 * [How Incremental Liquid Clustering Works](https://milescole.dev/data-engineering/2026/07/24/Incremental-Liquid-Clustering-Fabric-Runtime-2.html) - Miles Cole, July 2026
 * [Why You Might Lease a Blob: An Intro to Job Locks](https://milescole.dev/data-engineering/2026/08/05/Why-you-might-lease-a-blob.html) - Miles Cole, August 2026
 * [Mastering Spark: DataFrameWriterV2 vs DataFrameWriterV1](https://milescole.dev/data-engineering/2026/06/19/DataFrameWriterV2.html) - Miles Cole, June 2026
@@ -1032,6 +1126,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Deploying a Case-Insensitive Warehouse Using Deployment Pipelines](https://www.serverlesssql.com/deploying-case-insensitive-warehouse-using-deployment-pipelines/) - Andy Cutler, February 2025
 
 ### Power BI, Direct Lake and Semantic Models
+* [Find What Changed and When in Your Power BI Semantic Model](https://blog.crossjoin.co.uk/2026/09/13/find-what-changed-and-when-in-your-power-bi-semantic-model/) - Chris Webb, September 2026
 * [The Benefits of Using Direct Lake Mode in Power BI](https://blog.crossjoin.co.uk/2026/07/12/the-benefits-of-using-direct-lake-mode-in-power-bi/) - Chris Webb, July 2026
 * [Referencing Images and Other Files in Power BI Reports Using OneLake URLs](https://blog.crossjoin.co.uk/2026/08/30/referencing-images-and-other-files-in-power-bi-reports-using-onelake-urls/) - Chris Webb, August 2026
 * [Tools With Interactive UIs in Fabric Notebooks With Semantic Link Labs](https://blog.crossjoin.co.uk/2026/08/23/tools-with-interactive-uis-in-fabric-notebooks-with-semantic-link-labs/) - Chris Webb, August 2026
@@ -1057,6 +1152,8 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Liar, Liar! What to Do When AI Writes Your Pipelines Confidently Wrong](https://data-mozart.com/liar-liar-what-to-do-when-ai-writes-your-pipelines-confidently-wrong/) - Nikola Ilic, July 2026
 
 ### Developer Tools
+* [A Repo That Mirrors Your Architecture - Source Control and Structure in Fabric](https://peerinsights.emono.dk/a-repo-that-mirrors-your-architecture) - Peer Grønnerup, September 2026
+* [How to Back Up and Restore MCP Servers and Skills in VS Code](https://www.fourmoo.com/2026/09/03/how-to-back-up-and-restore-mcp-servers-and-skills-in-vs-code/) - Gilbert Quevauvilliers, September 2026
 * [VS Code Notebooks for Microsoft Fabric](https://thatfabricguy.com/vs-code-notebooks-fabric/) - Bas Land, June 2025
 * [Using GitHub Copilot CLI to Build a Fabric Lakehouse Table Health Pipeline](https://www.fourmoo.com/2026/06/30/using-github-copilot-cli-to-build-a-microsoft-fabric-lakehouse-table-health-pipeline/) - Gilbert Quevauvilliers, June 2026
 * [Microsoft's New Fabric Azure DevOps Extension: Promising Wrapper, Limited Value Today](https://peerinsights.emono.dk/microsoft-s-new-fabric-azure-devops-extension-promising-wrapper-limited-value-today) - Peer Grønnerup, April 2026
