@@ -124,7 +124,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Azure Data Explorer ADX](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer)
 * [Azure Machine Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog)
 * [Azure Migration](https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog)
-* [Data Migration](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog)
+* [Data Migration](https://techcommunity.microsoft.com/category/azure/blog/microsoftdatamigration)
 * [Capacity and cost management](https://blog.fabric.microsoft.com/en-us/blog/announcing-microsoft-fabric-capacities-are-available-for-purchase)
 * [Pricing & Billing](https://github.com/Azure/azureml-examples/blob/main/sdk/python/generative-ai/rag/notebooks/azure_cognitive_search/acs_mlindex_with_langchain.ipynb)
 * [Meta-data driven Pipeline - Part-1](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric/ba-p/3891651) and [Part-2 Data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/metadata-driven-pipelines-for-microsoft-fabric-part-2-data/ba-p/3906749)
@@ -136,7 +136,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [OneLake Shortcuts to Power Platform and Dynamics 365](https://blog.fabric.microsoft.com/en-us/blog/microsoft-onelake-adds-shortcut-support-to-power-platform-and-dynamics-365?ft=All)
 * [Understanding KQL DB Capacity](https://blog.fabric.microsoft.com/en-us/blog/understanding-fabric-kql-db-capacity?ft=All)
 * [Column Level and Row Level Security for Fabric Warehouse](https://blog.fabric.microsoft.com/en-us/blog/announcing-column-level-row-level-security-for-fabric-warehouse-sql-endpoint?ft=All)
-* [End to End Workshop - Analyzing wildlife data with Fabric - Includes Datasets](https://blog.fabric.microsoft.com/en-us/blog/announcing-an-end-to-end-workshop-analyzing-wildlife-data-with-microsoft-fabric?ft=All) & [Workshop](https://aka.ms/fabric-e2e-serengeti)
+* [End to End Workshop - Analyzing wildlife data with Fabric - Includes Datasets](https://blog.fabric.microsoft.com/en-us/blog/announcing-an-end-to-end-workshop-analyzing-wildlife-data-with-microsoft-fabric?ft=All)
 * [Fabric Copilot Workshop](https://github.com/kinfey/MSFabricCopilotWorkshop)
 * [Change the game - Exploring Data with Fabric](https://blog.fabric.microsoft.com/en-us/blog/fabric-change-the-game-exploring-the-data?ft=All)
 * [OneLake File Explorer](https://blog.fabric.microsoft.com/en-us/blog/onelake-file-explorer-easy-access-to-open-workspaces-and-items-online?ft=All)
@@ -978,7 +978,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Fabric is the data platform for the era of AI. Open AI use cases through Fabric*
 * [Mapping data flow to Fabric with OpenAI](https://github.com/sethiaarun/mapping-dataflow-to-fabric-with-openai)
-* [Build Intelligent Agents with Microsoft Fabric - Autogen Notebook Example](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_microsoft_fabric.ipynb)
+* [Build Intelligent Agents with Microsoft Fabric - Autogen Notebook Example](https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_microsoft_fabric.ipynb)
 * [Unleash the power of Azure OpenAI and Fabric with Data Search](https://support.fabric.microsoft.com/en-gb/blog/fabric-change-the-game-unleashing-the-power-of-microsoft-fabric-and-openai-for-dataset-search)
 * [Implementing Data Agents in Fabric for Comprehensive Business Insights](https://www.bakertilly.com/insights/implementing-data-agent-in-microsoft-fabric-for-comprehensive-business-insights)
 * [Agent Skills for Fabric](https://github.com/microsoft/skills-for-fabric/tree/main)
