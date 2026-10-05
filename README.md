@@ -122,7 +122,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Data Factory Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog)
 * [Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog)
 * [Azure Data Explorer ADX](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer)
-* [Azure Machine Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog)
+* [Microsoft Foundry Blog (incl. Azure Machine Learning)](https://techcommunity.microsoft.com/category/azure-ai-foundry/blog/azure-ai-foundry-blog)
 * [Azure Migration](https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog)
 * [Data Migration](https://techcommunity.microsoft.com/category/azure/blog/microsoftdatamigration)
 * [Capacity and cost management](https://blog.fabric.microsoft.com/en-us/blog/announcing-microsoft-fabric-capacities-are-available-for-purchase)
@@ -238,7 +238,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [dbt with the lakehouse](https://debruyn.dev/2023/fabric-end-to-end-use-case-analytics-engineering-part-1-dbt-with-the-lakehouse/)
 * [Row Level Security RLS in Datawarehouse](https://www.youtube.com/watch?v=iP0Cz1XbFfE)
 * [Public repositories available in Github for Fabric - Collection of links](https://www.kevinrchant.com/2023/10/10/microsoft-fabric-repositories-publicly-available-in-github/)
-* [Fabric icons](https://icons.michaeljohnpena.com/iconlist/fabric)
+* [Fabric icons](https://learn.microsoft.com/en-us/fabric/fundamentals/icons)
 * [Analyze Power BI Data in Excel with Fabric](https://blog.crossjoin.co.uk/2023/10/15/analyse-power-bi-data-in-excel-with-python/)
 * [Security - Item level access SQL Policy and Object Level](https://shabnamwatson.com/2023/11/14/microsoft-fabric-workspace-access-item-level-access-sql-policy-and-object-level-security/)
 * [Comparative Analysis of Fabric](https://www.linkedin.com/pulse/unveiling-microsoft-fabric-comparative-analysis-against-sanchez)
@@ -296,7 +296,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Launch End to End Coverage](https://www.youtube.com/watch?v=5jlP0wdEsls)
 * [Fabric Introduction by James Serra](https://www.youtube.com/watch?v=a6A3jtvB62U)
 * [Synapse](https://www.youtube.com/@AzureSynapse) Search for Fabric related
-* [Data Factory](https://www.youtube.com/@AzureDataFactory)
+* [Data Factory](https://www.youtube.com/c/AzureDataFactory)
 * [Data Explorer ADX](https://www.youtube.com/@azuredataexplorer737)
 * [Purview](https://www.youtube.com/@MicrosoftPurview)
 * [Power BI](https://www.youtube.com/@MicrosoftPowerBI)
@@ -733,7 +733,6 @@ Blogs to empower teams that are looking to transform the organization with Micro
 *Create a managed GraphQL API over multiple Fabric data sources*
 * [API for GraphQL Overview](https://learn.microsoft.com/en-us/fabric/data-engineering/api-graphql-overview)
 * [Get Started with API for GraphQL](https://learn.microsoft.com/en-us/fabric/data-engineering/get-started-api-graphql)
-* [Introducing Microsoft Fabric API for GraphQL](https://blog.fabric.microsoft.com/en-us/blog/introducing-microsoft-fabric-api-for-graphql-public-preview)
 * [Build a Local GraphQL MCP Server for AI Agents](https://learn.microsoft.com/en-us/fabric/data-engineering/api-graphql-local-model-context-protocol)
 * [Custom Authorization for API for GraphQL](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352)
 
@@ -911,7 +910,6 @@ Blogs to empower teams that are looking to transform the organization with Micro
 
 *Build data observability to monitor and detect when data changes*
 * [How Data Activator Works](https://aka.ms/dataActivatorBlog)
-* [Extensive capabilities consolidated](https://github.com/microsoft/dataActivator/blob/main/Data%20Activator%20Consolidated%20Docs.pdf)
 * [Automate data driven actions](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/automate-data-driven-actions-data-activator-in-microsoft-fabric/ba-p/3946833)
 
 ## Data Quality
