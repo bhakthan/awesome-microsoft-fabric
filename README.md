@@ -30,6 +30,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Mirroring](#mirroring)
     - [Intelligent Surround](#intelligent-surround)
     - [Databases](#databases)
+    - [Database Hub in Fabric](#database-hub-in-fabric)
     - [Data Warehouse](#data-warehouse)
     - [Data Factory](#data-factory)
     - [Data Engineering](#data-engineering)
@@ -38,6 +39,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Data Science / AI](#data-science-AI)
     - [EventHouse](#EventHouse)
     - [Microsoft IQ](#microsoft-iq)
+    - [3IQ in Practice](#3iq-in-practice)
     - [Graph](#graph)
     - [Power BI](#power-bi)
     - [Real-Time Analytics](#real-time-analytics)
@@ -102,6 +104,8 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
 * [Build, Deploy and Govern Microsoft Fabric at Scale](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-deploy-and-govern-microsoft-fabric-at-scale/5369145) Observability, deployment plans, policies, on-demand compute, GCC High
 * [Power BI's Next Chapter - The Evolution of Business Intelligence](https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi%E2%80%99s-next-chapter-the-evolution-of-business-intelligence/5369131) Agentic report development and the expanding semantic layer
 * [From Prompt to Production - What's New in Fabric Apps](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/from-prompt-to-production-whats-new-in-fabric-apps/5369134) Rayfin framework, PostgreSQL support, functions, secret store, app metrics
+* [What's New in Fabric Data Factory](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-SQLCon-Barcelona-2026-What-s-new-in-Fabric-Data-Factory/ba-p/5369551) BigQuery and SharePoint Lists mirroring GA, upcoming Snowflake support
+* [Connecting Apps, Databases and AI on One Foundation](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connecting-apps-databases-and-AI-on-one-foundation-new/ba-p/5369538) Fabric Apps connectors, PostgreSQL support and OneLake storage
 
 ### Related Announcements
 * [Microsoft Acquires Osmos to Accelerate Autonomous Data Engineering in Fabric](https://blogs.microsoft.com/blog/2026/01/05/microsoft-announces-acquisition-of-osmos-to-accelerate-autonomous-data-engineering-in-fabric/) The agentic data engineering foundation referenced throughout the keynote
@@ -558,6 +562,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Mirror Azure Monitor Logs in Fabric](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Cross-domain-intelligence-with-Azure-Monitor-data-in-Microsoft/ba-p/5279352) Log Analytics workspace tables into OneLake for cross-domain intelligence
 * [Google Lakehouse Runtime Catalog Mirroring](https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/google-lakehouse-runtime) Google-managed Iceberg catalog metadata in OneLake, zero-copy
 * [Tutorial: Set up Mirroring for Google BigQuery](https://learn.microsoft.com/en-us/fabric/mirroring/google-bigquery-tutorial)
+* [Mirroring for Google BigQuery Generally Available](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Mirroring-for-Google-BigQuery-in-Microsoft-Fabric-Generally/ba-p/5364851) No custom pipelines to build or maintain
 
 ## Intelligent Surround
 *Open interoperability between Fabric / OneLake and the wider data ecosystem — Snowflake, Databricks, Dremio and other engines — using open table formats and zero-copy access rather than data movement*
@@ -571,6 +576,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Bring Your Snowflake Iceberg Tables to OneLake with Fabric Mirroring](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Snowflake-Iceberg-tables-to-OneLake-with-Fabric/ba-p/5301177)
 * [Connect Securely to Snowflake in Fabric Pipelines and Copy Jobs](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connect-securely-to-Snowflake-in-Fabric-Pipelines-and-Copy-Jobs/ba-p/5363159)
 * [Configure Snowflake in a Copy Activity](https://learn.microsoft.com/en-us/fabric/data-factory/connector-snowflake-copy-activity)
+* [Microsoft and Snowflake's Commitment to Apache Ossie](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534) Vendor-neutral standard for semantic interoperability across platforms
 
 ### Databricks Interoperability
 * [Mirrored Catalog from Azure Databricks](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks) Bring Unity Catalog tables into Fabric without copying data
@@ -618,6 +624,22 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [SQLCon Barcelona 2026 - Advancing SQL with Greater Control, Scale and Intelligence](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sqlcon-barcelona-2026-advancing-sql-with-greater-control-scale-and-intelligence/)
 * [Azure SQL Database Hyperscale Service Tier](https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale)
 * [Disconnected Operations for Azure Local](https://learn.microsoft.com/en-us/azure/azure-local/manage/disconnected-operations-overview) Sovereign and disconnected SQL workloads
+
+### Database Hub in Fabric
+*Unified control plane for discovering, monitoring and operating your whole database estate from Fabric*
+* [Database Hub in Fabric - Turn Database Signals into Guided Action](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-turn-database-signals-into-guided-action/ba-p/4560846) Public preview bringing inventory, health and performance insights together
+* [Azure Cosmos DB in Fabric Database Hub](https://devblogs.microsoft.com/cosmosdb/announcing-public-preview-for-azure-cosmos-db-in-fabric-database-hub/) Discover and monitor Cosmos DB accounts alongside other engines
+* [A Single View of Your PostgreSQL Estate - Database Hub](https://techcommunity.microsoft.com/t5/microsoft-blog-for-postgresql/a-single-view-of-your-postgresql-estate-database-hub-in-public/ba-p/4560439) Azure Database for PostgreSQL flexible servers across subscriptions and regions
+* [Performance Monitoring for Azure SQL in Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql/ba-p/4560498) Covers Azure SQL Database, SQL Server on Azure VMs and Azure Arc
+* [Azure SQL Updates for Late September 2026](https://azure.microsoft.com/en-us/updates/?id=571846) Database Hub as a unified control plane across SQL Server and Azure SQL
+
+### Azure SQL Adjacencies
+*Azure SQL capabilities that pair with SQL database in Fabric*
+* [Auto-Pause and Auto-Resume for Hyperscale Serverless](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-auto-pause-and-auto-resume-for-azure-sql-database/ba-p/4560907) Suspend compute billing on idle workloads
+* [Serverless Auto-Pause and Auto-Resume Documentation](https://learn.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-auto-pause-resume?view=azuresql)
+* [Hyperscale Elastic Pools Overview](https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-elastic-pool-overview?view=azuresql)
+* [DiskANN Vector Index and Vector Search Generally Available](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-search-are-now-generally-available-in-azure-sql/) Across Azure SQL Database, Managed Instance and SQL database in Fabric
+* [CREATE VECTOR INDEX (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/statements/create-vector-index-transact-sql?view=sql-server-ver17)
 
 
 ## Data Warehouse
@@ -787,6 +809,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Plan in Fabric IQ](https://learn.microsoft.com/en-us/fabric/iq/plan/overview) Generally available July 2026 for collaborative enterprise planning
 * [Bring Enterprise Planning to the AI Era with Planning in Fabric IQ](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Enterprise-planning-to-the-AI-Era-with-Planning-in/ba-p/5326315)
 * [Billing and Usage for Planning in Fabric](https://learn.microsoft.com/en-us/fabric/iq/plan/resources/billing-fabric-plan)
+* [Planning in Microsoft Fabric - From Insight to Action](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552) Signed-in connections and streamlined writeback since July 2026 GA
 * [Get Started with Fabric IQ Learning Path](https://learn.microsoft.com/en-us/training/paths/get-started-fabric-iq/)
 * [Ontology MCP Server](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontology-mcp-server)
 * [Fabric IQ Build 2026 Announcements](https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/)
@@ -813,12 +836,24 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Foundry IQ FAQ](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/foundry-iq-faq)
 * [Build Smarter Agents Faster with Foundry IQ](https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/)
 * [Mastering Foundry IQ Cookbook](https://microsoft-foundry.github.io/forgebook/notebook/mastering-foundry-iq/)
+* [Foundry IQ in Microsoft Copilot Studio Generally Available](https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/foundry-iq-in-microsoft-copilot-studio-is-now-generally/ba-p/4557687) Attach a Foundry IQ knowledge base to agents with grounded citations
+* [Let the Query Decide - Auto Retrieval Reasoning Effort](https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/let-the-query-decide-introducing-auto-retrieval-reasoning-effort/ba-p/4558943) Adaptive routing of retrieval effort to balance quality and cost
 
 ### Web IQ
 *Fresh web knowledge and AI-native grounding for agentic multi-step workflows*
 * [Web IQ Product Page and Access](https://www.microsoft.com/en-us/webiq)
 * [Announcing Microsoft Web IQ](https://blogs.bing.com/search/June-2026/Announcing-Microsoft-Web-IQ)
 * [Engineering Agentic Web Grounding at Scale](https://commandline.microsoft.com/grounding-system-agentic-web-engineering-retrieval/)
+
+### 3IQ in Practice
+*End-to-end reference implementations combining Fabric IQ, Foundry IQ and Work IQ into working agents*
+* [Building the 3IQ Retail Assistant Demo - Part 1](https://techcommunity.microsoft.com/t5/azure-architecture-blog/building-3iq-retail-assistant-demo-part-1/ba-p/4547228) Architecture and private Foundry deployment for a customer-rep assistant
+* [Building the 3IQ Retail Assistant Demo - Part 2](https://techcommunity.microsoft.com/t5/azure-architecture-blog/building-3iq-retail-assistant-demo-part-2/ba-p/4547231) Setup, document ingestion and identity role assignments
+* [Building the 3IQ Retail Assistant Demo - Part 3](https://techcommunity.microsoft.com/t5/azure-architecture-blog/building-3iq-retail-assistant-demo-part-3/ba-p/4547233) Copilot Studio agent over SharePoint case management via Work IQ
+* [Foundry IQ with Dynamics 365 Finance and Operations and Fabric IQ](https://techcommunity.microsoft.com/t5/azure-architecture-blog/foundry-iq-with-d365f-o-and-fabric-iq/ba-p/4557380) Unifying ERP, Fabric IQ and Web IQ through an ERP MCP server
+* [Agent Experience with Data in OneLake Using Fabric IQ](https://techcommunity.microsoft.com/t5/azure-architecture-blog/agent-experience-with-data-in-onelake-using-fabric-iq/ba-p/4557504) Ontology joins across ERP and third-party data for conversational analytics
+* [From OSDU to Ontology - Why Oil and Gas AI Readiness Lives at the Meaning Layer](https://techcommunity.microsoft.com/t5/azure-architecture-blog/from-osdu-to-ontology-why-oil-gas-ai-readiness-lives-at-the/ba-p/4538718) Governed semantic layer over OneLake for energy operators
+* [Data Meets Agents](https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/data-meets-agents/ba-p/4553082) Secure enterprise data access patterns for Foundry Agent Service
 
 ## Graph
 *Relationship-aware analytics and AI reasoning over OneLake data using ISO GQL*
