@@ -1186,6 +1186,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Automating Semantic Model Security with Fabric Semantic Link](https://data-marc.com/2025/10/14/automating-power-bi-semantic-model-security-with-fabric-semantic-link/) - Marc Lelijveld, October 2025
 
 ### Data Engineering and Spark
+* [Fabric Engines on 1B Rows: Pick by Query Shape](https://www.geekindata.com/blog/55-fabric-engines-1b-rows-query-shape) - Sai Neelakantam, October 2026
 * [Implementing SCD Type 2 in Microsoft Fabric - The Definitive Guide](https://data-mozart.com/implementing-scd-type-2-in-microsoft-fabric-the-definitive-guide/) - Nikola Ilic, September 2026
 * [How Incremental Liquid Clustering Works](https://milescole.dev/data-engineering/2026/07/24/Incremental-Liquid-Clustering-Fabric-Runtime-2.html) - Miles Cole, July 2026
 * [Why You Might Lease a Blob: An Intro to Job Locks](https://milescole.dev/data-engineering/2026/08/05/Why-you-might-lease-a-blob.html) - Miles Cole, August 2026
