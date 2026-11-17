@@ -212,6 +212,7 @@ Blogs to empower teams that are looking to transform the organization with Micro
 * [Fabric Certification and Career Hub - New Fabric Analytics Engineer Associate certification](https://blog.fabric.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub?ft=All)
 * [DP-600 Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/) & [Community Measuring Guide](https://www.serverlesssql.com/dp-600-fabric-analytics-engineer-skills-measured-guide/)
 * [DP-600 Exam Full Course (6+ hours) | Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
+* [DP-600 free study guide](https://skillmarked.com/study-guides/dp-600) & [DP-700 free study guide](https://skillmarked.com/study-guides/dp-700) - lessons for every skill area with practice scenarios and free 10-question mock tests
 
 ## Workshop
 * [Fabric Workshops and Readiness](https://github.com/microsoft/Fabric_Workshops)
