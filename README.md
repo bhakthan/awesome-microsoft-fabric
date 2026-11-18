@@ -5,6 +5,7 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
     - [Overview](#overview)
     - [Roadmap](#roadmap)
     - [Official Updates](#official-updates)
+    - [Microsoft Ignite 2026](#microsoft-ignite-2026)
     - [FabCon and SQLCon Europe 2026](#fabcon-and-sqlcon-europe-2026)
     - [GuidedTour](#guidedtour)
     - [Hack](#hack)
@@ -78,6 +79,10 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
 ## Official Updates
 * [What's New in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new) Authoritative rolling list of new and updated Fabric features
 * [What's New Archive](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new-archive) Historical Microsoft Fabric feature announcements
+* [Fabric November 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-november-2026-feature-summary/5414311) File ingestion with Materialized Lake Views, Fabric in Copilot Agent Builder, Dataflows Gen1 upgrade wizard GA and more
+* [Power BI November 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-november-2026-feature-summary/5414287)
+* [Fabric Influencers Spotlight October 2026](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-influencers-spotlight-october-2026/5420043) 46 community posts, videos and tutorials
+* [Power BI October 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-october-2026-feature-summary/5374650) Gantt visual, custom visuals in the Report Authoring skill and more
 * [Fabric September 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-september-2026-feature-summary/5325825) SQL query editor GA, networking policies Admin API, ODBC to ADBC and more
 * [Power BI September 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-september-2026-feature-summary/5325831)
 * [Fabric August 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-august-2026-feature-summary/5325824) Fabric Runtime 2.0 GA, BigQuery mirroring GA, data agent routing GA and more
@@ -89,10 +94,30 @@ A curated **unofficial** list of awesome Microsoft Fabric resources, updates,  b
 * [Fabric June 2026 Feature Summary](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690) GPU-accelerated Data Warehouse, Data Agent enhancements, OneLake storage tiers and more
 * [Fabric April 2026 Feature Summary](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490) Fabric Local MCP, tabbed multitasking, cross-workspace MLflow and more
 
+## Microsoft Ignite 2026
+*Fabric, database and IQ announcements from Microsoft Ignite, November 2026*
+
+### Keynote Roundups
+* [Microsoft Ignite 2026 - What's New in Azure, the Platform Purpose-Built for AI](https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/) Microsoft IQ, Fabric apps GA, Fabric HorizonDB, Database Hub GA, Copilot Credits for Fabric
+* [Introducing the New Microsoft IQ](https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/) Enterprise context platform unifying Work IQ, Fabric IQ, Foundry IQ and Web IQ
+* [Microsoft Ignite 2026 Book of News](https://news.microsoft.com/events/ignite/2026/book-of-news/) Full list of announcements, including the Data and IQ chapters
+* [Microsoft Fabric is Fueling Frontier Transformation](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/microsoft-fabric-is-fueling-frontier-transformation/5422989) Fabric's Ignite overview and sessions to watch
+
+### Workload Deep Dives
+* [Bringing Trusted Fabric IQ Context to Wherever People and Agents Work](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/bringing-trusted-fabric-iq-context-to-wherever-people-and-agents-work/5423049) Fabric IQ in Copilot, Excel, ChatGPT, Claude and GitHub Copilot; Fabric IQ MCP GA; semantic views
+* [OneLake - The Unified Foundation for Data, Context, Governance and AI](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/onelake-the-unified-foundation-for-data-context-governance-and-ai/5423035) IQ sharing, Atlan partnership, catalog federation GA, OneLake Table API credential vending GA
+* [Build and Operate Intelligent Apps with Microsoft Fabric](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-and-operate-intelligent-apps-with-microsoft-fabric-new-capabilities-at-ign/5423020) Fabric apps, Fabric HorizonDB and Database Hub
+* [Build Governed Data Apps with Microsoft Fabric Apps (GA)](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-governed-data-apps-with-microsoft-fabric-apps-generally-available/5423011) Rayfin-based apps defined in code on trusted Fabric data
+* [What's New in Databases at Microsoft Ignite 2026](https://techcommunity.microsoft.com/blog/AzureSQLBlog/whats-new-in-databases-at-microsoft-ignite-2026-ai-ready-data-for-apps-and-agent/4570764) Azure HorizonDB GA, serverless Fabric HorizonDB and mirroring into Fabric
+* [Fabric Data Warehouse at Ignite - Built for AI-Era Analytics](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/fabric-data-warehouse-at-ignite-built-for-ai-era-analytics/5414274) Agentic query scale, SQL analytics endpoint metadata sync, workload controls, migration tooling
+* [Run Proactive Operations with Real-Time Intelligence](https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/run-proactive-operations-with-real-time-intelligence-in-microsoft-fabric/5414256) Event Hubs shortcuts, Eventhouse CMK and OAP GA, Operations Agent observability GA
+* [Power BI at Ignite - Building on the Momentum](https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-at-ignite-building-on-the-momentum/5422974) Power BI Desktop for Apps and semantic views on Apache Ossie
+
 ## FabCon and SQLCon Europe 2026
 *Announcements from the European Microsoft Fabric + SQL Community Conference, Barcelona, 28 September - 1 October 2026*
 
 ### Keynote Roundups
+* [Highlights from FabCon and SQLCon Europe 2026](https://www.microsoft.com/en-us/microsoft-fabric/blog/2026/10/08/highlights-from-fabcon-and-sqlcon-europe-2026-unlocking-what-only-your-business-knows/) Post-event recap on the Microsoft Fabric Blog
 * [FabCon and SQLCon 2026 in Barcelona - Building the Data Foundation for Copilot and Agents](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/) The canonical announcement roundup from Arun Ulag
 * [New Microsoft Data Innovations Unlock What Only Your Business Knows](https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/) Official Microsoft Blog keynote summary
 * [SQLCon Barcelona 2026 - Advancing SQL with Greater Control, Scale and Intelligence](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sqlcon-barcelona-2026-advancing-sql-with-greater-control-scale-and-intelligence/)
